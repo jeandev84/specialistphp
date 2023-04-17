@@ -2,7 +2,7 @@
 
 // Создание функции
 // drawMenu() рисует меню вертикально или горизонтально
-function drawMenu($items, $vertical=true) {
+function drawMenu(array $items, bool $vertical=true) {
     $style = "";
     if (!$vertical) {
         $style = " style='display:inline;margin-right:15px;'";
