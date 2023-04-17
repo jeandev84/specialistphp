@@ -1,0 +1,24 @@
+Серввер Apache
+- http://httpd.apache.org
+
+Сервер Microsoft IIS
+- http://www.iis.net
+
+Сборка Денвер
+- http://www.denwer.ru
+
+Сборка XAMPP
+- http://www.apachefriends.org/ru/xampp.html
+
+Сборка Wamp Server
+- http://www.wampserver.com
+
+Сборка EasyPHP
+- http://www.easyphp.org
+
+Сборка Open Server
+http://open-server.ru
+
+
+КУРС ВЕБ-МАСТЕР:
+настройки сервера Apache, NGINX ...

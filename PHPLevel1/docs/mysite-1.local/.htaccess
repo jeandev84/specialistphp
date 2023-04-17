@@ -1,0 +1,23 @@
+# Options Indexes
+# DirectoryIndex index.html
+
+# Options Indexes - показазывет содержимое директории папку "mysite.local",
+# если например не находит DirectoryIndex index.html (у нас нет файла index.html)
+# что есть не безопасно показать содержимое файлов
+
+# если пимем Options -Indexes это очначает что если например Apache не нашел index.html тогда выдаст ошибку 403
+# 403 -  Access forbidden (это запришено)
+
+# DirectoryIndex - определяет какой файл он должен запустить, то есть файл по умолчанию который сервер должен запустить
+# Если пишем DirectoryIndex about.php значит сервер будет запустить страничку about.php
+
+# Правильно будет следущий
+# Файл index.php существует и если не находить файл index.php будет показывать ошибку Access forbidden (Error 403)
+
+# Настройки сервера Apache
+Options -Indexes
+DirectoryIndex index.php
+
+# Настройки PHP
+# short_open_tag включен чтобы смогли использовать короткие теги php
+php_flag short_open_tag on
