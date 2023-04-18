@@ -1,6 +1,22 @@
 <?php
+
+/**
+ * @param $data
+ * @return int
+*/
+function clearInt($data) {
+    return (int)$data;
+}
+
 $output = "";
 
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    $n1 = clearInt($_POST['num1']);
+    $n2 = clearInt($_POST['num2']);
+    $op = $_POST['operator'];
+
+
+}
 ?>
 
 <div class="mb-3">

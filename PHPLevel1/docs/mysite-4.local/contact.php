@@ -59,7 +59,7 @@ $size = 250;
    <form action="contact.php" method="POST">
         <div>
             <label for="">Тема письма:</label>
-            <input type="text" name="theme">
+            <textarea name="theme" cols="30" rows="10" class="form-control"></textarea>
         </div>
        <div>
            <label for="">Содержание:</label>

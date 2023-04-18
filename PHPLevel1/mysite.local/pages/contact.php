@@ -30,7 +30,7 @@ if($size = ini_get("post_max_size")) {
     </div>
     <div class="mb-3">
         <label>Содержание:
-            <input type="text" name="theme" class="form-control">
+            <textarea name="theme" cols="30" rows="10" class="form-control"></textarea>
         </label>
     </div>
     <input type="submit" value="Отправить" class="btn btn-success">

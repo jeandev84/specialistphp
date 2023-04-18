@@ -60,7 +60,7 @@ endswitch;
         </div>
        <div>
            <label for="">Содержание:</label>
-           <input type="text" name="theme">
+           <textarea name="theme" cols="30" rows="10" class="form-control"></textarea>
        </div>
        <input type="submit" value="Отправить">
    </form>
