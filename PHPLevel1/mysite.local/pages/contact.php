@@ -22,15 +22,17 @@ if($size = ini_get("post_max_size")) {
 <h3>Адрес</h3>
 <p>123456 Москва, Малый Американский переулок 21</p>
 <h3>Задайте вопрос</h3>
-<form action="" method="POST">
-    <div>
-        <label for="">Тема письма:</label>
-        <input type="text" name="theme">
+<form action="" method="POST" class="mb-3">
+    <div class="mb-3">
+        <label>Тема письма:
+            <input type="text" name="theme" class="form-control">
+        </label>
     </div>
-    <div>
-        <label for="">Содержание:</label>
-        <input type="text" name="theme">
+    <div class="mb-3">
+        <label>Содержание:
+            <input type="text" name="theme" class="form-control">
+        </label>
     </div>
-    <input type="submit" value="Отправить">
+    <input type="submit" value="Отправить" class="btn btn-success">
 </form>
 <p>Максимальный размер отправляемых данных <span style="color: red;"><?= $size ?></span></p>

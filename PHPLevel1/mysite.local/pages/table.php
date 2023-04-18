@@ -11,25 +11,27 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 }
 ?>
 <!-- Область основного контента -->
-<form action="?page=table" method="POST">
-    <div>
+<form action="?page=table" method="POST" class="mb-4">
+    <div class="mb-3">
         <label for="">Количество колонок:
-            <input type="text" name="cols" value="">
+            <input type="text" name="cols" value="" class="form-control">
         </label>
     </div>
-    <div>
+    <div class="mb-3">
         <label for="">Количество строк:
-            <input type="text" name="rows" value="">
+            <input type="text" name="rows" value="" class="form-control">
         </label>
     </div>
-    <div>
+    <div class="mb-3">
         <label for="">Цвет:
-            <input type="text" name="color" value="">
+            <input type="text" name="color" value="" class="form-control">
         </label>
     </div>
-    <input type="submit" value="Создать">
+    <input type="submit" value="Создать" class="btn btn-success">
 </form>
 
 <!-- Таблица -->
-<?php drawTable($cols, $rows, $color); ?>
+<div class="mb-3">
+    <?php drawTable($cols, $rows, $color); ?>
+</div>
 <!-- Таблица -->

@@ -46,43 +46,48 @@ switch($page) {
     <!-- Верхняя часть страницы -->
 </div>
 
-<div id="container content">
-    <!-- Заголовок -->
-    <h1><?= $header ?></h1>
-    <!-- Заголовок -->
-      <!-- Область основного контента -->
-     <?php
-        switch($page) {
-            case 'about':
-                include 'pages/about.php';
-                break;
-            case 'contact':
-                include 'pages/contact.php';
-                break;
-            case 'table':
-                include 'pages/table.php';
-                break;
-            case 'calc':
-                include 'pages/calc.php';
-                break;
-            default:
-                include 'pages/index.inc.php';
-        }
-    ?>
+<div class="container">
 
-    <!-- Область основного контента -->
+    <div class="row">
+        <div class="col-md-4">
+            <!-- Навигация -->
+            <?php require "inc/menu.inc.php" ?>
+            <!-- Навигация -->
+        </div>
+        <div class="col-md-8">
+            <!-- Заголовок -->
+            <h1><?= $header ?></h1>
+            <!-- Заголовок -->
+            <!-- Область основного контента -->
+            <?php
+            switch($page) {
+                case 'about':
+                    include 'pages/about.php';
+                    break;
+                case 'contact':
+                    include 'pages/contact.php';
+                    break;
+                case 'table':
+                    include 'pages/table.php';
+                    break;
+                case 'calc':
+                    include 'pages/calc.php';
+                    break;
+                default:
+                    include 'pages/index.inc.php';
+            }
+            ?>
 
-   <div id="nav">
-        <!-- Навигация -->
-        <?php require "inc/menu.inc.php" ?>
-        <!-- Навигация -->
-   </div>
-   <div id="footer">
+            <!-- Область основного контента -->
+        </div>
+    </div>
+
+    <footer class="text-center">
         <!-- Нижняя часть страницы -->
         <?php drawMenu($leftMenu, false); ?>
         &copy; Супер Мега Веб-мастер, 2000 &ndash; <?= $year ?>
         <!-- Нижняя часть страницы -->
-   </div>
+    </footer>
 </body>
 
 </html>
