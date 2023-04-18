@@ -24,7 +24,7 @@ switch($page) {
         break;
     case 'calc':
         $title = 'Он-лайн калькулятор';
-        $header = 'Калькулятор';
+        $header = 'Калькулятор школьника';
         break;
 }
 
