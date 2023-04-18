@@ -1,6 +1,7 @@
 <?php
 // http://localhost:8000/demo/headers/cache-control/cache-on.php
-//header("Cache-Control: max-age=600");
+// Разрешаем кеширование браузера
+header("Cache-Control: max-age=600");
 // header("Expires: ". date("r", time() + 3600));
 ?>
 <!DOCTYPE html>
