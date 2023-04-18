@@ -1,12 +1,12 @@
 <?php
 
-$cols = 10;
-$rows = 10;
-$color = 'white';
+$cols  = 10;
+$rows  = 10;
+$color = 'yellow';
 
 if($_SERVER['REQUEST_METHOD'] == 'POST') {
-    $cols = abs((int) $_POST['cols']);
-    $rows = abs((int) $_POST['rows']);
+    $cols  = abs((int) $_POST['cols']);
+    $rows  = abs((int) $_POST['rows']);
     $color = trim(strip_tags($_POST['color']));
 }
 ?>

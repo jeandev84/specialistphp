@@ -104,7 +104,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 $cols  = ($cols) ? $cols : 10;
 $rows  = ($rows) ? $rows : 10;
-$color = ($color) ? $color : 'white';
+$color = ($color) ? $color : 'yellow';
 
 ?>
 
