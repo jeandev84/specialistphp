@@ -33,8 +33,8 @@ endif;
 // Меню нашего сайта
 $leftMenu = [
     ['link' => 'Домой', 'href' => 'index.php'],
-    ['link' => 'О нас', 'href' => 'index.php?page=about'],
-    ['link' => 'Контакты', 'href' => 'index.php?page=contact'],
-    ['link' => 'Талица умножения', 'href' => 'index.php?page=table'],
-    ['link' => 'Калькулятор', 'href' => 'index.php?page=calc'],
+    ['link' => 'О нас', 'href' => 'about.php'],
+    ['link' => 'Контакты', 'href' => 'contact.php'],
+    ['link' => 'Талица умножения', 'href' => 'table.php'],
+    ['link' => 'Калькулятор', 'href' => 'calc.php'],
 ];

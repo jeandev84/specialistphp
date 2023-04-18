@@ -6,7 +6,8 @@
 
 $size = ini_get("post_max_size"); // строковое значение
 
-// Перечисление значения post_max_size которые могут быть приходя из любого компьютера
+//
+//// Перечисление значения post_max_size которые могут быть приходя из любого компьютера
 /*
 8М     (Мегабайт) 8m
 250K   (Килобайт) 250k
@@ -18,7 +19,6 @@ $size = ini_get("post_max_size"); // строковое значение
 // если $size = '250M'; мы ищем букву 'M'
 $letter = $size{strlen($size) - 1}; // в нашем случае будет "M"
 // $letter = $size[strlen($size) - 1]; // в нашем случае будет "M"
-
 
 // Превращаем значение на число
 $size = (int)$size;
@@ -40,6 +40,7 @@ $size = 250;
 <head>
     <title>Контакты</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>

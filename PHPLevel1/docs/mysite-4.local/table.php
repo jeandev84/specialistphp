@@ -6,6 +6,7 @@ require "inc/lib.inc.php";
 <head>
     <title>Таблица умножения</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
