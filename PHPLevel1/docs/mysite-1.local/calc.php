@@ -14,20 +14,33 @@
     <!-- Верхняя часть страницы -->
 </div>
 
-<div id="content">
-    <h2>Калькулятор школьника</h2>
-    <form action="calc.php" method="POST">
-        <div>
-            <label for="">Число 1:</label>
-            <input type="text" name="numberOne">
-        </div>
-        <div>
-            <label for="">Число 2:</label>
-            <input type="text" name="numberTwo">
-        </div>
-        <input type="submit" value="Считать">
-    </form>
-</div>
+<form action='' method="POST">
+    <div>
+        <label>Число 1:
+            <input type="text" name="num1" value="">
+        </label>
+    </div>
+    <div>
+        <!-- +-*/^ -->
+        <label for="">Оператор:
+            <input type="text" name="operator">
+            <!--
+            <select name="operator" id="">
+                <option value="+">Сумма</option>
+                <option value="-">Вычитание</option>
+                <option value="*">Умножение</option>
+                <option value="/">Деление</option>
+            </select>
+            -->
+        </label>
+    </div>
+    <div>
+        <label>Число 2:
+            <input type="text" name="num2">
+        </label>
+    </div>
+    <input type="submit" value="Считать">
+</form>
 <div id="nav">
     <!-- Меню -->
     <!-- Навигация -->
