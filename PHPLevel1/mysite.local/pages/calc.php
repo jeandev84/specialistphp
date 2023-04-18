@@ -17,9 +17,31 @@ function clearStr($data) {
    return trim(strip_tags($data));
 }
 
+
+function calculate($n1, $n2, $op) {
+
+    switch ($op):
+        case "+": $result =  $n1 + $n2; break;
+        case "-": $result =  $n1 - $n2; break;
+        case "*": $result =  $n1 * $n2; break;
+        case "/":
+            if ($n2 == 0) {
+                exit("Деление на 0 запрещено!");
+            } else {
+                $result = $n1 / $n2;
+            }
+            break;
+        default: exit("Неизвестный оператор!");
+    endswitch;
+
+    return $result;
+}
+
+
 $output = "";
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+
     $n1 = clearInt($_POST['num1']);
     $n2 = clearInt($_POST['num2']);
     $op = clearStr($_POST['operator']);
