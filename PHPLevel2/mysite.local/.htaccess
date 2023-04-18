@@ -17,7 +17,4 @@
 # Настройки сервера Apache
 Options -Indexes
 DirectoryIndex index.php
-
-# Настройки PHP
-# short_open_tag включен чтобы смогли использовать короткие теги php
-php_flag short_open_tag on
+AddDefaultCharset utf-8

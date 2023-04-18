@@ -1,5 +1,6 @@
 <?php
 include "inc/headers.inc.php";
+include "inc/cookie.inc.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -30,30 +31,20 @@ include "inc/headers.inc.php";
         <div class="col-md-8">
             <!-- Заголовок -->
             <h1><?= $header ?></h1>
+            <blockquote>
+            <?php
+                if ($visitCounter == 1) {
+                    echo "Спасибо, что зашли на огонек";
+                } else {
+                    echo "Вы зашли к нам ($visitCounter) раз<br>";
+                    echo "Последнее посещение: $lastVisit.";
+                }
+            ?>
+            </blockquote>
             <!-- Заголовок -->
             <!-- Область основного контента -->
             <?php
-            switch($page) {
-                case 'contact':
-                    include 'pages/contact.inc.php';
-                    break;
-                case 'about':
-                    include 'pages/about.inc.php';
-                    break;
-                case 'infos':
-                    include 'pages/infos.inc.php';
-                    break;
-                case 'online-test':
-                    include 'pages/online-test.inc.php';
-                    break;
-                case 'guest-book':
-                   include 'pages/guest-book.inc.php';
-                    break;
-                case 'eshop':
-                    include 'pages/eshop.inc.php';
-                    break;
-                default: include 'pages/index.inc.php';
-            }
+               include "inc/routing.inc.php";
             ?>
 
             <!-- Область основного контента -->
