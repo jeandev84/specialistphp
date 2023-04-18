@@ -1,60 +1,9 @@
 <?php
 
-// Создание функции
-// drawMenu() рисует меню вертикально или горизонтально
-function drawMenu(array $items, bool $vertical=true) {
-    $style = "";
-    if (!$vertical) {
-        $style = " style='display:inline;margin-right:15px;'";
-    }
-    echo "<ul>";
-    foreach ($items as $item) {
-        echo "<li$style>";
-        echo "<a href='$item[href]'>{$item['link']}</a>";
-        echo "</li>";
-    }
-    echo "</ul>";
-}
-
-
-// Включаем вывод ошибок
-// https://htmlweb.ru/html/symbols.php
-// Установка локали и выбор значений даты
-/*
-setlocale(LC_ALL, "ru-ru");
-setlocale(LC_ALL, "ru-RU");
-*/
-setlocale(LC_ALL, "russian");
-
-
-// Объявление переменные
-$day   = strftime('%d');
-$month = strftime('%B');
-$month = iconv("windows-1251", "UTF-8", $month);
-$year  = strftime('%Y');
-
-
-// Приветствуем пользователю относительно текущего времени
-$hour    = (int)strftime('%H');
-$welcome = "Доброй ночи";
-
-if ($hour >= 6 && $hour < 12):
-    $welcome = "Доброе утро";
-elseif ($hour >= 12 && $hour < 18):
-    $welcome = "Добрый день";
-elseif ($hour >= 18 && $hour < 23):
-    $welcome = "Добрый вечер";
-endif;
-
-
-// Меню нашего сайта
-$leftMenu = [
-    ['link' => 'Домой', 'href' => 'index.php'],
-    ['link' => 'О нас', 'href' => 'about.php'],
-    ['link' => 'Контакты', 'href' => 'contact.php'],
-    ['link' => 'Талица умножения', 'href' => 'table.php'],
-    ['link' => 'Калькулятор', 'href' => 'calc.php'],
-];
+// error_reporting(0);
+require "inc/lib.inc.php";
+set_error_handler("errorHandler");
+require "inc/data.inc.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -111,30 +60,8 @@ $leftMenu = [
    </div>
    <div id="nav">
         <!-- Навигация -->
-        <!-- Меню -->
-        <h2>Навигация по сайту</h2>
-        <?php
-           /*
-            echo "<ul>";
-            foreach ($leftMenu as $item) {
-                echo "<li>";
-                echo "<a href='${item["href"]}'>${item["link"]}</a>";
-                echo "</li>";
-            }
-            echo "</ul>"
-
-            echo "<ul>";
-            foreach ($leftMenu as $item) {
-                echo "<li>";
-                echo "<a href='$item[href]'>{$item['link']}</a>";
-                echo "</li>";
-            }
-            echo "</ul>"
-           */
-        ?>
-       <?php drawMenu($leftMenu) ?>
+        <?php require "inc/menu.inc.php" ?>
         <!-- Навигация -->
-        <!-- Меню -->
    </div>
    <div id="footer">
         <!-- Нижняя часть страницы -->

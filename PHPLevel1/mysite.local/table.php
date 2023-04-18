@@ -1,40 +1,5 @@
 <?php
-
-// СОЗДАНИЕ ТАБЛИЦЫ УМНОЖЕНИЯ
-/*
-# Количество столбцов
-$cols = rand(1, 10); // 10
-
-# Количество строк
-$rows = rand(1, 10); // 10
-
-# Устанавливаем Цвет таблицы
-$color = 'yellow';
-*/
-
-/**
- * @param $cols
- * @param $rows
- * @param $color
- * @return void
-*/
-function drawTable($cols = 10, $rows = 10, $color = "yellow") {
-    echo  "<table border='1' width='200'>";
-    for ($tr = 1; $tr <= $rows; $tr++) {
-        echo "<tr>";
-        for ($td = 1; $td <= $cols; $td++) {
-            # echo "<td>&nbsp;</td>";
-            if ($td == 1 or $tr == 1) {
-                echo "<th style='background:$color'>" . $td * $tr . "</th>";
-            } else {
-                echo "<td>" . $td * $tr . "</td>";
-            }
-        }
-        echo "</tr>";
-    }
-    echo "</table>";
-}
-
+require "inc/lib.inc.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">

@@ -1,3 +1,4 @@
+BEFORE
 <?php
 
 /*
@@ -13,3 +14,14 @@ echo date("d-m-Y", $timestamp);
 */
 
 // echo 1 + print 2; = 22
+
+// error_reporting(0);
+include "test.inc.php";
+require "test.inc.php";
+
+?>
+AFTER
+
+<?php
+
+require "test.inc.php";
