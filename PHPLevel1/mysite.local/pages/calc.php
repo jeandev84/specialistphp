@@ -8,24 +8,50 @@ function clearInt($data) {
     return (int)$data;
 }
 
+
+/**
+ * @param $data
+ * @return string
+*/
+function clearStr($data) {
+   return trim(strip_tags($data));
+}
+
 $output = "";
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $n1 = clearInt($_POST['num1']);
     $n2 = clearInt($_POST['num2']);
-    $op = $_POST['operator'];
+    $op = clearStr($_POST['operator']);
 
+    // TODO: Проверить поля
+    $output = "$n1 $op $n2 = ";
 
+    switch ($op):
+        case "+": $output .=  $n1 + $n2; break;
+        case "-": $output  .=  $n1 - $n2; break;
+        case "*": $output .=  $n1 * $n2; break;
+        case "/":
+            if ($n2 == 0) {
+                $output = "Деление на 0 запрещено!";
+            } else {
+                $output .= $n1 / $n2;
+            }
+        break;
+        default: $output = "Неизвестный оператор!";
+    endswitch;
 }
 ?>
 
+<hr>
 <div class="mb-3">
     <?php
       if ($output) {
-          echo "<h3>Результат: $output</h3>";
+          echo "<h4>Результат: $output</h4>";
       }
     ?>
 </div>
+<hr>
 
 <form action='' method="POST" class="mb-3">
     <div class="mb-3">
