@@ -56,13 +56,13 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <form action='' method="POST" class="mb-3">
     <div class="mb-3">
         <label>Число 1:
-            <input type="text" name="num1" value="" class="form-control">
+            <input type="text" name="num1" value="<?= $n1 ?>" class="form-control">
         </label>
     </div>
     <div class="mb-3">
         <!-- +-*/^ -->
         <label for="">Оператор:
-            <input type="text" name="operator" class="form-control">
+            <input type="text" name="operator" class="form-control" value="<?= $op ?>">
             <!--
             <select name="operator" id="">
                 <option value="+">Сумма</option>
@@ -75,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </div>
     <div class="mb-3">
         <label>Число 2:
-            <input type="text" name="num2" class="form-control">
+            <input type="text" name="num2" class="form-control" value="<?= $n2 ?>">
         </label>
     </div>
     <input type="submit" value="Считать" class="btn btn-success">
