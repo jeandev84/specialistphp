@@ -2,9 +2,9 @@
 
 $title   = 'Супер-мега сайт';
 $header  = "Добро пожаловать на наш сайт!";
-$page    = strtolower(strip_tags(trim($_GET['page'])));
+$id    = strtolower(strip_tags(trim($_GET['id'])));
 
-switch($page) {
+switch($id) {
     case 'contact':
         $title = 'Контакты';
         $header = 'Обратная связь';
@@ -13,7 +13,7 @@ switch($page) {
         $title  = 'О сайте';
         $header = 'О нашем сайте';
         break;
-    case 'infos':
+    case 'info':
         $title = 'Информация';
         $header = 'Информация';
         break;
@@ -21,9 +21,9 @@ switch($page) {
         $title = 'Он-лайн тест';
         $header = 'Он-лайн тест';
         break;
-    case 'guest-book':
+    case 'guestbook':
         $title = 'Гостевая книга';
-        $header = 'Гостевая книга';
+        $header = 'Наша гостевая книга';
         break;
     case 'eshop':
         $title = 'Магазин';

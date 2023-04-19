@@ -1,25 +1,26 @@
 <?php
 
-switch($page) {
+switch($id) {
     case 'contact':
-        include 'pages/contact.inc.php';
+        include PAGE_PATH . '/contact.inc.php';
         break;
     case 'about':
-        include 'pages/about.inc.php';
+        include PAGE_PATH . '/about.inc.php';
         break;
-    case 'infos':
-        include 'pages/infos.inc.php';
+    case 'info':
+        include PAGE_PATH . '/info.inc.php';
         break;
     case 'online-test':
-        include 'pages/online-test.inc.php';
+        include PAGE_PATH . '/online-test.inc.php';
         break;
-    case 'guest-book':
-        include 'pages/guest-book.inc.php';
+    case 'guestbook':
+        include PAGE_PATH . '/guestbook.inc.php';
         break;
     case 'eshop':
-        include 'pages/eshop.inc.php';
+        include PAGE_PATH . '/eshop.inc.php';
         break;
-    default: include 'pages/index.inc.php';
+    default:
+        include PAGE_PATH . '/index.inc.php';
 }
 
 ?>

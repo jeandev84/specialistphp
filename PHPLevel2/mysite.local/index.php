@@ -1,6 +1,9 @@
 <?php
 include "inc/headers.inc.php";
 include "inc/cookie.inc.php";
+const PAGE_PATH = __DIR__.'/inc';
+const PATH_LOG = "path.log";
+include "inc/log.inc.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
