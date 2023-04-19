@@ -1,4 +1,1 @@
-<?php
-
-
-?>
+<input type="hidden" name="q" value="<?= ++$q ?>">
