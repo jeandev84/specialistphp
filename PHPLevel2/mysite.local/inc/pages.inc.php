@@ -19,6 +19,9 @@ switch($id) {
     case 'eshop':
         include PAGE_PATH . '/eshop.inc.php';
         break;
+    case 'log':
+        include PAGE_PATH . '/view-log.inc.php';
+        break;
     default:
         include PAGE_PATH . '/index.inc.php';
 }

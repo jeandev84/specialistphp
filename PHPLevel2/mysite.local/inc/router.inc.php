@@ -29,4 +29,8 @@ switch($id) {
         $title = 'Магазин';
         $header = 'Магазин';
         break;
+    case 'log':
+        $title = 'Журнал посещений';
+        $header = 'Журнал посещений';
+        break;
 }

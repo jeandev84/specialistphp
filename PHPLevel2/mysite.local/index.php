@@ -47,7 +47,7 @@ include "inc/log.inc.php";
             <!-- Заголовок -->
             <!-- Область основного контента -->
             <?php
-               include "inc/routing.inc.php";
+               include __DIR__."/inc/pages.inc.php";
             ?>
 
             <!-- Область основного контента -->
