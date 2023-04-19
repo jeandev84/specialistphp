@@ -64,3 +64,9 @@ while (! feof($f)) {
 }
 fclose($f);
 print_r($bytes);
+
+
+
+$f = fopen("data.txt", "a");
+fputs($f, "\nLine six");
+fclose($f);
