@@ -1,0 +1,4 @@
+[04-Apr-2016 13:07:23 Europe/Moscow] PHP Warning:  mysqli_connect(): (HY000/1049): Unknown database 'test' in C:\Users\Public\php-2\server\domains\mysite.local\test.php on line 2
+[04-Apr-2016 13:07:23 Europe/Moscow] PHP Stack trace:
+[04-Apr-2016 13:07:23 Europe/Moscow] PHP   1. {main}() C:\Users\Public\php-2\server\domains\mysite.local\test.php:0
+[04-Apr-2016 13:07:23 Europe/Moscow] PHP   2. mysqli_connect('localhost', 'root', '', 'test') C:\Users\Public\php-2\server\domains\mysite.local\test.php:2

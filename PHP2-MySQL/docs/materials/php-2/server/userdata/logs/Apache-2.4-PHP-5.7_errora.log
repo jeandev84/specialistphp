@@ -1,0 +1,19 @@
+[Mon Apr 04 13:03:06.645041 2016] [ssl:warn] [pid 10936:tid 564] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:06.653044 2016] [ssl:warn] [pid 10936:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:06.658045 2016] [ssl:warn] [pid 10936:tid 564] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:07.642693 2016] [ssl:warn] [pid 10936:tid 564] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:07.648692 2016] [ssl:warn] [pid 10936:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:07.653193 2016] [ssl:warn] [pid 10936:tid 564] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+Failed loading c:/users/public/php-2/server/modules/php/PHP-5.6-5.7/ext/php_xdebug.dll
+[Mon Apr 04 13:03:07.759213 2016] [mpm_winnt:notice] [pid 10936:tid 564] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Mon Apr 04 13:03:07.759213 2016] [mpm_winnt:notice] [pid 10936:tid 564] AH00456: Apache Lounge VC14 Server built: Dec  3 2015 20:03:24
+[Mon Apr 04 13:03:07.759213 2016] [core:notice] [pid 10936:tid 564] AH00094: Command line: 'C:\\users\\public\\php-2\\server\\modules\\http\\Apache-2.4-PHP-5.7\\bin\\httpd.exe -d C:/Users/Public/php-2/server/modules/http/Apache-2.4-PHP-5.7 -f c:\\users\\public\\php-2\\server\\modules\\http\\Apache-2.4-PHP-5.7\\conf\\httpd.conf'
+[Mon Apr 04 13:03:07.785266 2016] [mpm_winnt:notice] [pid 10936:tid 564] AH00418: Parent: Created child process 12568
+[Mon Apr 04 13:03:10.834731 2016] [ssl:warn] [pid 12568:tid 488] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:10.839234 2016] [ssl:warn] [pid 12568:tid 488] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:10.841738 2016] [ssl:warn] [pid 12568:tid 488] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:11.332310 2016] [ssl:warn] [pid 12568:tid 488] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:11.335809 2016] [ssl:warn] [pid 12568:tid 488] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 04 13:03:11.339310 2016] [ssl:warn] [pid 12568:tid 488] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+Failed loading c:/users/public/php-2/server/modules/php/PHP-5.6-5.7/ext/php_xdebug.dll
+[Mon Apr 04 13:03:11.368805 2016] [mpm_winnt:notice] [pid 12568:tid 488] AH00354: Child: Starting 32 worker threads.
