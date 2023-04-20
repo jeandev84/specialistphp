@@ -1,0 +1,17 @@
+[Thu Mar 31 17:41:10.739980 2016] [ssl:warn] [pid 1572:tid 232] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:10.740980 2016] [ssl:warn] [pid 1572:tid 232] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:10.741980 2016] [ssl:warn] [pid 1572:tid 232] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:10.884988 2016] [ssl:warn] [pid 1572:tid 232] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:10.885988 2016] [ssl:warn] [pid 1572:tid 232] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:10.886988 2016] [ssl:warn] [pid 1572:tid 232] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:10.895989 2016] [mpm_winnt:notice] [pid 1572:tid 232] AH00455: Apache/2.4.17 (Win32) OpenSSL/1.0.2e configured -- resuming normal operations
+[Thu Mar 31 17:41:10.895989 2016] [mpm_winnt:notice] [pid 1572:tid 232] AH00456: Apache Lounge VC14 Server built: Dec  3 2015 20:03:24
+[Thu Mar 31 17:41:10.895989 2016] [core:notice] [pid 1572:tid 232] AH00094: Command line: 'C:\\users\\public\\php-4\\openserver\\modules\\http\\Apache-2.4-PHP-5.7\\bin\\httpd.exe -d C:/Users/Public/php-4/OpenServer/modules/http/Apache-2.4-PHP-5.7 -f c:\\users\\public\\php-4\\openserver\\modules\\http\\Apache-2.4-PHP-5.7\\conf\\httpd.conf'
+[Thu Mar 31 17:41:10.906990 2016] [mpm_winnt:notice] [pid 1572:tid 232] AH00418: Parent: Created child process 1508
+[Thu Mar 31 17:41:11.430019 2016] [ssl:warn] [pid 1508:tid 244] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:11.431019 2016] [ssl:warn] [pid 1508:tid 244] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:11.432020 2016] [ssl:warn] [pid 1508:tid 244] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:11.567027 2016] [ssl:warn] [pid 1508:tid 244] AH01909: mysite.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:11.567027 2016] [ssl:warn] [pid 1508:tid 244] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:11.568027 2016] [ssl:warn] [pid 1508:tid 244] AH01909: default:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 31 17:41:11.576028 2016] [mpm_winnt:notice] [pid 1508:tid 244] AH00354: Child: Starting 32 worker threads.

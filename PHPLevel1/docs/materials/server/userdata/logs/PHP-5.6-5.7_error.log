@@ -1,0 +1,21 @@
+[31-Mar-2016 17:50:23 Europe/Moscow] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\Public\php-4\OpenServer\domains\localhost\index.php on line 8
+[31-Mar-2016 15:01:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_mbstring.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 15:01:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_curl.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 15:01:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_fileinfo.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 15:01:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_mysqli.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 18:01:01 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function curl_init() in C:\Users\Public\php-4\OpenServer\domains\localhost\index.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Public\php-4\OpenServer\domains\localhost\index.php on line 4
+[31-Mar-2016 15:02:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_mbstring.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 15:02:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_curl.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 15:02:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_fileinfo.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
+[31-Mar-2016 15:02:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/users/public/php-4/openserver/modules/php/PHP-5.6-5.7/ext/php_mysqli.dll' - %1 не является приложением Win32.
+ in Unknown on line 0
