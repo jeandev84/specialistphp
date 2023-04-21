@@ -1,4 +1,5 @@
 <?php
+ob_start();
 include "inc/headers.inc.php";
 include "inc/cookie.inc.php";
 const PAGE_PATH = __DIR__.'/inc';
