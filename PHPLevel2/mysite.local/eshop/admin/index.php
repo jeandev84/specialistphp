@@ -1,6 +1,11 @@
-<?
+<?php
 require_once __DIR__."/secure/session.inc.php";
 require_once __DIR__."/secure/secure.inc.php";
+
+if(isset($_GET['logout'])){
+    logOut();
+}
+
 ?>
 <!DOCTYPE HTML>
 <html>

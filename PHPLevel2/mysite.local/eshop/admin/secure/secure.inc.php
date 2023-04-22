@@ -52,3 +52,11 @@ function userExists($login){
 }
 
 
+function logOut(){
+    session_destroy();
+    header('Location: /eshop/admin/secure/login.php');
+    exit;
+}
+
+
+
