@@ -6,12 +6,14 @@ class User
      public $login;
      public $password;
 
+     public static $countUsers = 0;
 
      public function __construct($name, $login, $password)
      {
          $this->name     = $name;
          $this->login    = $login;
          $this->password = $password;
+         ++self::$countUsers;
      }
 
      public function showInfo()
@@ -23,6 +25,12 @@ class User
      public function __destruct()
      {
          echo "Пользователь: {$this->login} удален";
+     }
+
+
+     public function __clone()
+     {
+         ++self::$countUsers;
      }
 }
 
@@ -42,11 +50,14 @@ $user3->showInfo();
 class SuperUser extends User
 {
      public $role;
+     public static $countSuperUsers = 0;
 
      public function __construct($name, $login, $password, $role)
      {
           parent::__construct($name, $login, $password);
           $this->role = $role;
+          ++self::$countSuperUsers;
+          --self::$countUsers;
      }
 
 
