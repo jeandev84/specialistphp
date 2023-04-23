@@ -1,6 +1,123 @@
 <?php
 
+class User
+{
 
+    private $name;
+    private $age;
+
+
+    private $props = [
+        "name" => "",
+        "age"  => 0
+    ];
+
+    public function __construct(int $age)
+    {
+        $this->props["age"] = $age;
+    }
+
+
+    /**
+     * @param mixed $name
+    */
+    public function setName($name)
+    {
+        $this->name = strtoupper($name);
+    }
+
+
+    /**
+     * @return mixed
+    */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+
+    /**
+     * @return int
+    */
+    public function getAge(): int
+    {
+        return $this->age;
+    }
+
+
+    public function __set($name, $value)
+    {
+         if (! isset($this->props[$name])) {
+             throw new Exception("Error!");
+         }
+
+         $this->props[$name] = $value;
+
+         /*
+         switch ($name):
+             case "name": $this->name = $value; break;
+             case "age": $this->age = $value; break;
+             default: throw new Exception("Error!");
+         endswitch;
+         */
+    }
+
+
+
+    public function __get($name)
+    {
+        if (! isset($this->props[$name])) {
+             throw new Exception("Error");
+        }
+
+        return $this->props[$name];
+
+        /*
+        switch ($name):
+            case "name": return $this->name; break;
+            case "age": return $this->age; break;
+            default: throw new Exception("Error!");
+        endswitch;
+        */
+    }
+}
+
+
+$u1 = new User(25);
+$u1->setName("john");
+$u1->password = "FOO!";
+echo $u1->name."\n";
+$u1->getSomething();
+
+
+
+/*
+class Math
+{
+     const PI = M_PI;
+
+     public static function pow($base, $exp)
+     {
+          return $base ** $exp;
+     }
+}
+
+
+echo Math::pow(2, 3). "\n";
+
+
+class Str
+{
+     public static function length($str)
+     {
+          return strlen($str);
+     }
+}
+
+*/
+
+
+/*
 class A
 {
     public static $counterA = 0;
@@ -42,7 +159,7 @@ $x = new B();
 
 echo "A objects: ". A::$counterA . "\n"; // 3
 echo "B objects: ". B::$counterB . "\n"; // 1
-
+*/
 
 
 
