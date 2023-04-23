@@ -80,14 +80,71 @@ class User
         endswitch;
         */
     }
+
+
+    public function __call($name, $arguments)
+    {
+        if (! method_exists($name, $arguments)) {
+             throw new Exception("Error");
+        }
+
+        call_user_func_array([$this, $name], [$arguments]);
+    }
+
+
+
+    public static function __callStatic($name, $arguments)
+    {
+        // TODO: Implement __callStatic() method.
+    }
+
+
+    public function __toString()
+    {
+         return join(",", array_values($this->props));
+    }
+
+
+    function toArray()
+    {
+        /*
+        $arr = [];
+        foreach ($this as $p => $v) {
+            $arr[$p] = $v;
+        }
+        return $arr;
+        */
+
+        return (array)$this;
+
+        /* return get_object_vars($this); */
+    }
 }
 
 
 $u1 = new User(25);
 $u1->setName("john");
-$u1->password = "FOO!";
-echo $u1->name."\n";
-$u1->getSomething();
+$u1->foo(1, 2, 3, 4, 5);
+echo $u1;
+print_r($u1->toArray());
+
+
+class Math
+{
+    public function __invoke($num, $action)
+    {
+        switch($action){
+            case '+': return $num + $num;
+            case '*': return $num - $num;
+            default: throw new Exception('Неизвестное свойство!');
+        }
+    }
+}
+
+$math = new Math();
+echo $math(1, '+');
+
+
 
 
 
