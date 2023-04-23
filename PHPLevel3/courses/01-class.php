@@ -14,15 +14,15 @@
 */
 
 // Описание класса
-class Pet
+class Animal
 {
     // тело класса
 }
 
 
 // Создание объекта, экземпляра класса
-$cat = new Pet();
-$dog = new Pet;
+$cat = new Animal();
+$dog = new Animal;
 
 
 // Проверим

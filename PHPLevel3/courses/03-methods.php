@@ -1,22 +1,35 @@
 <?php
 
 // МЕТОДЫ
-class Pet
+class Animal
 {
     // описание свойств
     public $type = "unknown";
     public $name;
 
     // Описание методов
-    public function say($w) {
-        echo "Object said $w";
+    public function say($word) {
+        // Доступ к свойству
+        echo "{$this->name} said $word";
+        // Доступ к методу
+        $this->drawLine();
+    }
+
+
+
+    /**
+     * @return void
+    */
+    public function drawLine()
+    {
+        echo "<hr>";
     }
 }
 
 
 // Создание объектов, экземпляров классов
-$cat = new Pet();
-$dog = new Pet();
+$cat = new Animal();
+$dog = new Animal();
 
 
 // Изменяем значения свойств

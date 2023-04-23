@@ -1,7 +1,7 @@
 <?php
 
 // Описание класса
-class Pet
+class Animal
 {
      // описание свойств
      public $type = "unknown";
@@ -10,8 +10,8 @@ class Pet
 
 
 // Создание объектов, экземпляров классов
-$cat = new Pet();
-$dog = new Pet();
+$cat = new Animal();
+$dog = new Animal();
 
 
 // Изменяем значения свойств
