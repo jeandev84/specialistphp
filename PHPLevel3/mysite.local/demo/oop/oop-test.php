@@ -1,6 +1,52 @@
 <?php
 
 
+class A
+{
+    public static $counterA = 0;
+
+    public function __construct()
+    {
+        ++self::$counterA;
+    }
+
+
+    // __clone() это конструктор при клонировании объекта
+    public function __clone()
+    {
+        ++self::$counterA;
+    }
+}
+
+
+class B extends A
+{
+     public static $counterB = 0;
+
+     public function __construct()
+     {
+          parent::__construct();
+          ++self::$counterB;
+          --parent::$counterA;
+     }
+}
+
+
+$a = new A();
+$b = new A();
+$c = new A();
+$d = clone $a;
+// print_r($d);
+$x = new B();
+//$y = new B();
+
+echo "A objects: ". A::$counterA . "\n"; // 3
+echo "B objects: ". B::$counterB . "\n"; // 1
+
+
+
+
+
 // Создание супер-класса
 /*
 class SimpleHouse
@@ -39,7 +85,7 @@ class SimpleHouse
 }
 */
 
-
+/*
 abstract class SimpleHouse
 {
 
@@ -95,6 +141,10 @@ class SuperHouse extends SimpleHouse
           return "foo\n";
       }
 }
+
+*/
+
+
 
 
 
