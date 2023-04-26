@@ -1,0 +1,15 @@
+// Создание запроса
+$xml_to_server = xmlrpc_encode_request("getStock", "b");
+
+
+// XML-RPC запрос и получение ответа
+$response = запрос_любым_способом_методом_POST("URL");
+
+// Декодирование ответа
+$result = xmlrpc_decode($response);
+
+
+if( xmlrpc_is_fault($result) )
+  echo $result["faultString"];
+else
+  echo $result;
