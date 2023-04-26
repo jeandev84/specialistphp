@@ -44,7 +44,7 @@ xml_set_element_handler($sax, "onStart", "onEnd");
 xml_set_character_data_handler($sax, "onText");
 
 ?>
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
   <title>Каталог</title>
