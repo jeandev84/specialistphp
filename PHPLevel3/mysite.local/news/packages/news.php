@@ -2,7 +2,7 @@
 
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
 	<title>Новостная лента</title>
 	<meta charset="utf-8" />
