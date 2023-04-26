@@ -18,7 +18,7 @@ abstract class Model
 {
 
     const ERR_PROPERTY = "Wrong property name.";
-    protected SQLite3 $_db;
+    protected SQLite3 $db;
     protected $database = 'data.db';
 
 
@@ -28,7 +28,7 @@ abstract class Model
             $this->database = $database;
         }
 
-        $this->_db = new SQLite3($this->database);
+        $this->db = new SQLite3($this->database);
 
         $this->migrate($this->schemas());
     }
@@ -64,13 +64,13 @@ abstract class Model
     */
     public function exec(string $sql): bool
     {
-        return $this->_db->exec($sql);
+        return $this->db->exec($sql);
     }
 
 
     public function __destruct()
     {
-        unset($this->_db);
+        unset($this->db);
     }
 
 
@@ -83,7 +83,7 @@ abstract class Model
     public function __get($name)
     {
         if ($name == "db") {
-            return $this->_db;
+            return $this->db;
         }
 
         throw new Exception(self::ERR_PROPERTY);
@@ -147,7 +147,7 @@ abstract class Model
             $sql[] = $this->orderBySQL($orderBy);
         }
 
-        $items = $this->_db->query(join(' ', $sql));
+        $items = $this->db->query(join(' ', $sql));
 
         /*
         if(! $data = $result->fetchArray(SQLITE3_ASSOC)) {
@@ -161,7 +161,7 @@ abstract class Model
              return [];
         }
 
-        return $this->fetchArray($items);
+        return $this->fetchToArray($items);
     }
 
 
@@ -172,7 +172,7 @@ abstract class Model
     */
     function delete($table, $id): bool
     {
-        return $this->_db->exec("DELETE FROM $table WHERE id = '$id'");
+        return $this->db->exec("DELETE FROM $table WHERE id = '$id'");
     }
 
 
@@ -180,7 +180,7 @@ abstract class Model
 
     public function escape($data)
     {
-        return $this->_db->escapeString(trim(strip_tags($data)));
+        return $this->db->escapeString(trim(strip_tags($data)));
     }
 
 
@@ -217,8 +217,7 @@ abstract class Model
 
 
 
-    // db2arr($data)
-    protected function fetchArray($data)
+    protected function fetchToArray($data)
     {
          $arr = [];
 

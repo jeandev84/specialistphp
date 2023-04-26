@@ -1,6 +1,11 @@
 <?php
 header("Content-Type: text/html;charset=utf-8");
 
+// $ php server.php
+/*
+Открываем браузер по ссылке "http://mysite.local" который по умолчанию в порте "80"
+*/
+
 // https://php.net/manual/en/function.fsockopen.php
 // Сокетное соединение
 // Создаем сокет (host+порт)
