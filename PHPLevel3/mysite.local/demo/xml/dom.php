@@ -1,16 +1,20 @@
 <?php 
 header( "Content-Type: text/html;charset=utf-8");
 
+// https://www.php.net/manual/ru/book.dom.php
 // Создание объекта, экземпляра класса DomDocument
 $dom = new DomDocument();
 $dom->load(__DIR__."/catalog.xml");
 $root = $dom->documentElement; // <catalog>
-// echo $root->textContent;
 
+/*
+echo $root->textContent;
 foreach ($root->childNodes as $book) {
-    echo $book->textContent ."<hr>";
+    if ($book->nodeType == 1) { // 1 = ELEMENT
+        echo $book->textContent ."<hr>"; // TEXT
+    }
 }
-
+*/
 
 ?>
 <!DOCTYPE html>
@@ -29,7 +33,18 @@ foreach ($root->childNodes as $book) {
       <th>Цена, руб</th>
     </tr>
     <?php 
-      //Парсинг 
+      //Парсинг
+      foreach ($root->childNodes as $book) {
+         if ($book->nodeType == 1) {
+             echo "<tr>";
+             foreach ($book->childNodes as $item) {
+                  if ($item->nodeType == 1) {
+                      echo "<td>{$item->textContent}</td>";
+                  }
+             }
+             echo "</tr>";
+         }
+      }
     ?>
   </table>
 </body>

@@ -2,6 +2,7 @@
 
 namespace Framework\Database\ORM;
 
+
 use Exception;
 use SQLite3;
 
@@ -107,7 +108,7 @@ abstract class Model
      * @param array $data
      * @return bool
      */
-    function insert(string $table, array $data)
+    function save(string $table, array $data)
     {
         $columns = array_keys($data);
         $values  = array_values($data);
@@ -116,8 +117,12 @@ abstract class Model
             implode(', ', $columns),
             "'". implode("', '", $values). "'"
         );
+
         return $this->exec($sql);
     }
+
+
+
 
 
     /**
@@ -222,6 +227,7 @@ abstract class Model
 
          return $arr;
     }
+
 
 
     /**
