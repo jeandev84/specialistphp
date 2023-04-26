@@ -1,5 +1,6 @@
 <?php
 
+# # php -S localhost:8000 -t public -d display_errors=1
 require_once __DIR__.'/../vendor/autoload.php';
 
 $bindings = require_once __DIR__.'/../config/app.php';
