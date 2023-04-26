@@ -13,6 +13,8 @@ function get_stock($method_name, $args, $extra) {
 
 /* Создаем XML-RPC сервер и регистрируем функцию */
 $server = xmlrpc_server_create();
+
+// при обращении к getStock будет вызван метод get_stock()
 xmlrpc_server_register_method($server, "getStock", "get_stock");
 
 // Принимаем запрос
