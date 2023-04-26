@@ -1,10 +1,22 @@
 <?php 
-  header( "Content-Type: text/html;charset=utf-8"); 
-?>
-<html>
+header( "Content-Type: text/html;charset=utf-8");
 
+// Создание объекта, экземпляра класса DomDocument
+$dom = new DomDocument();
+$dom->load(__DIR__."/catalog.xml");
+$root = $dom->documentElement; // <catalog>
+// echo $root->textContent;
+
+foreach ($root->childNodes as $book) {
+    echo $book->textContent ."<hr>";
+}
+
+
+?>
+<!DOCTYPE html>
+<html lang="ru">
 <head>
-  <title>Каталог</title>
+    <title>Каталог</title>
 </head>
 
 <body>
