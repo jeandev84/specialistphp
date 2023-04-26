@@ -1,27 +1,46 @@
 <?php
 // Описание функции Web-сервиса
-function getStock($id) {
-    $stock = array(
+// wsdl : WEB SERVER STRUCTURE LANGUAGE (stock.wsdl)
+
+class StockService
+{
+
+    public function getStock($id) {
+        $stock = [
             "1" => 100,
             "2" => 200,
             "3" => 300,
             "4" => 400,
             "5" => 500
-    );
+        ];
 
-    if (isset($stock[$id])) {
-      $quantity = $stock[$id];
-      return $quantity;
-    } else {
-      throw new SoapFault("Server", "Несуществующий id товара");
+        if (isset($stock[$id])) {
+            return $stock[$id];
+        } else {
+            // throw new SoapFault("Server", "Несуществующий id товара");
+            throw new SoapFault("Server", "Нет такой полки");
+        }
     }
 }
+
+
+
 // Отключение кэширования WSDL-документа
 ini_set("soap.wsdl_cache_enabled", "0");
+
+
 // Создание SOAP-сервер
-$server = new SoapServer("http://mysite.local/demo/soap/stock.wsdl");
+/* $server = new SoapServer("http://mysite.local/demo/soap/stock.wsdl"); */
+$server = new SoapServer("http://localhost:8000/demo/soap/stock.wsdl");
+
+
 // Добавить класс к серверу
-$server->addFunction("getStock");
+// $server->addFunction("getStock");
+$server->setClass(StockService::class);
+
+$funcs = ["getStock", "setStock"];
+$server->addFunction($funcs);
+
 // Запуск сервера
 $server->handle();
 ?>
