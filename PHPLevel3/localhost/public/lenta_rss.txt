@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://lenta.ru/images/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss"/>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/komitetdohodov/</guid>
+  <author>Марина Совина</author>
+  <title>Армения ответила на данные об ужесточении контроля санкций против России</title>
+  <link>https://lenta.ru/news/2023/04/26/komitetdohodov/</link>
+  <description>
+    <![CDATA[В Комитете государственных доходов Армении прокомментировали данные о требованиях Берлина к Еревану ужесточить контроль санкций против России. В заявлении, подписанном зампредседателя комитета Ашотом Мурадяном, говорится, что при импорте и экспорте товаров в Россию Армения руководствуется только правилами ЕАЭС.]]>
+  </description>
+  <pubDate>Thu, 27 Apr 2023 00:14:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/assets/webpack/images/lenta_og.04ceff52.png" type="image/png" length="14407"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/27/office/</guid>
+  <author>Марина Совина</author>
+  <title>В Киеве выразили сомнения в оценке Пентагона о поставках оружия Украине</title>
+  <link>https://lenta.ru/news/2023/04/27/office/</link>
+  <description>
+    <![CDATA[Советник главы офиса президента Украины Михаил Подоляк заявил, что Киев сомневается в оценке Пентагона о получении ВСУ более 98 процентов обещанного оружия от Запада. По его словам, украинской стороне «никогда не будет достаточно оружия». Подоляк подчеркнул, что Киев должен получать больше техники.]]>
+  </description>
+  <pubDate>Thu, 27 Apr 2023 00:04:59 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426235902897/pic_aaace7b7119b5d81d76448ec882d53af.jpg" type="image/jpeg" length="30402"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/27/strength_exercises/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>Эксперт рассказала о силовой тренировке для снижения веса и укрепления мышц</title>
+  <link>https://lenta.ru/news/2023/04/27/strength_exercises/</link>
+  <description>
+    <![CDATA[Фитнес-эксперт Роуз Макналти порекомендовала делать классические приседания, приседания с прыжком, выпады вперед до угла 90 градусов, ягодичный мост, отжимания и планку для снижения веса и укрепления мышц. Для похудения, по ее словам, подойдет также румынская становая тяга, жим гантелей от плеч и упражнение Dead Bug.]]>
+  </description>
+  <pubDate>Thu, 27 Apr 2023 00:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426234405038/pic_c7293872824ebc9b66656f832394cbd4.jpg" type="image/jpeg" length="9470"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/fominnnn/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Умер режиссер мультфильма «Про Веру и Анфису» Фомин</title>
+  <link>https://lenta.ru/news/2023/04/26/fominnnn/</link>
+  <description>
+    <![CDATA[В возрасте 84 лет умер режиссер-мультипликатор Валерий Фомин, автор анимационных проектов Свердловской киностудии. Об этом шеф-редактор «Союзмультфильма» Сергей Капков написал в своем Telegram-канале: «Умер Валерий Иванович Фомин — блистательный режиссер, прародитель свердловской анимации». ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:59:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/27/00/20230427000614537/pic_f6bc75201efc40fbb4d9371ff343690d.jpg" type="image/jpeg" length="23620"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/perekus/</guid>
+  <author>Марина Совина</author>
+  <title>Диетолог назвала полезные для здоровья перекусы</title>
+  <link>https://lenta.ru/news/2023/04/26/perekus/</link>
+  <description>
+    <![CDATA[Врач-диетолог медцентра «Проект Здоровье» Наталья Круглова назвала полезные для здоровья перекусы. По ее словам, офисным работникам особенно важно следить за питанием. «Это может быть совсем простой перекус, например стаканчик кефира, питьевого йогурта или какой-то фрукт, орешки, сухофрукты», — сказала она. <br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426235549520/pic_327d82cf3fb5e3f1b6d5bfebbfc39e12.jpg" type="image/jpeg" length="34587"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/erdoga/</guid>
+  <author>Марина Совина</author>
+  <title>Вице-президент Турции прокомментировал состояние Эрдогана</title>
+  <link>https://lenta.ru/news/2023/04/26/erdoga/</link>
+  <description>
+    <![CDATA[Вице-президент Турции Фуат Октай прокомментировал состояние президента страны Реджепа Тайипа Эрдогана после слухов о перенесенном инфаркте. По его словам, состояние турецкого лидера «очень хорошее». «Мы находимся в постоянном контакте. У него легкая простуда», —заверил Октай.<br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426234619350/pic_6391f24f96e13e5af4cba5c04efafad5.jpg" type="image/jpeg" length="26298"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/barbie/</guid>
+  <author>Марина Совина</author>
+  <title>Рестлер Джон Сина исполнил роль Кена-русалки в фильме «Барби»</title>
+  <link>https://lenta.ru/news/2023/04/26/barbie/</link>
+  <description>
+    <![CDATA[Рестлер Джон Сина исполнил роль Кена-русалки в фильме «Барби». Сина был представлен в составе звездного состава «Барби» на презентации Warner Bros. на CinemaCon. Премьера фильма состоится 21 июня 2023 года. Режиссером картины выступает Грета Гервиг, ранее работавшая над «Маленькими женщинами» и «Леди Берд».  ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426234654184/pic_c25cfe55ceee5496eb8781f49ab3b9c7.jpg" type="image/jpeg" length="15273"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/fsb_kadyrov/</guid>
+  <author>Марина Совина</author>
+  <title>Кадыров встретился с главой ФСБ</title>
+  <link>https://lenta.ru/news/2023/04/26/fsb_kadyrov/</link>
+  <description>
+    <![CDATA[Глава Чечни Рамзан Кадыров встретился с главой Федеральной службы безопасности (ФСБ) Александром Бортниковым. По его словам, на встрече обсуждалось взаимодействие региональных структур с федеральным ведомством в целях повышения их эффективности и результативности.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426234059882/pic_f55544a8212688ef7e13f7fc350832b5.jpg" type="image/jpeg" length="25844"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/interview/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Эрдоган отменил интервью четырем турецким телеканалам</title>
+  <link>https://lenta.ru/news/2023/04/26/interview/</link>
+  <description>
+    <![CDATA[Президент Турции Реджеп Тайип Эрдоган отменил запланированное на 27 апреля телевизионное интервью четырем турецким телеканалам. Об этом пишет газета BirGun. Президент Эрдоган почувствовал себя плохо во время прямого эфира, когда он давал интервью местным телеканалам 25 апреля.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426233450941/pic_af97472015603576e2a04c29360b6d40.jpg" type="image/jpeg" length="20781"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/popova/</guid>
+  <author>Марина Совина</author>
+  <title>Роспотребнадзор назвал число заболевших корью в России</title>
+  <link>https://lenta.ru/news/2023/04/26/popova/</link>
+  <description>
+    <![CDATA[Глава Роспотребнадзора Анна Попова заявила, что в России сейчас зарегистрировано свыше тысячи заболевших корью. Она отметила, что число контактировавших с заболевшими составляет 300 тысяч. «Потому что корь — очень заразная инфекция, и задача эпидемиолога — найти всех, кто мог оказаться в зоне риска», — сказала она.  ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426232819556/pic_4b42965b22d2875391468bb1511b166f.jpg" type="image/jpeg" length="23124"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ohotta/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Антонов сообщил о проводимой США политике охоты за россиянами</title>
+  <link>https://lenta.ru/news/2023/04/26/ohotta/</link>
+  <description>
+    <![CDATA[Посол России в Вашингтоне Анатолий Антонов заявил, США проводят политику охоты за россиянами по всему миру, сообщает РИА Новости. По словам Антонова, в застенках Соединенных Штатах таких содержится более 100 человек. Антонов уточнил, что с 2008 года под различными предлогами были экстрадированы в США 59 человек.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426232046730/pic_ba9dfbfa401b0843ae7617846ba0ecff.jpg" type="image/jpeg" length="13763"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/korea_nuclear/</guid>
+  <author>Марина Совина</author>
+  <title>Байден пообещал не размещать ядерное оружие на Корейском полуострове</title>
+  <link>https://lenta.ru/news/2023/04/26/korea_nuclear/</link>
+  <description>
+    <![CDATA[США не будут размещать свое ядерное оружие на Корейском полуострове, пообещал президент Джо Байден. «Мы не собираемся размещать ядерное оружие на полуострове, но будут проводиться визиты в порты, визиты ядерных подводных лодок», — заявил он на совместной пресс-конференции с лидером Южной Кореи Юн Сок Ёлем.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426231403230/pic_dd1591e92f225d0c87116136858e1fae.jpg" type="image/jpeg" length="26384"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/razvedka/</guid>
+  <author>Марина Совина</author>
+  <title>На Украине сообщили о невозможности наступления ВСУ из-за нехватки оружия</title>
+  <link>https://lenta.ru/news/2023/04/26/razvedka/</link>
+  <description>
+    <![CDATA[Бывший советник Леонида Кучмы Олег Соскин сообщил о невозможности наступления ВСУ из-за нехватки оружия, личного состава и ракет, бьющих на расстояние 150 километров. Об этом он заявил на своем YouTube-канале. По его словам, на Украине «все понимают, что ударная группировка должна быть минимум в 100 тысяч человек».]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426225752959/pic_49e37e3e0ab7eb3bc14a3dd1cebfb960.jpg" type="image/jpeg" length="17916"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/disney/</guid>
+  <author>Марина Совина</author>
+  <title>Disney подала иск к губернатору Флориды Рону Десантису</title>
+  <link>https://lenta.ru/news/2023/04/26/disney/</link>
+  <description>
+    <![CDATA[Walt Disney подала иск в суд к губернатору Флориды Рону Десантису. Десантиса обвиняют в том, что он пытается «превратить свою власть в оружие» против Disney и нарушает Первую поправку к Конституции США. Отмечается, что губернатором была организована кампания, которая направлена против ее бизнеса во Флориде. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 23:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/23/20230426230422944/pic_2a84e980d8bddfeb00565f789a1f3bb3.jpg" type="image/jpeg" length="14786"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/akkuyu/</guid>
+  <author>Марина Совина</author>
+  <title>Эрдоган примет участие в церемонии на АЭС «Аккую» по видеосвязи</title>
+  <link>https://lenta.ru/news/2023/04/26/akkuyu/</link>
+  <description>
+    <![CDATA[Представитель правящей в Турции Партии справедливости и развития заявил, что президент Реджеп Тайип Эрдоган примет участие в мероприятиях на АЭС «Аккую» в четверг, 27 апреля, по видеосвязи. Ранее член Совбеза Турции Чагры Эрхан опроверг слухи об инфаркте у президента Реджепа Тайипа Эрдогана.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426225311643/pic_0a43df625f80bfddd88dd3200e7af928.jpg" type="image/jpeg" length="25904"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/alaudinov/</guid>
+  <author>Марина Совина</author>
+  <title>Командир «Ахмата» назвал возможное контрнаступление ВСУ агонией Киева</title>
+  <link>https://lenta.ru/news/2023/04/26/alaudinov/</link>
+  <description>
+    <![CDATA[Помощник главы Чечни командир спецназа «Ахмат» Апти Алаудинов заявил, что возможное контрнаступление Вооруженных сил Украины (ВСУ) привет к поражению Киева. По его словам, после контрнаступления Украина потеряет весь «мужской потенциал» даже для обороны. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426225652484/pic_b6b595bca58bc5862086870f5b7ec5df.jpg" type="image/jpeg" length="31980"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/antonovvv/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Посол Антонов оценил мероприятия в ходе визита Лаврова в Нью-Йорк</title>
+  <link>https://lenta.ru/news/2023/04/26/antonovvv/</link>
+  <description>
+    <![CDATA[Посол России в Вашингтоне Анатолий Антонов заявил, что мероприятия в ходе визита главы МИД России Сергея Лаврова в Нью-Йорк прошли блестяще. Об этом сообщает РИА Новости. Глава МИД России прибыл в штаб-квартиру ООН в Нью-Йорке 24 апреля. На заседании Лавров напомнил о призывах Байдена бомбить Белград. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426224908959/pic_f100b20eaace597aa50ba0ce94d2ded6.jpg" type="image/jpeg" length="17388"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/newyorrk/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Антонов заявил о невозможности изоляции российской делегации в Нью-Йорке</title>
+  <link>https://lenta.ru/news/2023/04/26/newyorrk/</link>
+  <description>
+    <![CDATA[Посол России в Вашингтоне Анатолий Антонов заявил, что ни о какой изоляции российской делегации не может быть и речи. Об этом сообщает РИА Новости. По словам Антонова, власти Соединенных Штатов «хотели устроить холодную атмосферу Лаврову» в ходе визита его в Нью-Йорк.  ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426224005013/pic_6043e1585e5e441af846b375cdd597e8.jpg" type="image/jpeg" length="13259"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/taaaker/</guid>
+  <author>Марина Совина</author>
+  <title>Бывший ведущий Fox News рассказал о счастливой пенсии</title>
+  <link>https://lenta.ru/news/2023/04/26/taaaker/</link>
+  <description>
+    <![CDATA[Бывший ведущий американского телеканала Fox News Такер Карлсон заявил, что его «пенсия проходит отлично». Он в шутку отметил, что семь лет не ужинал с женой по вечерам в будние дни. О том, что Карлсон покинул канал, сообщалось 24 апреля. Причина его ухода не приводилась. Журналист известен критикой в адрес Джо Байдена.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426221210300/pic_3373695731a2488b0faaee883372b1d8.jpg" type="image/jpeg" length="33890"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/mutant_cow/</guid>
+  <author>Алиса Удовик</author>
+  <title>На ферме родился теленок-мутант с двумя головами и четырьмя глазами</title>
+  <link>https://lenta.ru/news/2023/04/26/mutant_cow/</link>
+  <description>
+    <![CDATA[На ферме 41-летнего Мэтью Хохейзела, жителя США, родился теленок-мутант. У животного было две головы, четыре глаза, два рта и два носа. Мужчина считает, что теленок умер при рождении из-за проблем со здоровьем. Фермер планирует обратиться к таксидермисту, чтобы сделать чучело из его головы.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426170246688/pic_7703a4ce090c5f81c9560a31760befbb.jpg" type="image/jpeg" length="30787"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ahmat/</guid>
+  <author>Марина Совина</author>
+  <title>Кадыров сообщил об отправке спецподразделения ОМОН «Ахмат-1» в зону СВО</title>
+  <link>https://lenta.ru/news/2023/04/26/ahmat/</link>
+  <description>
+    <![CDATA[Глава Чечни Рамзан Кадыров сообщил, что бойцы республиканского спецподразделения ОМОН «Ахмат-1» отправились в зону проведения специальной военной операции. Ранее многие из бойцов были задействованы в проведении спецоперации, участвовали в освобождении стратегических объектов и населенных пунктов Донбасса.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426221948477/pic_6ee515f922519206ad11d3805cb4fd05.jpg" type="image/jpeg" length="26108"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/coronavirus/</guid>
+  <author>Марина Совина</author>
+  <title>Роспотребнадзор назвал самый заразный штамм коронавируса</title>
+  <link>https://lenta.ru/news/2023/04/26/coronavirus/</link>
+  <description>
+    <![CDATA[Глава Роспотребнадзора Анна Попова сообщила, что новый подвариант коронавирусной инфекции «арктур» является самым заразным из всех существующих вариантов COVID-19. Она добавила, что подвариант «арктур» является «самым контагиозным, самым заразным из всех, приходившихся на нашу судьбу коронавирусов».  ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426222054887/pic_157307a6edeb86db9e790309a0c433b7.jpg" type="image/jpeg" length="17685"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/autokran/</guid>
+  <author>Юлия Мискевич</author>
+  <title>В российском городе автокран сбил девочку</title>
+  <link>https://lenta.ru/news/2023/04/26/autokran/</link>
+  <description>
+    <![CDATA[В Санкт-Петербурге автокран сбил 12-летнюю девочку. Кадры опубликовал Telegram-канал SHOT. Инцидент произошел вечером на проспекте Юрия Гагарина. Отмечается, что девочка перебегала дорогу по пешеходному переходу и попала под колеса автокрана. Она получила травму головы и была экстренно госпитализирована. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 22:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426221546701/pic_69818de5b7b88a8cf91ce0fc9db8a39f.jpeg" type="image/jpeg" length="22461"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/china/</guid>
+  <author>Марина Совина</author>
+  <title>Китай заявил о готовности сотрудничать с Украиной</title>
+  <link>https://lenta.ru/news/2023/04/26/china/</link>
+  <description>
+    <![CDATA[Председатель КНР Си Цзиньпин в ходе телефонного разговора с президентом Украины Владимиром Зеленским заявил, что ради взаимовыгодного двустороннего сотрудничества Пекин готов сотрудничать с Киевом. По его словам, желание китайской стороны развивать отношения с Украиной «последовательно и ясно». ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426220759181/pic_f390dfbfbcdf5b9bbdb8a98d82c32c84.jpg" type="image/jpeg" length="20532"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kkkorea/</guid>
+  <author>Марина Совина</author>
+  <title>США и Южная Корея согласовали механизм консультаций в случае атаки КНДР</title>
+  <link>https://lenta.ru/news/2023/04/26/kkkorea/</link>
+  <description>
+    <![CDATA[Южная Корея и США согласовали механизм двусторонних консультаций на случай нападения со стороны КНДР. Как заявил южнокорейский лидер Юн Сок Ель, Вашингтон обещал оперативно задействовать «всю силу альянса», включая атомное оружие. Об этом политик рассказал после встречи с американским коллегой Джо Байденом.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426214707168/pic_147f8ff0945cbb93a5bbb0382be98055.jpg" type="image/jpeg" length="7194"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/otvet_poland/</guid>
+  <author>Марина Совина</author>
+  <title>Песков пообещал Польше ответ после изъятия денег со счетов России</title>
+  <link>https://lenta.ru/news/2023/04/26/otvet_poland/</link>
+  <description>
+    <![CDATA[Варшаве стоит ждать ответа Москвы после решения прокуратуры изъять деньги со счетов посольства и торгового представительства России. Об этом заявил официальный представитель Кремля Дмитрий Песков. «Обязательно стоит», — пообещал он, отвечая на вопрос о том, нужно ли Польше ждать ответных мер со стороны России.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426215852039/pic_8c72325343c4529a6f032b44b838d3ec.jpg" type="image/jpeg" length="21614"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ibu/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>В США объявили о выходе из IBA из-за допуска россиян к турнирам</title>
+  <link>https://lenta.ru/news/2023/04/26/ibu/</link>
+  <description>
+    <![CDATA[Федерация бокса США (USA Boxing) объявила о выходе из состава Международной федерации бокса (IBA) из-за допуска российских и белорусских спортсменов к турнирам. В США также заявили о намерении вступить в альтернативную ассоциацию World Boxing. Ранее в IBA назвали эту организацию мошеннической.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426214948923/pic_d775ef2ec7df9890635a6e7afd222060.jpg" type="image/jpeg" length="16598"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/baidenkndr/</guid>
+  <author>Марина Совина</author>
+  <title>Байден пригрозил КНДР сменой режима</title>
+  <link>https://lenta.ru/news/2023/04/26/baidenkndr/</link>
+  <description>
+    <![CDATA[Президент США Джо Байден пригрозил КНДР «сменой режима» при попытке Пхеньяна нанести ядерный ударный удар по Соединенным Штатам или их союзникам. «Ядерный удар Северной Кореи в отношении США или их союзников и партнеров неприемлем и его результатом станет конец режима, мы предпримем это действие», — предупредил он.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/22/20230426220040188/pic_9e2545cb5361f77ee8c240d378d61695.jpg" type="image/jpeg" length="24646"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/erdogaan/</guid>
+  <author>Валентина Шварцман</author>
+  <title>Член Совбеза Турции ответил на слухи об инфаркте у Эрдогана</title>
+  <link>https://lenta.ru/news/2023/04/26/erdogaan/</link>
+  <description>
+    <![CDATA[Президент Турции Реджеп Тайип Эрдоган заболел желудочным гриппом из-за активных предвыборных мероприятий на открытом воздухе, а не перенес инфаркт. Так на слухи о здоровье турецкого лидера ответил Чагры Эрхан, член Совета безопасности и внешней политики при президенте Турции и ректор Университета Алтынбаш (Стамбул).]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426214130712/pic_2142f26d2c3b262c03f68050c5f0ce89.jpg" type="image/jpeg" length="19360"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/oruzhie/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Президент Южной Кореи заявил о намерениях США размещать оружие на полуострове</title>
+  <link>https://lenta.ru/news/2023/04/26/oruzhie/</link>
+  <description>
+    <![CDATA[Соединенные Штаты будут в «постоянном и рутинном» порядке размещать стратегические вооружения на Корейском полуострове. О намерениях властей заявил президент Южной Кореи Юн Сок Ель после встречи с американским главой Джо Байденом на совместной пресс-конференции в саду у Белого дома.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:38:36 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426213946306/pic_8d8edb386e9f1cf243d856379d5a966f.jpg" type="image/jpeg" length="22122"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/general/</guid>
+  <author>Марина Совина</author>
+  <title>Генерал НАТО сообщил о системе слежения за поставляемым Украине оружием</title>
+  <link>https://lenta.ru/news/2023/04/26/general/</link>
+  <description>
+    <![CDATA[Командующий объединенными силами НАТО в Европе генерал Кристофер Каволи заявил, что Вашингтон развернул на Украине систему слежения за поставляемым Западом оружием. По словам генерала, украинская сторона предоставила Соединенным Штатам доступ к своим сетям для мониторинга. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426213706317/pic_a78b08eb3074e9e9a07572708815d137.jpg" type="image/jpeg" length="31480"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zolotov/</guid>
+  <author>Марина Совина</author>
+  <title>Кадыров встретился с главой Росгвардии</title>
+  <link>https://lenta.ru/news/2023/04/26/zolotov/</link>
+  <description>
+    <![CDATA[Глава Чечни Рамзан Кадыров сообщил, что встретился с главой Росгвардии Виктором Золотовым.  «Обсудили ряд тем актуальной повестки, которые требовали решения и совета главы Росгвардии», — заявил глава Чечни. Кадыров отметил, что каждый разговор с Золотовым «всегда конструктивный, полезный и плодотворный».<br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:32:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426213152968/pic_25d7f22fe6409fad34ea73ffffea97b5.jpg" type="image/jpeg" length="26845"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/variant/</guid>
+  <author>Марина Совина</author>
+  <title>США заявили о поиске вариантов для дипломатического прорыва в отношениях с КНДР</title>
+  <link>https://lenta.ru/news/2023/04/26/variant/</link>
+  <description>
+    <![CDATA[Президент США Джо Байден заявил, что Вашингтон находится в поисках вариантов для «дипломатического прорыва» в отношениях с КНДР. Об этом политик рассказал по итогам переговоров с президентом Южной Кореи Юн Сок Елем. По словам Байдена, Штаты и Южная Корея привержены взятым на себя оборонным обязательствам.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426212607801/pic_fff932e581fae783610d59ad1dddb323.jpg" type="image/jpeg" length="23169"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/trevoga/</guid>
+  <author>Марина Совина</author>
+  <title>В трех областях Украины объявили воздушную тревогу</title>
+  <link>https://lenta.ru/news/2023/04/26/trevoga/</link>
+  <description>
+    <![CDATA[Воздушная тревога была объявлена в трех областях Украины вечером 26 апреля. Об этом свидетельствуют данные онлайн-карты украинского министерства цифровой трансформации. В частности, сигнал прозвучал в Харьковской, Полтавской и Днепропетровской областях страны, а также на подконтрольных Киеву территориях ДНР. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426212627296/pic_ea2f15ea206e05c683baf2d34f20cb4b.jpg" type="image/jpeg" length="37556"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/tennis/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>Украина потребовала отстранить от турниров имеющих контракты с ЦСКА теннисистов</title>
+  <link>https://lenta.ru/news/2023/04/26/tennis/</link>
+  <description>
+    <![CDATA[Федерация тенниса Украины призвала отстранить от международных турниров спортсменов, имеющих контракты с ЦСКА. Организация также прикрепила к своему обращению список теннисистов и тренеров, связанных с ЦСКА. В него вошли 12 человек, в том числе 13-я ракета мира Вероника Кудерметова.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426211802760/pic_1d7a39087cbf44181c97e09232d524ed.jpg" type="image/jpeg" length="38679"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kadyyyrov/</guid>
+  <author>Юлия Мискевич</author>
+  <title>Кадыров встретился с секретарем Совбеза Патрушевым</title>
+  <link>https://lenta.ru/news/2023/04/26/kadyyyrov/</link>
+  <description>
+    <![CDATA[Глава Чеченской Республики Рамзан Кадыров встретился с секретарем Совета безопасности Российской Федерации Николаем Патрушевым. Об этом он сообщил в своем Telegram-канале. Кадыров отметил, что «Николай Платонович обладает огромным опытом работы», поэтому встречи с ним для главы Чечни «особо ценны». <br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426211639305/pic_18cb77e2da3351a6692a9d08fbf00db7.jpeg" type="image/jpeg" length="28715"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/sovmestnoe/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Страны ЕС разошлись в вопросе совместной закупки боеприпасов для Украины</title>
+  <link>https://lenta.ru/news/2023/04/26/sovmestnoe/</link>
+  <description>
+    <![CDATA[Страны Европейского союза (ЕС) вновь разошлись в вопросе совместной закупки боеприпасов для Украины. Об этом сообщает польская радиостанция RMF FM со ссылкой на европейского дипломата. По словам источника, поставки боеприпасов из ЕС в Украину вызывают все большее смущение.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426204037520/pic_94dacefbd12b9b9470667f41fefcfe65.jpg" type="image/jpeg" length="38140"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/robbie_williams_ayda_field/</guid>
+  <author>Вера Владзиевская</author>
+  <title>49-летний Робби Уильямс признался в потере интереса к сексу</title>
+  <link>https://lenta.ru/news/2023/04/26/robbie_williams_ayda_field/</link>
+  <description>
+    <![CDATA[49-летний певец Робби Уильямс рассказал, что почти не занимается сексом с женой Айдой Филд. Супруги любят обниматься, но до интима дело доходит редко. Уильямс не скрывает, что его либидо упало после отказа от приема препарата для лечения депрессии. Однако это не мешает его семейному счастью.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/10/20230426103757635/pic_bc1c024d89287c4ffbf462b9875d4861.jpeg" type="image/jpeg" length="20973"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/109_year/</guid>
+  <author>Алиса Удовик</author>
+  <title>109-летний пожарный на пенсии поделился секретами долголетия</title>
+  <link>https://lenta.ru/news/2023/04/26/109_year/</link>
+  <description>
+    <![CDATA[В США долгожитель Винсент Дрансфилд отметил 109-летие и поделился секретами долгой жизни. По его словам, у него никогда не было серьезных заболеваний. Пенсионер живет один и не нуждается в помощи родственников: он до сих пор самостоятельно водит автомобиль и покупает продукты.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/11/20230426110336368/pic_714882babab77e82c25df247f08086e2.jpg" type="image/jpeg" length="25624"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/telegrambra/</guid>
+  <author>Олег Давыдов</author>
+  <title>В Бразилии приостановили работу Telegram из-за неонацистов</title>
+  <link>https://lenta.ru/news/2023/04/26/telegrambra/</link>
+  <description>
+    <![CDATA[Бразильский суд приостановил работу Telegram на территории страны из-за того, что мессенджер не передал местной полиции полные данные администраторов и участников местных неонацистских групп и каналов. Как уточняет издание G1, Telegram действительно поделился некоторыми сведениями, но они не включали номера телефонов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426205342689/pic_59284f1ede3a8c57e0d8be7b6dacd952.jpg" type="image/jpeg" length="12577"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/migrantsel/</guid>
+  <author>Екатерина Власова</author>
+  <title>В российском регионе мигрант развратил маленькую дочь знакомой</title>
+  <link>https://lenta.ru/news/2023/04/26/migrantsel/</link>
+  <description>
+    <![CDATA[В Зеленогорске задержали 55-летнего мигранта, развратившего 12-летнюю девочку. Школьница с 35-летней мамой пришла в полицейский участок и рассказала о произошедшем. 24 апреля друг ее матери приставал к ней и домогался. Выяснилось, что фигурант в одном из ресторанов в Репино. Его сразу же задержали. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/11/20230426111227752/pic_f09d7c437433f43ca439e1b06b81ae54.jpeg" type="image/jpeg" length="23779"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/bratsestra/</guid>
+  <author>Екатерина Власова</author>
+  <title>В российском регионе 16-летний подросток совратил 11-летнюю сестру</title>
+  <link>https://lenta.ru/news/2023/04/26/bratsestra/</link>
+  <description>
+    <![CDATA[В Тюменской области 16-летний подросток совратил 11-летнюю сестру, сообщает Telegram-канал SHOT. Девятиклассник, оставшись дома наедине с сестрой, когда родители уехали по делам, домогался ее. Она долгое время скрывала произошедшее, но потом рассказала матери. Женщина обратилась в полицию.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 21:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161615981/pic_f0127f32becca4fb3c3f92d14ece4123.jpeg" type="image/jpeg" length="30938"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/arenda_russia/</guid>
+  <author>Полина Кислицына</author>
+  <title>Названы курортные города России с наиболее подешевевшей арендой</title>
+  <link>https://lenta.ru/news/2023/04/26/arenda_russia/</link>
+  <description>
+    <![CDATA[Среди курортных городов России аренда квартир сильнее всего потеряла в цене в Ялте. Об этом «Ленте.ру» сообщили аналитики базы недвижимости Restate.ru. По данным экспертов, в Ялте по итогам 25 апреля текущего года по сравнению с предыдущим годом аренда жилья подешевела на 35 процентов, до 39,4 тысячи рублей в месяц.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:58:45 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426165229390/pic_6adede0089bd5c7c5de896f772af4616.jpeg" type="image/jpeg" length="30830"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/pylori/</guid>
+  <author>Елена Апазиди</author>
+  <title>В мире зафиксировали снижение распространенности Helicobacter pylori за 40 лет</title>
+  <link>https://lenta.ru/news/2023/04/26/pylori/</link>
+  <description>
+    <![CDATA[Международная исследовательская группа из Школы клинической медицины Гонконгского университета (HKUMed) и Медицинского колледжа Бейлора в США зафиксировала снижение распространенности Helicobacter pylori — бактерии, ассоциируемой с гастритом, в мире за последние 40 лет.<br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:54:09 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426162605256/pic_743ff60293208db1d302f50236161cef.jpg" type="image/jpeg" length="24910"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/dom_deshevle/</guid>
+  <author>Полина Кислицына</author>
+  <title>Москвичи охладели к покупке квартир в новостройках</title>
+  <link>https://lenta.ru/news/2023/04/26/dom_deshevle/</link>
+  <description>
+    <![CDATA[По итогам первого квартала 2023-го количество зарегистрированных сделок на первичном рынке недвижимости Новой Москвы оказалось на 43 процента ниже, чем в аналогичный период 2022-го. О том, что москвичи охладели к покупке новых квартир, сообщают аналитики компании «Метриум», исследование есть в распоряжении «Ленты.ру».]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:53:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426175459460/pic_b091f73d8131faf3052c9cb3ad97f024.jpeg" type="image/jpeg" length="35857"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/dita/</guid>
+  <author>Мария Винар</author>
+  <title>50-летняя Дита фон Тиз вышла в свет в прозрачном платье</title>
+  <link>https://lenta.ru/news/2023/04/26/dita/</link>
+  <description>
+    <![CDATA[Американская исполнительница шоу в стиле бурлеска Хизер Рене Свит, более известная как Дита фон Тиз, вышла в свет в откровенном наряде. 50-летняя фотомодель появилась на ужине у бассейна в Лос-Анджелесе. Звезда выбрала для мероприятия прозрачное платье голубого цвета, оформленное кружевами и корсетным верхом. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:51:53 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173225578/pic_59ad73c5e6cd2191920f278afb556dbf.jpeg" type="image/jpeg" length="28087"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/frg/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В ФРГ прокомментировали разговор Зеленского и Си Цзиньпина</title>
+  <link>https://lenta.ru/news/2023/04/26/frg/</link>
+  <description>
+    <![CDATA[В ФРГ заявили, что телефонный разговор президента Украины Владимира Зеленского и председателя КНР Си Цзиньпина является хорошим сигналом. По словам представителя кабмина ФРГ, Китай как постоянный член Совета Безопасности ООН несет особую ответственность за урегулирование украинского кризиса.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426210034304/pic_1740fdfe96664436054f80cd591aa9f3.jpg" type="image/jpeg" length="17846"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/privtstvie_usiliy/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В ЕС отреагировали на разговор Зеленского и Си Цзиньпина</title>
+  <link>https://lenta.ru/news/2023/04/26/privtstvie_usiliy/</link>
+  <description>
+    <![CDATA[Европейский союз приветствует телефонные переговоры президента Украины Владимира Зеленского и председателя КНР Си Цзиньпина, а также открытие каналов связи между двумя лидерами. Об этом заявил журналистам представитель ЕС. Он отметил, что важность подобных контактов обсуждалась на саммите ЕС — Украина.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/21/20230426210124354/pic_cfa62a39b9fad8ddd37081657c1ba44e.jpg" type="image/jpeg" length="16875"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/shtrafy/</guid>
+  <author>Нина Ташевская</author>
+  <title>Дачников предупредили о многотысячных штрафах за неправильную уборку травы</title>
+  <link>https://lenta.ru/news/2023/04/26/shtrafy/</link>
+  <description>
+    <![CDATA[За сжигание сухой травы на земельном участке россиян могут оштрафовать на сотни тысяч рублей. О возможном наказании за неправильную уборку территорий предупредил эколог, руководитель московской группы общественного мониторинга по вопросам экологии и защиты леса ОНФ Антон Хлынов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:46:21 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426162316011/pic_526ffeda5fc9325a92a577e5a82d78f8.jpg" type="image/jpeg" length="44105"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/pamyatninostr/</guid>
+  <author>Илона Палей</author>
+  <title>В российском регионе после сноса памятника ссыльным иностранцам начали проверку</title>
+  <link>https://lenta.ru/news/2023/04/26/pamyatninostr/</link>
+  <description>
+    <![CDATA[В Пермском крае сотрудники полиции начали проверку по факту сноса памятника литовцам и полякам, которые в период политических репрессий были сосланы на север региона. Мемориал установили семь лет назад на кладбище бывшего спецпоселения Галяшор. За его состоянием следили потомки репрессированных иностранцев.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426151638773/pic_ab9bb5c7a9f72528de059b19b938cc60.jpg" type="image/jpeg" length="21231"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/healthy/</guid>
+  <author>Александра Лисица</author>
+  <title>Диетолог перечислила напрасно считающиеся вредными продукты</title>
+  <link>https://lenta.ru/news/2023/04/26/healthy/</link>
+  <description>
+    <![CDATA[Россияне зря считают вредным целый ряд популярных продуктов, полагает диетолог Елена Соломатина. По ее словам, не надо отказываться от сала: его вполне можно есть по паре тонких кусочков в день. В небольшом количестве, добавила она, можно употреблять в пищу и сливочное масло или сметану.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/10/20230426103058474/pic_d5d6c043f87baa11e4dae424bfe891a8.jpg" type="image/jpeg" length="23074"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/dolshchiki/</guid>
+  <author>Полина Кислицына</author>
+  <title>В российском городе застройщик обманул дольщиков на сотни миллионов рублей</title>
+  <link>https://lenta.ru/news/2023/04/26/dolshchiki/</link>
+  <description>
+    <![CDATA[В Нижнем Новгороде застройщик при строительстве жилого дома обманул дольщиков на сотни миллионов рублей. По данным Следственного управления Следственного комитета по региону, за период с 2018 по 2020 годы ООО «ИнтерСити» заключило с дольщиками ряд договоров долевого участия для строительства многоквартирного дома.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426150551159/pic_a8dd35d2bcc40e8689db958ff0f199be.jpeg" type="image/jpeg" length="24608"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/aitechgiant/</guid>
+  <author>Влада Горячева</author>
+  <title>Техногиганты решили нарастить прибыль за счет искусственного интеллекта</title>
+  <link>https://lenta.ru/news/2023/04/26/aitechgiant/</link>
+  <description>
+    <![CDATA[Две ведущие технологические корпорации США — Microsoft и Alphabet — ожидают роста бизнеса от внедрения технологий искусственного интеллекта (ИИ), таких, как чат-боты. Обе фирмы во время отчета о своих финансовых результатах за квартал сообщили о планах более широкого использования ИИ.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426155948872/pic_655862ea075382439c59315e874137b4.jpg" type="image/jpeg" length="24398"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/antistress/</guid>
+  <author>Оксана Петина</author>
+  <title>Доктор посоветовал необычный способ борьбы со стрессом</title>
+  <link>https://lenta.ru/news/2023/04/26/antistress/</link>
+  <description>
+    <![CDATA[Ведущий программы «О самом главном» врач Сергей Агапкин рекомендовал в качестве борьбы со стрессом вести переписку с самими собой. Он посоветовал по четным дням записывать накопившиеся жалобы, а по нечетным отвечать себе на них от лица человека, у которого все хорошо, давать себе советы.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/12/20230426124414305/pic_0fa69c86f6a809df5b9cb77639eb62dd.jpg" type="image/jpeg" length="20976"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/grudotec/</guid>
+  <author>Екатерина Власова</author>
+  <title>Россиянин три раза вонзил нож в грудь родного отца во время застолья</title>
+  <link>https://lenta.ru/news/2023/04/26/grudotec/</link>
+  <description>
+    <![CDATA[В Тюменской области суд рассмотрит дело 31-летнего местного жителя, обвиняемого в убийство родного отца. Вечером 6 марта отец с сыном выпивали в доме на улице Северной в селе Малышенка Голышмановского городского округа. Во время застолья родственники поссорились, тогда фигурант стал избивать пожилого мужчину. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426151525553/pic_6eea80b54722577c9888c8bb17e73f37.jpg" type="image/jpeg" length="26388"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/terrorism_cyprus/</guid>
+  <author>Полина Матюхина</author>
+  <title>В России назвали терактом поджог здания РЦНК в Никосии</title>
+  <link>https://lenta.ru/news/2023/04/26/terrorism_cyprus/</link>
+  <description>
+    <![CDATA[Глава Россотрудничества Евгений Примаков назвал терактом поджог здания Российского центра науки и культуры (РЦНК) в столице Кипра Никосии. Он указал, что речь идет о нападении на гражданское здание, с целью не только нанести ущерб, но и запугать сотрудников и посетителей РЦНК.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426201353815/pic_eada9b3ade8d5f7c6ba81468c2a5af3f.jpg" type="image/jpeg" length="36623"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/draka/</guid>
+  <author>Никита Абрамов</author>
+  <title>Российский девятиклассник подрался с любовником матери и получил амнезию</title>
+  <link>https://lenta.ru/news/2023/04/26/draka/</link>
+  <description>
+    <![CDATA[В Тюменской области девятиклассник подрался с любовником своей матери и получил ретроградную амнезию. Об этом в среду, 26 апреля, сообщает Telegram-канал SHOT. По его данным, российский школьник узнал, что его мать изменяет отцу с другим мужчиной. Он решил разобраться в ситуации и отправился к любовнику матери.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426201756047/pic_b62ff1da488fe57140fa4f0408f943e8.jpg" type="image/jpeg" length="24751"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/cief/</guid>
+  <author>Ксения Курашкина</author>
+  <title>Семь россиян вошли в топ-200 самых перспективных молодых футболистов мира</title>
+  <link>https://lenta.ru/news/2023/04/26/cief/</link>
+  <description>
+    <![CDATA[Семь российских игроков вошли в число 200 самых перспективных молодых футболистов мира по версии Международного центра спортивных исследований. В список попали Сергей Пиняев, Арсен Захарян, Александр Коваленко, Даниил Худяков, Владислав Тороп, а также Виктор Мелехин и Андрей Лангович.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426201134456/pic_7017c8b8ab1d65380f713ebbc889ecb2.jpg" type="image/jpeg" length="21800"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/gold_heist/</guid>
+  <author>Антонина Черташ</author>
+  <title>Из аэропорта украли золотые слитки на 1,2 миллиарда рублей</title>
+  <link>https://lenta.ru/news/2023/04/26/gold_heist/</link>
+  <description>
+    <![CDATA[Одно из крупнейших ограблений произошло в Канаде. Из аэропорта Торонта украли золотые слитки на сумму около 15 миллионов долларов (1,2 миллиарда рублей). Преступники украли груз золота, предназначенный для одного из крупных банков, после его прибытия в международный аэропорт Пеарсон 17 апреля 2023 года. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/24/10/20230424105957424/pic_786cbb1506ccc1c3dd219515949f95dd.jpeg" type="image/jpeg" length="38783"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/electrocar/</guid>
+  <author>Нина Ташевская</author>
+  <title>Раскрыт масштаб всемирного перехода на электрокары</title>
+  <link>https://lenta.ru/news/2023/04/26/electrocar/</link>
+  <description>
+    <![CDATA[По итогам 2022 года продажи электромобилей во всем мире выросли на 55 процентов по сравнению с 2021-м. Масштабы перехода человечества на экологичный транспорт раскрыло Международное энергетическое агентство (МЭА) в своем обзоре. Больше всего электрокаров приобрели в Китае.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426150935391/pic_391a9fff12851561245dbf73f7ae80d2.jpg" type="image/jpeg" length="21112"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zelenski_ritter/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В США предрекли крах Зеленскому и его правительству до конца конфликта</title>
+  <link>https://lenta.ru/news/2023/04/26/zelenski_ritter/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский и его правительство потерпят крах до конца конфликта. Так экс-офицер разведки морской пехоты США Скотт Риттер отреагировал на вопрос о сохранении компаниями США подрядов на восстановление Украины после завершения боевых действий. По его словам, Москва разорвет все контракты Киева.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426201536070/pic_da65342bbc1cac5d034fe26883e1ab08.jpg" type="image/jpeg" length="23844"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/penssaderj/</guid>
+  <author>Екатерина Власова</author>
+  <title>80-летний россиянин развратил маленькую девочку и попал под следствие</title>
+  <link>https://lenta.ru/news/2023/04/26/penssaderj/</link>
+  <description>
+    <![CDATA[В Челябинской области задержали 80-летнего пенсионера за развращение 14-летней школьницы. Об этом в среду, 26 апреля, сообщает URA.RU. По данным издания, мужчина приставал к девочке и разделся на ее глазах. Сейчас решается вопрос о возбуждении дела по статье 135 («Развратные действия») УК РФ. <br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160313873/pic_f6e6a69e43b5fca48ecbed7076fbd690.jpg" type="image/jpeg" length="26819"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/bodyshaving/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Не брившая волосы на теле три года блогерша объяснила причины своего решения</title>
+  <link>https://lenta.ru/news/2023/04/26/bodyshaving/</link>
+  <description>
+    <![CDATA[Блогерша Калита (фамилия неизвестна), не брившая волосы на теле в течение трех лет, объяснила причины своего решения. По словам девушки, большинство пользователей сети обвиняет ее в неподобающем внешнем виде. В одном из последних видео Калита вновь продемонстрировала темные волосы в подмышечной области.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/11/20230426115617270/pic_ba3f663178a3bcedbff7dee23428d0a2.jpg" type="image/jpeg" length="21899"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zerno/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Еврокомиссия запретит экспорт украинского зерна в Румынию</title>
+  <link>https://lenta.ru/news/2023/04/26/zerno/</link>
+  <description>
+    <![CDATA[Европейская комиссия запретит экспорт украинского зерна и масличных культур в Румынию до 5 июня. Об этом в среду, 26 апреля, заявил министр сельского хозяйства Румынии Петре Дая. Уточняется, что решение вступит в силу, если будет отменен односторонний запрет на импорт со стороны Польши, Венгрии, Болгарии и Словакии.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426200413283/pic_8be13243051c97bbab3c2c62a94a5c4d.jpg" type="image/jpeg" length="29832"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/fakeorgasm/</guid>
+  <author>Наталья Обрядина</author>
+  <title>Раскрыты причины имитации оргазма женщинами</title>
+  <link>https://lenta.ru/news/2023/04/26/fakeorgasm/</link>
+  <description>
+    <![CDATA[Секс-коуч Елена Кондрашева перечислила две основные причины, по которым женщины имитируют оргазм. Самой распространенной причиной притворства в постели она назвала желание порадовать мужчину. Однако, по мнению эксперта, этим она оказывает себе и партнеру медвежью услугу.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/25/11/20230425110446953/pic_749ad88cb788d27d966829919e1726df.jpeg" type="image/jpeg" length="30567"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ross/</guid>
+  <author>Зарина Дзагоева</author>
+  <title>Раскрыты условия идеального отпуска в представлении россиян</title>
+  <link>https://lenta.ru/news/2023/04/26/ross/</link>
+  <description>
+    <![CDATA[Большинство россиян назвали отдых за 200 тысяч рублей в хорошем отеле идеальным путешествием. 20 процентов респондентов назвали приемлемыми расходы в 150-200 тысяч рублей. Маркетинговая платформа Calltouch провела опрос среди граждан и раскрыла условия желанного отпуска в их представлении.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426170742581/pic_22861cd9fc0628ba7ffef1e8429584c1.jpeg" type="image/jpeg" length="16907"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zeus/</guid>
+  <author>Даниил Иринин</author>
+  <title>«Роскосмос» захотел использовать «Зевс» в совместном с Китаем проекте</title>
+  <link>https://lenta.ru/news/2023/04/26/zeus/</link>
+  <description>
+    <![CDATA[Ядерный буксир «Зевс» будут использовать в совместном с Китаем проекте международной научной лунной станции, сообщил генеральный директор госкорпорации «Роскосмос» Юрий Борисов на просветительском марафоне «Знание. Первые». «Зевс» позволит доставлять крупногабаритные объекты.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426193625891/pic_4a7a2bcb57e8f788199c7898fa1b4223.jpg" type="image/jpeg" length="45156"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/perebroska/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В Запорожской области заявили о переброске войск из Центральной Украины</title>
+  <link>https://lenta.ru/news/2023/04/26/perebroska/</link>
+  <description>
+    <![CDATA[Киевские власти перебрасывают в подконтрольную им часть Запорожской области войска из Центральной Украины. Об этом заявил глава движения «Мы вместе с Россией» Владимир Рогов По его словам, войска перебрасываются из Полтавской и Черкасской областей. К линии фронта они пребудут до 30 апреля.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426200918907/pic_552396069befe46679303aaee81c3798.jpg" type="image/jpeg" length="23432"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/istanbul/</guid>
+  <author>Полина Кислицына</author>
+  <title>Названы самые популярные у россиян города для покупки жилья в Турции</title>
+  <link>https://lenta.ru/news/2023/04/26/istanbul/</link>
+  <description>
+    <![CDATA[По итогам первого квартала 2023-го самым популярным городом Турции для приобретения недвижимости среди россиян стал Стамбул. По данным экспертов Easyhome Turkey, доля обращений, связанных с покупкой жилья в Стамбуле, за период с января по март текущего года составила 30,5 процента от общего количества запросов россиян.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/13/20230426131352227/pic_d8571cd221155e892824eae40ea3a38c.jpg" type="image/jpeg" length="28020"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/sobchakvimog/</guid>
+  <author>Илона Палей</author>
+  <title>Суд отказал в освобождении из СИЗО коммерческого директора Собчак</title>
+  <link>https://lenta.ru/news/2023/04/26/sobchakvimog/</link>
+  <description>
+    <![CDATA[Мосгорсуд отказал в освобождении коммерческого директора Ксении Собчак Кирилла Суханова, экс-главреда журнала Tatler Арианы Романовской и журналиста Тамерлана Бигаева, взятых под стражу по делу о вымогательстве у главы «Ростеха» Сергея Чемезова. Апелляционные жалобы адвокатов фигурантов не были удовлетворены.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 20:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426194618116/pic_9f5aec882eab99b6a7322225aeb39d30.jpeg" type="image/jpeg" length="22954"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/karabakh_new/</guid>
+  <author>Полина Матюхина</author>
+  <title>Назначен новый командующий российскими миротворцами в Карабахе</title>
+  <link>https://lenta.ru/news/2023/04/26/karabakh_new/</link>
+  <description>
+    <![CDATA[Новым командующим российскими миротворцами в Нагорном Карабахе стал заместитель главнокомандующего Сухопутными войсками России генерал-полковник Александр Ленцов. Об этом сообщили в российском Минобороны. Уточняется, что Ленцов занял эту должность 25 апреля. До этого ее занимал генерал-майор Андрей Волков.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426195804321/pic_5e07432b454307e566b4dd5f7dc2b875.jpeg" type="image/jpeg" length="24433"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/prognoz/</guid>
+  <author>Софья Ермакова</author>
+  <title>Правительство Германии вдвое повысило прогноз по росту экономики в 2023 году</title>
+  <link>https://lenta.ru/news/2023/04/26/prognoz/</link>
+  <description>
+    <![CDATA[Правительство Германии вдвое повысило прогноз по уровню ВВП в 2023 году — до 0,4 процента с ожидавшихся в январе 0,2 процента. В 2024 году, как рассчитывает кабмин, рост ускорится до 1,6 процента. Власти также улучшили прогноз по инфляции в 2023 году с 6 до 5,9 процента.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426195343977/pic_e154b6d22c46302b668d4911d274f101.jpg" type="image/jpeg" length="23195"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vcuom/</guid>
+  <author>Никита Абрамов</author>
+  <title>Большинство россиян заявили о доверии обществу «Знание»</title>
+  <link>https://lenta.ru/news/2023/04/26/vcuom/</link>
+  <description>
+    <![CDATA[84 процента россиян старше 14 лет заявили о доверии российскому обществу «Знание». Об этом свидетельствуют данные исследований Всероссийского центра изучения общественного мнения (ВЦИОМ). Отмечается, что среди школьников и студентов процент доверяющих составил 87 и 89 процентов соответственно. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/20/20230426200029800/pic_6dab4a425f2a5049f8fabe9231438ebd.jpg" type="image/jpeg" length="35511"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/atomus/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Атомные подводные лодки США впервые за 40 лет пришвартуют в Южной Корее</title>
+  <link>https://lenta.ru/news/2023/04/26/atomus/</link>
+  <description>
+    <![CDATA[США впервые за более чем 40 лет пришвартуют атомные подводные лодки в Южной Корее, об этом сообщается со ссылкой на старших должностных лиц в Белом доме. Уточняется, что президент США Джо Байден и лидер Южной Кореи Юн Сок Ель в среду подпишут соответствующее соглашение.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426194845259/pic_54d8c79ea3e38310a4d66817bd1e9dc8.jpg" type="image/jpeg" length="23519"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/polamolozhavaya/</guid>
+  <author>Майя Пономаренко</author>
+  <title>60-летняя певица Пола Абдул раскрыла секрет своей моложавой внешности</title>
+  <link>https://lenta.ru/news/2023/04/26/polamolozhavaya/</link>
+  <description>
+    <![CDATA[Американская певица и продюсер Пола Абдул раскрыла секрет своей привлекательности в 60 лет. По словам телезвезды, своей моложавой внешностью она обязана генетике. «Я всегда говорю спасибо отцу за гены. Моя мать тоже выглядела довольно молодо для своего возраста. Думаю, я взяла лучшее от родителей», — заявила она.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/25/14/20230425143842471/pic_3da8ab215e416bcc68aa3e5034bcdd67.jpg" type="image/jpeg" length="19886"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/love/</guid>
+  <author>Александра Лисица</author>
+  <title>Психолог перечислил признаки отсутствия любви в отношениях</title>
+  <link>https://lenta.ru/news/2023/04/26/love/</link>
+  <description>
+    <![CDATA[Несколько неочевидных признаков могут говорить о наступившей нелюбви между партнерами, рассказал психолог Михаил Лабковский. На это, по его мнению, намекают частые эмоциональные ссоры со страстными примирениями, регулярные компромиссы во избежание конфликтов и постоянные смены планов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/10/20230426103416565/pic_1168b9a5b4ba11969b73ac9ef5b83ede.jpg" type="image/jpeg" length="22494"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/saratov_18/</guid>
+  <author>Константин Лысяков</author>
+  <title>Тело 18-летней россиянки нашли рядом с написанными на стене тремя словами</title>
+  <link>https://lenta.ru/news/2023/04/26/saratov_18/</link>
+  <description>
+    <![CDATA[Утром 26 апреля к медикам Саратова поступило сообщение о том, что на улице Киселева найдена 18-летняя девушка без сознания. Прибывшие на место сотрудники скорой помощи констатировали смерть девушки. Рядом с телом на стене были написаны прощальные слова. Причина гибели россиянки пока неизвестна.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173554895/pic_2a0fba613323bd526d62b503fa12f08a.jpg" type="image/jpeg" length="22342"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/maykop/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Вышедший на волю рецидивист напал на российскую школьницу</title>
+  <link>https://lenta.ru/news/2023/04/26/maykop/</link>
+  <description>
+    <![CDATA[В Майкопе задержали рецидивиста, напавшего на возвращавшуюся домой 13-летнюю школьницу. В декабре 2022 года обвиняемый вышел из колонии после отбытия наказания за разбой и преступление против половой неприкосновенности. Вечером 15 апреля он догнал на улице девочку, напал на нее сзади и потребовал денег.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426143004449/pic_59ba7d652f91a8ee42761d9dc36d37d3.jpg" type="image/jpeg" length="26427"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kabo_baku/</guid>
+  <author>Нина Ташевская</author>
+  <title>Актриса Ольга Кабо высказалась о поездке в Баку</title>
+  <link>https://lenta.ru/news/2023/04/26/kabo_baku/</link>
+  <description>
+    <![CDATA[Российская актриса театра и кино Ольга Кабо рассказала, что играла спектакль в Баку, где успела погулять. Актриса отметила, что любит проводить время в Баку и побывала там не в первый раз. Несмотря на спектакль, она успела погулять в городе. Кабо отметила то, как там сочетаются разные типы архитектуры.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/13/20230426130702535/pic_34e57485fdd552b350b33a1458543892.jpg" type="image/jpeg" length="16305"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/un_reaction/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В ООН отреагировали на разговор Зеленского и Си Цзиньпина</title>
+  <link>https://lenta.ru/news/2023/04/26/un_reaction/</link>
+  <description>
+    <![CDATA[ООН приветствует усилия по мирному урегулированию украинского конфликта. Так отреагировал на телефонный разговор президента Украины Владимира Зеленского с лидером Китая Си Цзиньпином заместитель официального представителя генерального секретаря международной организации Фархан Хак. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426192341384/pic_e7c0b396c53f8b13223126846328a27f.jpg" type="image/jpeg" length="23881"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zhit_zdorovo/</guid>
+  <author>Олег Давыдов</author>
+  <title>Врачи с Первого канала перечислили лекарства для дачной аптечки</title>
+  <link>https://lenta.ru/news/2023/04/26/zhit_zdorovo/</link>
+  <description>
+    <![CDATA[Врач-терапевт и телеведущая Елена Малышева и ее соведущие, иммунолог Андрей Продеус и кардиолог Герман Гандельман, рассказали, какие лекарства россиянам следует взять с собой на дачу в майские праздники. О том, что должно входить в дачную аптечку, специалисты рассказали в эфире программы «Жить здорово!».]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181816952/pic_1e8e98d85c0e8250cfc57801ccc87ad9.jpg" type="image/jpeg" length="38438"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/aero/</guid>
+  <author>Валентина Процкова</author>
+  <title>Названы топ-3 главных направления для отдыха летом у россиян</title>
+  <link>https://lenta.ru/news/2023/04/26/aero/</link>
+  <description>
+    <![CDATA[Россияне массово решили провести предстоящий летний отпуск в трех странах — наибольшей популярностью пользуются Армения, Азербайджан и Турция. Так, самым востребованным направлением с датой вылета с 1 июня по 31 августа среди соотечественников стал маршрут Москва — Ереван.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426143851669/pic_20548ae6a113ab0c6459220cef996977.jpg" type="image/jpeg" length="38573"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/eyelashtattoo/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Женщина назвала самой большой ошибкой в жизни популярную бьюти-процедуру</title>
+  <link>https://lenta.ru/news/2023/04/26/eyelashtattoo/</link>
+  <description>
+    <![CDATA[Блогерша Мар (фамилия неизвестна) назвала самой большой ошибкой в своей жизни популярную бьюти-процедуру. Инфлюэнсерша рассказала, что решила сделать перманентный макияж век в салоне красоты, когда ей было 19 лет. Позже, по словам юзерши, она стала экспериментировать с мейкапом, вследствие чего татуаж стал ей мешать.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426182039336/pic_e4143e8f0bc2e48fcc381eaaa9a91bec.jpeg" type="image/jpeg" length="15463"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vse/</guid>
+  <author>Софья Ермакова</author>
+  <title>Росстат перестал публиковать данные о добыче нефти в России</title>
+  <link>https://lenta.ru/news/2023/04/26/vse/</link>
+  <description>
+    <![CDATA[Росстат перестал публиковать данные о добыче нефти в России — в обнародованной 26 апреля сводке о ситуации в промышленности за первый квартал эта информация отсутствует. В статистическом ведомстве ситуацию никак не прокомментировали. Ранее Росстат размещал данные по добыче нефти ежемесячно.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426191844169/pic_9f9e7573c95499795dc6fc7cbc1d3b53.jpg" type="image/jpeg" length="41711"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kontr_nastup/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине оценили эффективность предстоящего контрнаступления</title>
+  <link>https://lenta.ru/news/2023/04/26/kontr_nastup/</link>
+  <description>
+    <![CDATA[Министр иностранных дел Украины Дмитрий Кулеба оценил эффективность предстоящего контрнаступления украинской армии. По его мнению, Вооруженные силы Украины (ВСУ) смогут вернуть республике все утраченные территории. Киев также намерен ускорить подготовку с точки зрения военной техники, вооружения и амуниции.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426191046160/pic_06e793fe1dfb917fbe1e7a316c31d780.jpg" type="image/jpeg" length="24462"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/hunter/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Мужчина решил поохотиться на птиц и случайно застрелил семимесячного сына</title>
+  <link>https://lenta.ru/news/2023/04/26/hunter/</link>
+  <description>
+    <![CDATA[Житель ЮАР случайно застрелил семимесячного сына из пневматической винтовки во время охоты на птиц. Ребенка экстренно госпитализировали, но врачи не смогли его спасти. Охотника арестовали и предъявили ему обвинение в убийстве. Полиция призвала жителей соблюдать меры безопасности при обращении с оружием.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/25/10/20230425100906350/pic_e04930aa5373eebabf6f5ca27b93b947.jpeg" type="image/jpeg" length="28085"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/crash_jet/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Очевидцы описали последствия крушения истребителя под Мончегорском</title>
+  <link>https://lenta.ru/news/2023/04/26/crash_jet/</link>
+  <description>
+    <![CDATA[Очевидцы крушения истребителя МиГ-31 под Мончегорском описали последствия произошедшего. Один из очевидцев рассказал, что корпус военного самолета пробил лед и лежит на дне озера. Собеседник RT отметил, что видел на деревьях белые парашюты катапультировавшихся летчиков.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426190808586/pic_3ac3d6c60d993a3b88022b1c0e68c44c.jpg" type="image/jpeg" length="8297"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/cka_salut/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>В российском футбольном клубе высказались о раскрытии договорного матча</title>
+  <link>https://lenta.ru/news/2023/04/26/cka_salut/</link>
+  <description>
+    <![CDATA[В белгородском «Салюте» заявили, что не подозревали о договорном характере матча против «СКА-Хабаровск-2» в рамках первенства второго дивизиона чемпионата России. В команде также назвали результат игры и ошибки соперников объяснимыми. Ранее сообщалось, что все фигуранты этого дела пожизненно отстранены от футбола.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426185754711/pic_48468b798dfabda2e8f8333090226d2c.jpg" type="image/jpeg" length="30661"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/bondarevskaya/</guid>
+  <author>Сергей Равин</author>
+  <title>Экс-солистка Большого театра Анна Бондаревская умерла в возрасте 35 лет</title>
+  <link>https://lenta.ru/news/2023/04/26/bondarevskaya/</link>
+  <description>
+    <![CDATA[Скончалась оперная певица, экс-солистка Большого театра Анна Бондаревская. «Руководство и коллектив Большого театра <...> выражают искренние соболезнования родным и близким покойной», — говорится в сообщении учреждения культуры. Отмечается, что артистка умерла в свой день рождения 22 апреля в возрасте 35 лет.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426182432131/pic_b4ed374b708d15bca8d99cc28720d0bd.jpeg" type="image/jpeg" length="23626"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/passport/</guid>
+  <author>Фариза Бацазова</author>
+  <title>Россиянам объяснили необходимость паспорта РФ в заграничной поездке</title>
+  <link>https://lenta.ru/news/2023/04/26/passport/</link>
+  <description>
+    <![CDATA[Российский паспорт может потребоваться в путешествии за рубеж в случае утери заграничного. Специалисты сервиса «Туту.ру» подчеркнули, что раньше россиянам было запрещено вывозить паспорт РФ из страны, а теперь разрешено. Поэтому эксперты рекомендуют взять его с собой в поездку.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181643554/pic_494240ced4429b64a686f998aab684a9.jpg" type="image/jpeg" length="24916"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/6363/</guid>
+  <author>Даниил Иринин</author>
+  <title>Экипаж подлодки «Уфа» выполнил глубоководное погружение</title>
+  <link>https://lenta.ru/news/2023/04/26/6363/</link>
+  <description>
+    <![CDATA[Экипаж дизель-электрической подводной лодки «Уфа» проекта 636.3 выполнил глубоководное погружение в Балтийском море, сообщила пресс-служба Западного военного округа. Подводники отрабатывали задачи на различных глубинах. Выполнение элементов задачи обеспечили корабли и суда Балтфлота.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426150651958/pic_2a32d4b5fa77b786c82509b3a2c6a3d8.jpg" type="image/jpeg" length="29584"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/auevkolonii/</guid>
+  <author>Илона Палей</author>
+  <title>Смотрящего по кличке Москва заподозрили в организации ячейки АУЕ в колонии</title>
+  <link>https://lenta.ru/news/2023/04/26/auevkolonii/</link>
+  <description>
+    <![CDATA[В Хабаровском крае заключенного исправительной колонии №7 Ивана Москвина по кличке Москва заподозрили в организации ячейки АУЕ (движение признано экстремистским и запрещено на территории России). Против мужчины возбудили уголовное дело по статье 282.2 («Организация деятельности экстремистской организации») УК РФ.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161140754/pic_3d84000baf002db7e42f0b4f0d051df9.jpeg" type="image/jpeg" length="23205"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ladaspb/</guid>
+  <author>Влада Горячева</author>
+  <title>Бывший завод Nissan получит новое название</title>
+  <link>https://lenta.ru/news/2023/04/26/ladaspb/</link>
+  <description>
+    <![CDATA[Законодательное собрание Санкт-Петербурга дало согласие на переименование бывшего завода Nissan — ООО «Ниссан Мэнуфэкчуринг Рус» — и включение в новое имя названия города. Предприятие получит название «Лада Санкт-Петербург», выпуск первого серийного автомобиля Lada на площадке ожидается в середине июня.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426183240887/pic_51c1b34e1945faaad9711c554fc30557.jpg" type="image/jpeg" length="42850"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ze_jinping/</guid>
+  <author>Георгий Нестеров</author>
+  <title>Зеленский заявил о часовом разговоре с Си Цзиньпином</title>
+  <link>https://lenta.ru/news/2023/04/26/ze_jinping/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский сообщил, что его телефонный разговор с председателем КНР Си Цзиньпином длился час. Во время беседы они «обсудили весь комплекс актуальных вопросов двусторонних отношений», уделив отдельное внимание путям взаимодействия для «установления справедливого и устойчивого мира для Украины».]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 19:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/19/20230426190029436/pic_5804e0688ce67522f803aa76f80be547.jpg" type="image/jpeg" length="20788"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kadry/</guid>
+  <author>Никита Абрамов</author>
+  <title>Появились первые кадры с места падения истребителя в Мурманской области</title>
+  <link>https://lenta.ru/news/2023/04/26/kadry/</link>
+  <description>
+    <![CDATA[В сети появились первые кадры с места падения истребителя МиГ-31 в Мурманской области. Соответствующие снимки опубликовал Telegram-канал Mash. На кадрах видно заледенелое озеро Большая Имандра, куда упал самолет. Уточняется, что воздушное судно ушло под воду, на поверхности остались мелкие обломки.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426185739982/pic_ea3e972e5d37db7850294120741b5736.jpg" type="image/jpeg" length="22800"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/chibis/</guid>
+  <author>Константин Лысяков</author>
+  <title>Губернатор Мурманской области прокомментировал крушение истребителя МиГ-31</title>
+  <link>https://lenta.ru/news/2023/04/26/chibis/</link>
+  <description>
+    <![CDATA[Пилотам потерпевшего крушение истребителя МиГ-31 не потребовалась госпитализация, их жизни ничего не угрожает. Об этом сообщил губернатор Мурманской области Андрей Чибис. По его словам, разрушений в результате авиакатастрофы нет, так как летчики отвели воздушное судно от населенного пункта.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426185650898/pic_3ac3d6c60d993a3b88022b1c0e68c44c.jpg" type="image/jpeg" length="8297"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/skoraya/</guid>
+  <author>Никита Абрамов</author>
+  <title>Пожилой советский авиаконструктор не дождался скорую и умер</title>
+  <link>https://lenta.ru/news/2023/04/26/skoraya/</link>
+  <description>
+    <![CDATA[В Воронежской области пожилой мужчина, который разрабатывал системы для советских истребителей, умер, не дождавшись скорой помощи. Об этом сообщает издание «Мое Online». Инцидент произошел в селе Рыкань в 30 километрах от Воронежа. 84-летнему советскому авиаконструктору стало плохо, после чего ему вызвали скорую.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:54:02 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426183218296/pic_15b8457e8840014b755d213b2a8b3a31.jpg" type="image/jpeg" length="32585"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/denimskirts/</guid>
+  <author>Алина Гостева</author>
+  <title>Стилист Рогов назвал самую модную юбку на весну</title>
+  <link>https://lenta.ru/news/2023/04/26/denimskirts/</link>
+  <description>
+    <![CDATA[Российский стилист Александр Рогов назвал самый модный фасон юбок на весну 2023 года. В текущем сезоне оказались актуальны джинсовые юбки длины макси. При этом указанное изделие можно сочетать с рубашками, жилетами и топами из денима, объемными пиджаками и кожаными куртками.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173516454/pic_72f0491c8b24c5bbaea4b9e90e8d4686.jpg" type="image/jpeg" length="27882"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/two_monuments/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На западе Украины снесли два советских памятника</title>
+  <link>https://lenta.ru/news/2023/04/26/two_monuments/</link>
+  <description>
+    <![CDATA[В Мостисском районе Львовской области Украины снесли два советских памятника. Отмечается, что одним из них оказался монумент советскому солдату в селе Малнов. Еще одним демонтированным памятником стала фигура скорбящей женщины, располагавшаяся на кладбище советских солдат в городе Мостиска.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:46:42 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426184413711/pic_5ff13d2a289992ff17d523638d727b03.webp" type="image/webp" length="17970"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/terr/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Зеленский рассказал о разговоре с Си Цзиньпином</title>
+  <link>https://lenta.ru/news/2023/04/26/terr/</link>
+  <description>
+    <![CDATA[Президент Украины Владимир Зеленский обсудил в ходе телефонного разговора председателем с КНР Си Цзиньпином актуальные вопросы двухсторонних отношений. «Особое внимание было уделено путям возможного сотрудничества для установления справедливого и прочного мира для Украины», — написал глава государства. <br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426184451727/pic_926037454c6693f158cae342890ddf5a.jpeg" type="image/jpeg" length="17448"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/2nd_victim/</guid>
+  <author>Алан Босиков</author>
+  <title>В частично уничтоженном пожаром российском поселке нашли тело второй погибшей</title>
+  <link>https://lenta.ru/news/2023/04/26/2nd_victim/</link>
+  <description>
+    <![CDATA[В поселке Сосьва Свердловской области, частично уничтоженном при пожаре, нашли тело второй погибшей. Ей оказалась 90-летняя пенсионерка, которая ранее считалась пропавшей без вести. Тело женщины обнаружили под завалами ее дома. Она не смогла самостоятельно выйти на улицу во время эвакуации. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426183810416/pic_8da8a49f976fab3416f96e9c1f11a3e1.jpeg" type="image/jpeg" length="40726"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/osa/</guid>
+  <author>Александра Лисица</author>
+  <title>Россиянам объяснили правила первой помощи при укусе осы</title>
+  <link>https://lenta.ru/news/2023/04/26/osa/</link>
+  <description>
+    <![CDATA[Для облегчения жжения, сильной боли и снятия общей токсической реакции после укуса осы нужно предпринять несколько простых действий, рассказала врач-терапевт Елена Близнюк. Первое, что надо сделать после нападения осы, рассказала она, — это приложить холодный компресс к месту укуса.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/10/20230426103239241/pic_601dabd3e6ec079c95c2774eb25707b9.jpg" type="image/jpeg" length="14602"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/hichenie/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Начальника автобронетанковой службы обвинили в хищении танковых двигателей</title>
+  <link>https://lenta.ru/news/2023/04/26/hichenie/</link>
+  <description>
+    <![CDATA[Южный окружной военный суд оставил в силе решение об аресте до 28 мая начальника бронетанковой службы управления технического обеспечения Южного военного округа полковника Александра Денисова, ранее обвиненного в хищении танковых двигателей. По версии следствия, Денисов похитил семь двигателей В-92С2 для танков Т-90. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426183435395/pic_9dbcae399b68e8a8dae51f1f8d83a6e2.jpeg" type="image/jpeg" length="33348"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/polsha/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Польша изъяла средства со счетов российского посольства</title>
+  <link>https://lenta.ru/news/2023/04/26/polsha/</link>
+  <description>
+    <![CDATA[Польша изъяла средства со счетов российского посольства, об этом сообщил глава российской дипмиссии Сергей Андреев. Отмечается, что после этого банк прекратил сотрудничество с посольством и закрыл счета, на которых были значительные средства как в долларах США, так и в польских злотых.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426183245577/pic_f132d027b5d74aa74e9f3fda38000320.jpg" type="image/jpeg" length="45444"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/britain_ukraine_soldiers/</guid>
+  <author>Семен Александров</author>
+  <title>В Лондоне раскрыли детали деятельности британских военных на Украине</title>
+  <link>https://lenta.ru/news/2023/04/26/britain_ukraine_soldiers/</link>
+  <description>
+    <![CDATA[Британские военные на Украине обеспечивают безопасность дипломатического представительства и обучают солдат Вооруженных сил Украины (ВСУ). Об этом заявил замглавы Минобороны королевства Джеймс Хиппи в письменных ответах на вопросы депутата Кенни Макаскилла, представляющего шотландскую партию Alba.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426175921692/pic_4ae376bfc9ad6b08b70a93d586838c6f.jpg" type="image/jpeg" length="41745"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/porcupine/</guid>
+  <author>Алиса Удовик</author>
+  <title>В казанском зоопарке родился детеныш дикобраза</title>
+  <link>https://lenta.ru/news/2023/04/26/porcupine/</link>
+  <description>
+    <![CDATA[28 февраля в казанском зооботаническом саду у дикобразов Феди и Одри родился детеныш. Пол малыша пока не известен, так как родители не подпускают к нему сотрудников зооботсада. Увидеть новорожденного пока нельзя, до наступления стабильного тепла он с Федей и Одри будет обитать во внутреннем вольере.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:30:58 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426180020817/pic_d63a98d55857025a784533f737b9c9e2.jpeg" type="image/jpeg" length="29379"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/malysheva/</guid>
+  <author>Олег Давыдов</author>
+  <title>Якубович назвал Малышеву святой</title>
+  <link>https://lenta.ru/news/2023/04/26/malysheva/</link>
+  <description>
+    <![CDATA[Ведущий капитал-шоу «Поле чудес» Леонид Якубович раскрыл отношение к ведущей программы «Жить здорово!» Елене Малышевой. Он назвал коллегу святой из-за ее помощи людям. «Нет человека, который бы к ней обратился, а она не помогла бы. Я не понимаю, как она живет в груде этих просьб и обращений», — сказал он.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426142859142/pic_96d8364d031edcf4311f0c22d5b6ba42.jpg" type="image/jpeg" length="27946"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/hurgada/</guid>
+  <author>Фариза Бацазова</author>
+  <title>В Египте затонул катер с 26 туристами</title>
+  <link>https://lenta.ru/news/2023/04/26/hurgada/</link>
+  <description>
+    <![CDATA[В египетской Хургаде из-за неблагоприятных погодных условий затонул прогулочный моторный катер. Инцидент произошел 25 апреля. На борту судна находились 26 туристов разных национальностей, восемь членов экипажа и три инструктора по дайвингу. Причиной несчастного случая стали сильный ветер и пробоина.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426153631975/pic_ed89f5f5de580609f7539dfdde08ee81.webp" type="image/webp" length="8044"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/messi_barcelona/</guid>
+  <author>Ксения Курашкина</author>
+  <title>Стало известно о продвижении переговоров Месси с «Барселоной»</title>
+  <link>https://lenta.ru/news/2023/04/26/messi_barcelona/</link>
+  <description>
+    <![CDATA[Стало известно о продвижении переговоров аргентинского нападающего «Пари Сен-Жермен» Лионеля Месси с «Барселоной». По информации Managing Barca, в каталонском клубе уверены, что подписание вот-вот завершится. Уточняется, что игроки команды поддержали возвращение форварда.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181752703/pic_b35e73b0b03da5246fc0917f56b48115.jpeg" type="image/jpeg" length="21879"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zel_cel/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Зеленский высказался о целостности Украины после разговора с Си Цзиньпином</title>
+  <link>https://lenta.ru/news/2023/04/26/zel_cel/</link>
+  <description>
+    <![CDATA[Территориальную целостность Украины необходимо восстановить в границах 1991 года, заявил президент республики Владимир Зеленский. Он отметил, что украинский народ хочет мира, однако мир должен быть справедливым и основываться на принципах международного права с соблюдением Устава ООН.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426182527895/pic_da65342bbc1cac5d034fe26883e1ab08.jpeg" type="image/jpeg" length="23844"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/first_republic_bank/</guid>
+  <author>Платон Щукин</author>
+  <title>Акции First Republic Bank обрушились</title>
+  <link>https://lenta.ru/news/2023/04/26/first_republic_bank/</link>
+  <description>
+    <![CDATA[Акции американского банка First Republic Bank за первые несколько минут после открытия биржи обрушились более чем на 20 процентов. Торги приостанавливались, но после их возобновления ценные бумаги продолжили дешеветь. Падение идет второй день и связано с новостями об оттоке депозитов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181342040/pic_415102c1e8ff4daef37c1b144ba9da94.jpg" type="image/jpeg" length="24000"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ze_si/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине раскрыли детали переговоров Зеленского и Си Цзиньпина</title>
+  <link>https://lenta.ru/news/2023/04/26/ze_si/</link>
+  <description>
+    <![CDATA[Пресс-секретарь президента Украины Владимира Зеленского Сергей Никифоров раскрыл детали переговоров украинского лидера с председателем КНР Си Цзиньпином. По его словам, мирные планы Пекина и Киева нашли точки соприкосновения. В частности, взгляды Киева и Пекина совпадают в вопросе неприменения ядерного оружия.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426182629940/pic_7d002954332b7750620a1539ad26764e.jpg" type="image/jpeg" length="23807"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/mig_sost/</guid>
+  <author>Константин Лысяков</author>
+  <title>Стало известно о состоянии пилотов упавшего под Мурманском истребителя МиГ-31</title>
+  <link>https://lenta.ru/news/2023/04/26/mig_sost/</link>
+  <description>
+    <![CDATA[Пилотов упавшего под Мурманском истребителя МиГ-31 госпитализировали на скорой помощи. Как сообщили в медицинских службах, врачи оценивают их состояние как тяжелое. Ранее очевидцы рассказали, что россияне, управляя еще горящим самолетом, увели его от жилых домов, после чего катапультировались.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426182327130/pic_3ac3d6c60d993a3b88022b1c0e68c44c.jpg" type="image/jpeg" length="8297"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/bpla_learn/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>На Украине рассказали о подготовке тысяч операторов беспилотников</title>
+  <link>https://lenta.ru/news/2023/04/26/bpla_learn/</link>
+  <description>
+    <![CDATA[На сегодняшний день на Украине прошли подготовку более семи тысяч операторов беспилотников для Вооруженных сил Украины. Об этом рассказал министр цифровой трансформации республики Михаил Федоров. Он также добавил, что цель властей — обучить управлению дронами десять тысяч человек.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181208880/pic_53b25e31b31db0bc5e291e6ca447b36f.jpg" type="image/jpeg" length="17930"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/buran/</guid>
+  <author>Даниил Иринин</author>
+  <title>«Роскосмос» захотел создать аналог «Бурана»</title>
+  <link>https://lenta.ru/news/2023/04/26/buran/</link>
+  <description>
+    <![CDATA[Россия нуждается в проектах по созданию многоразовых возвращаемых космических кораблей по типу советского «Бурана», сообщил гендиректор госкорпорации «Роскосмос» Юрий Борисов на просветительском марафоне «Знание. Первые». Он отметил, что ведутся научно-исследовательские работы по этому вопросу.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181138016/pic_71a97cca81a2a70ae302c425c64abe32.jpg" type="image/jpeg" length="21351"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/nukeua/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В Киеве обвинили США в утрате Украиной ядерного оружия</title>
+  <link>https://lenta.ru/news/2023/04/26/nukeua/</link>
+  <description>
+    <![CDATA[Политика США и ряда стран Запада, которые заставили Киев отказаться от ядерного оружия, привела к нынешней ситуации на Украине, заявил советник главы офиса президента республики Михаил Подоляк. По его мнению, их попытка обеспечить таким образом «гарантированную стабильность в регионе» оказалась ошибочной.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181826519/pic_4626e18e0dd2c0cc9479cebe5cf18200.jpg" type="image/jpeg" length="24139"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/russia_ukraine_china/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Влияние разговора Си Цзиньпина и Зеленского на конфликт России и Украины оценили</title>
+  <link>https://lenta.ru/news/2023/04/26/russia_ukraine_china/</link>
+  <description>
+    <![CDATA[Здравомыслие Китая, скорее всего, натолкнется на экстремистско-шовинистические настроения на Украине. Так в беседе с «Лентой.ру» оценил возможность разрешения украинского конфликта после беседы президента Украины Владимира Зеленского и председателя КНР Си Цзиньпина сенатор Григорий Карасин.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426181317719/pic_f390dfbfbcdf5b9bbdb8a98d82c32c84.jpeg" type="image/jpeg" length="20532"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/sosedd/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Россиянин застрелил сделавшую ему замечание за громкую музыку соседку</title>
+  <link>https://lenta.ru/news/2023/04/26/sosedd/</link>
+  <description>
+    <![CDATA[66-летний житель Феодосии застрелил соседку, сделавшую ему замечание за слишком громкую музыку. Пенсионер задержан, в отношении него возбуждено дело об убийстве. Мужчина любил слушать по ночам музыку на полной громкости, из-за чего на него регулярно ругалась соседка, которой мешал шум.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/11/20230426115422008/pic_b7cf6081edb21190076fdff6e8314e69.jpg" type="image/jpeg" length="21211"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/nejil/</guid>
+  <author>Александра Качан</author>
+  <title>В Москве купили рекордно много нежилой недвижимости</title>
+  <link>https://lenta.ru/news/2023/04/26/nejil/</link>
+  <description>
+    <![CDATA[В первом квартале 2023 года граждане и представители бизнеса приобрели у Москвы рекордно много нежилой недвижимости. Об этом сообщает заместитель мэра Москвы по вопросам экономической политики и имущественно-земельных отношений Владимир Ефимов. Всего было приобретено 550 зданий, помещений и машино-мест.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426162648818/pic_abc41deedc15e7b8e6d0d5c444fb35d3.jpeg" type="image/jpeg" length="34052"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/coloredhair/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Блогерша раскрыла необычный метод окрашивания волос и подверглась критике в сети</title>
+  <link>https://lenta.ru/news/2023/04/26/coloredhair/</link>
+  <description>
+    <![CDATA[Блогерша Стелла Чини раскрыла необычный метод окрашивания волос в домашних условиях и подверглась критике в сети. На размещенных кадрах юзерша нанесла красящее средство для волос на плоскую расческу и распределила его по всей длине, начиная от середины. В ролике видно, что локоны приобрели неравномерный рыжий цвет.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/24/11/20230424114030233/pic_dfc18ae8f042c2e6156d2db1f340ff05.jpg" type="image/jpeg" length="22617"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/plt/</guid>
+  <author>Наталия Белова</author>
+  <title>Очевидцы описали момент падения истребителя под Мончегорском</title>
+  <link>https://lenta.ru/news/2023/04/26/plt/</link>
+  <description>
+    <![CDATA[Военный самолет Миг-31, упавший в Мончегорске, начал гореть еще в небе. Пилоты, оставаясь на борту горящего судна, пытались увести его как можно дальше от города. Оба мужчины успели катапультироваться. Об этом «Ленте.ру» рассказали местные жители, наблюдавшие за падением самолета.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/18/20230426180244531/pic_f8d4f8305c9eea24d6fdbcbaf82a8d51.jpg" type="image/jpeg" length="8090"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/savetooth/</guid>
+  <author>Наталья Обрядина</author>
+  <title>Стоматолог рассказал о распространенных травмах зубов и способах спасти их</title>
+  <link>https://lenta.ru/news/2023/04/26/savetooth/</link>
+  <description>
+    <![CDATA[Врач-стоматолог, кандидат медицинских наук Дмитрий Тимофеев перечислил распространенные травмы зубов, число которых увеличивается с наступлением весны. Из-за падения с самокатов и велосипедов, а также из-за удара качелями в челюсть люди сталкиваются с вывихом, сколами и переломом зубов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/21/10/20230421104744336/pic_46eb99239b9ea651d62ed4cffc149cdf.jpeg" type="image/jpeg" length="19411"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/avia_india/</guid>
+  <author>Валентина Процкова</author>
+  <title>Пьяный гражданин Индии устроил дебош в самолете и помочился на попутчика</title>
+  <link>https://lenta.ru/news/2023/04/26/avia_india/</link>
+  <description>
+    <![CDATA[Пьяный гражданин Индии устроил дебош на рейсе из США, помочился на попутчика и был задержан полицией. Уточняется, что инцидент произошел на рейсе из Нью-Йорка в Нью-Дели авиакомпании American Airlines в воскресенье, 23 апреля. Индиец во время полета поссорился с соседом, встал с места и помочился на него. <br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 18:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426174037184/pic_99d948fc71948fb6a6db3a52de8e8abe.jpg" type="image/jpeg" length="13758"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/takpobedim/</guid>
+  <author>Сергей Равин</author>
+  <title>Стивен Сигал высказал уверенность в победе России в конфликте на Украине</title>
+  <link>https://lenta.ru/news/2023/04/26/takpobedim/</link>
+  <description>
+    <![CDATA[Американский актер и продюсер, спецпредставитель МИД РФ по российско-американским гуманитарным связям Стивен Сигал высказал уверенность, что Россия одержит победу в военном конфликте на Украине. «Да, точно вам говорю, мы победим», — заявил артист в среду на марафоне «Знание», отвечая на соответствующий вопрос.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:57:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426174259123/pic_a607cdb77c7bebea760555190e4be26c.jpg" type="image/jpeg" length="19033"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/podtv/</guid>
+  <author>Алан Босиков</author>
+  <title>Минобороны России подтвердило аварию МиГ-31 в Мурманской области</title>
+  <link>https://lenta.ru/news/2023/04/26/podtv/</link>
+  <description>
+    <![CDATA[МиГ-31 ВКС России потерпел аварию во время выполнения учебного полета, сообщило Минобороны России. По данным министерства, самолет потерпел крушение при выполнении учебного полета. Летчикам удалось катапультироваться, самолет упал в безлюдном месте, уточнили в военном ведомстве. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426175816220/pic_3ac3d6c60d993a3b88022b1c0e68c44c.jpg" type="image/jpeg" length="8297"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/prichina_mig/</guid>
+  <author>Константин Лысяков</author>
+  <title>Названа возможная причина крушения истребителя МиГ-31 под Мурманском</title>
+  <link>https://lenta.ru/news/2023/04/26/prichina_mig/</link>
+  <description>
+    <![CDATA[Причиной крушения российского истребителя-перехватчика МиГ-31 в Мурманской области мог стать пожар на борту, сообщили в силовых структурах. Предварительно, во время планового полета у воздушного судна загорелся один из двигателей, что привело к авиакатастрофе. Военный самолет мог рухнуть в озеро. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426175841511/pic_1ff0f307171f8060d4de22ada19b5176.jpeg" type="image/jpeg" length="12326"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/minisport/</guid>
+  <author>Майя Пономаренко</author>
+  <title>В Нальчике стартовал турнир по мини-футболу</title>
+  <link>https://lenta.ru/news/2023/04/26/minisport/</link>
+  <description>
+    <![CDATA[В Нальчике, Кабардино-Балкария, стартовал турнир по мини-футболу среди команд региональных управлений МЧС. Известно, что торжественное открытие соревнований состоялось на стадионе «Спартак». Всего в первенстве участвуют семь коллективов от каждого субъекта Северо-Кавказского округа.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:55:58 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426175425917/pic_dcc5e7092d1b8f51d5513d47995b6f11.jpg" type="image/jpeg" length="41580"/>
+  <category>Моя страна</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/handmade_submarines/</guid>
+  <author>Антонина Черташ</author>
+  <title>Самодельные субмарины привезли в Европу тонны наркотиков</title>
+  <link>https://lenta.ru/news/2023/04/26/handmade_submarines/</link>
+  <description>
+    <![CDATA[Наркоторговцы 20 лет водили полицию за нос и перевозили наркотики в Европу при помощи самодельных субмарин. Сотрудники секретных служб считают, что за это время в Европу отправились сотни кокаиновых субмарин. Существует даже версия, что возле Канарских и Азорских островов есть кладбища таких подлодок.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:53:36 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/24/11/20230424110634605/pic_629da360f85b24e9f53eafe7ecbe7bbd.jpg" type="image/jpeg" length="32646"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/letchiki/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Стала известна судьба пилотов упавшего в Мурманской области военного самолета</title>
+  <link>https://lenta.ru/news/2023/04/26/letchiki/</link>
+  <description>
+    <![CDATA[Пилоты упавшего в Мурманской области военного самолета МиГ-31 катапультировались. В Минобороны России отметили, что жизни летчиков ничего не угрожает. «Пилоты оперативно эвакуированы вертолетом поисково-спасательной службы их жизни и здоровью ничего не угрожает», — говорится в сообщении.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426175245663/pic_0b83daf9eb2073095574a23a95b5cb6c.jpg" type="image/jpeg" length="22792"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/sosvepozz/</guid>
+  <author>Илона Палей</author>
+  <title>Генпрокурор России поручил провести проверку из-за пожаров в Сосьве</title>
+  <link>https://lenta.ru/news/2023/04/26/sosvepozz/</link>
+  <description>
+    <![CDATA[Генпрокурор России Игорь Краснов поручил провести проверку после уничтожения огнем домов и имущества жителей поселка Сосьва в Свердловской области. Во время проверки будут также оценены действия местных властей по предупреждению пожаров. Предварительно установлено, огонь стал распространяться с лесопильного участка.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:49:43 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173303385/pic_ccdac5e1bc9eccdb539d26fd59241964.jpg" type="image/jpeg" length="31836"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/moment/</guid>
+  <author>Евгения Куликова</author>
+  <title>Предполагаемый момент крушения военного самолета под Мурманском попал на видео</title>
+  <link>https://lenta.ru/news/2023/04/26/moment/</link>
+  <description>
+    <![CDATA[Предполагаемый момент крушения военного самолета в Мончегорске Мурманской области попал на видео. Информация о возможном ЧП в 10 километрах от города поступила на телефон службы «112». По данным Mash, речь может идти об истребителе-перехватчике МиГ-31. На предполагаемое место крушения выехали спасатели.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426174141968/pic_05a2c9961eec72c835229924ec6d2786.jpg" type="image/jpeg" length="7107"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/truk/</guid>
+  <author>Мария Винар</author>
+  <title>Кейт Миддлтон показала способ идеального позирования для фото</title>
+  <link>https://lenta.ru/news/2023/04/26/truk/</link>
+  <description>
+    <![CDATA[Принцесса Уэльская Кэтрин показала способ идеального позирования для фото. Журналисты сняли Кейт Миддлтон на встрече с королевой Маргрет II и принцессой Мэри в рамках тура по Дании. Фотографы попросили ее встать к ним поближе. Тогда Миддлтон начала двигаться перед камерой, быстро переставляя стопы.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/10/20230426104634574/pic_1c34e3a01284e345d16cc9e91f4cc3fb.jpg" type="image/jpeg" length="25543"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vernemvdsnv/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>США призвали Россию возобновить участие в ДСНВ</title>
+  <link>https://lenta.ru/news/2023/04/26/vernemvdsnv/</link>
+  <description>
+    <![CDATA[США призывают РФ возобновить свое участие в Договоре по сокращению стратегических наступательных вооружений, заявила руководитель национального управления ядерной безопасности при американском министерстве энергетики Джилл Хруби. «Мы бы, несомненно, хотели, чтобы они вернулись к соблюдению договора», — сказала она.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426174542718/pic_527cc6ecae0c78489b9a080ff0e8137d.jpg" type="image/jpeg" length="18149"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/borisov/</guid>
+  <author>Сергей Равин</author>
+  <title>Умер народный артист России Владимир Борисов</title>
+  <link>https://lenta.ru/news/2023/04/26/borisov/</link>
+  <description>
+    <![CDATA[Скончался народный артист России Владимир Борисов. Он умер в возрасте 75 лет. Причина смерти неизвестна. Прощание с актером состоится 28 апреля. Борисова похоронят на Городском кладбище в Самаре. Представители Самарского академического театра драмы имени Максима Горького назвали кончину Борисова печальным известием.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426172034905/pic_ed3f7d547b0db70f5f9b14afe6554b5e.jpg" type="image/jpeg" length="12962"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/samolet/</guid>
+  <author>Константин Лысяков</author>
+  <title>Стало известно о возможном крушении военного самолета в российском регионе</title>
+  <link>https://lenta.ru/news/2023/04/26/samolet/</link>
+  <description>
+    <![CDATA[В Мурманской области проверяют сообщение о возможном крушении военного самолета. Об этом сообщает ТАСС со ссылкой на силовые структуры. Информация о происшествии в 10 километрах от города Мончегорска поступила на телефон службы «112». Также стало известно, что речь может идти об истребителе-перехватчике МиГ-31.<br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426174441440/pic_a607cdb77c7bebea760555190e4be26c.jpg" type="image/jpeg" length="19033"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kontrnastuptiho/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине заявили о тихо идущем контрнаступлении</title>
+  <link>https://lenta.ru/news/2023/04/26/kontrnastuptiho/</link>
+  <description>
+    <![CDATA[Пресс-секретарь сил обороны Украины «Юг» Наталия Гуменюк заявила, что контрнаступление украинской армии уже тихонечко идет, небольшими шагами, постепенно достигая поставленных целей, нанося урон складам с боеприпасами и пунктам сосредоточения техники. Таким образом, по словам Гуменюк, достигаются поставленные цели.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173116234/pic_d337c5b60b410b4f79c4a2ede13cc3e7.jpg" type="image/jpeg" length="26581"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/activision_down/</guid>
+  <author>Платон Щукин</author>
+  <title>Акции создателя игры Call of Duty обрушились</title>
+  <link>https://lenta.ru/news/2023/04/26/activision_down/</link>
+  <description>
+    <![CDATA[Акции производителя игр Activision Blizzard обрушились во время премаркета в среду, 26 апреля. Стоимость акций создателя Call of Duty рухнула после того, как стало известно, что управление по конкуренции и рынкам Великобритании (CMA) заблокировало сделку Microsoft, который хотел купить компанию.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426171601452/pic_e631a6c6da1f78712736bdac324c8537.jpeg" type="image/jpeg" length="31993"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/fake_dtp/</guid>
+  <author>Олег Давыдов</author>
+  <title>Сообщение о сборе средств для ребенка оказалось популярной мошеннической схемой</title>
+  <link>https://lenta.ru/news/2023/04/26/fake_dtp/</link>
+  <description>
+    <![CDATA[На странице россиянки в Instagram (соцсеть запрещена в России; принадлежит компании Meta, которая признана экстремистской и запрещена в РФ) появилась просьба о материальной помощи для ее ребенка, якобы попавшего в ДТП. Однако сбор средств оказался популярной мошеннической схемой.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:35:58 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426172436995/pic_0a81fc354d32038cb9c5a002de8f4557.jpg" type="image/jpeg" length="18382"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/borisovv/</guid>
+  <author>Даниил Иринин</author>
+  <title>В России оценили состояние космической отрасли</title>
+  <link>https://lenta.ru/news/2023/04/26/borisovv/</link>
+  <description>
+    <![CDATA[Российская ракетно-космическая отрасль находится в «не очень хорошем» финансовом и кадровом состоянии, сообщил генеральный директор «Роскосмоса» Юрий Борисов на просветительском марафоне «Знание. Первые». Он отметил, что «Роскосмос» планирует открыть 4-5 инновационных проектов с привлечением молодежи.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173453969/pic_70bd50035a52d0fe53396f3b2be09222.jpg" type="image/jpeg" length="19016"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/dop_plennye/</guid>
+  <author>Алан Босиков</author>
+  <title>Москалькова раскрыла подробности обмена пленными с Украиной</title>
+  <link>https://lenta.ru/news/2023/04/26/dop_plennye/</link>
+  <description>
+    <![CDATA[Россия возвратила Украине четверых пленных сверх обмена по формуле 40 на 40. Об этом сообщила полномоченная по правам человека при президенте Татьяна Москалькова. Омбудсмен пояснила, что в своих действиях Москва исходила из гуманистических соображений. Об обмене пленными 26 апреля сообщило Минобороны России.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426173331832/pic_edca2cc3922331a054e465e6f2c31e08.jpg" type="image/jpeg" length="23404"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/israel/</guid>
+  <author>Маргарита Щигарева</author>
+  <title>Артемий Лебедев назвал «провинциальной жопой» популярную у россиян страну</title>
+  <link>https://lenta.ru/news/2023/04/26/israel/</link>
+  <description>
+    <![CDATA[Известный блогер и дизайнер Артемий Лебедев раскритиковал популярную у россиян страну, назвав ее «провинциальной жопой», в которой при этом, по его мнению, живет множество интересных людей. «Это не то место, где хотелось бы жить», — констатировал блогер, высказываясь в своем обзоре новостей.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/12/20230426121604574/pic_919c835c7e7bb46127b5940b87d6797b.jpeg" type="image/jpeg" length="26080"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vozvrat/</guid>
+  <author>Евгения Куликова</author>
+  <title>Появилось видео возвращения 40 российских военных из украинского плена</title>
+  <link>https://lenta.ru/news/2023/04/26/vozvrat/</link>
+  <description>
+    <![CDATA[Минобороны опубликовало видео возвращения 40 российских военнослужащих из украинского плена. Соответствующие кадры ведомство предоставило журналистам в среду, 26 апреля. На кадрах видно, как группа россиян едет в автобусе. Некоторые из них ранены, кто-то плачет. Им выдают пакеты с едой и горячим напитком.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:25:43 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426171346953/pic_868990f5dd05bdb9e00a89c56b532fe7.jpg" type="image/jpeg" length="33282"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/voevatbelgr/</guid>
+  <author>Илона Палей</author>
+  <title>Против решившего воевать на стороне ВСУ россиянина возбудили дело о госизмене</title>
+  <link>https://lenta.ru/news/2023/04/26/voevatbelgr/</link>
+  <description>
+    <![CDATA[В Белгороде возбудили уголовное дело против 20-летнего жителя Твери, который пытался незаконно пересечь границу и воевать за Вооруженные силы Украины (ВСУ). Молодого человека обвиняют по части 1 статьи 30 и статье 275  («Приготовление к государственной измене») УК РФ.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:24:22 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426170916752/pic_f8939dec32e50a80a6de66d9f0ac56d5.jpg" type="image/jpeg" length="20408"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/genocid/</guid>
+  <author>Антон Похиляк</author>
+  <title>Слова Подоляка о праве «уничтожать все» в Донбассе назвали в ЛНР геноцидом</title>
+  <link>https://lenta.ru/news/2023/04/26/genocid/</link>
+  <description>
+    <![CDATA[Уполномоченный по правам человека в Луганской народной республике (ЛНР) Виктория Сердюкова назвала призывом к геноциду слова советника главы офиса президента Украины Михаила Подоляка, заявившего о праве Киева «уничтожать все в Крыму и Донбассе». «Это нарушение международного гуманитарного права», — высказалась она.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426171533520/pic_c0aaed2d5165578a3a5cf0e317ced9a3.jpg" type="image/jpeg" length="22925"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/nepomniachtchi/</guid>
+  <author>Ксения Курашкина</author>
+  <title>Непомнящий объяснил поражение в 12-й партии матча за титул чемпиона мира</title>
+  <link>https://lenta.ru/news/2023/04/26/nepomniachtchi/</link>
+  <description>
+    <![CDATA[Российский гроссмейстер Ян Непомнящий объяснил поражение в 12-й партии матча за титул чемпиона мира против китайца Дина Лижэня. «Проиграть в выигрышной позиции — явно не лучший поступок. Я решил форсировать и столкнулся с последствиями. В один момент игра превратилась в большой бардак», — заявил россиянин.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:17:06 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426170933795/pic_457018518bbcc4d30f5eb40cd6d9f76d.jpg" type="image/jpeg" length="26706"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/meteor/</guid>
+  <author>Александр Еникеев</author>
+  <title>Раскрыта причина вспышки над Киевом</title>
+  <link>https://lenta.ru/news/2023/04/26/meteor/</link>
+  <description>
+    <![CDATA[Международная метеорная организация раскрыла причину яркой вспышки над Киевом, которая произошла вечером 19 апреля. По данным организации, это был болид, порожденный входом в атмосферу Земли космического тела диаметром 50 сантиметров и массой несколько сотен килограммов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426171757871/pic_2fd86deabd751a5b16c14426a44d7b0e.jpg" type="image/jpeg" length="37188"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/cellulite/</guid>
+  <author>Екатерина Ештокина</author>
+  <title>Россиянкам перечислили действенные способы борьбы с целлюлитом</title>
+  <link>https://lenta.ru/news/2023/04/26/cellulite/</link>
+  <description>
+    <![CDATA[Нутрициолог Екатерина Войтенко перечислила россиянкам действенные способы борьбы с целлюлитом. В первую очередь специалистка напомнила о важности правильного питания, в которое должны входить полезные жиры, белки и углеводы. Помимо этого, по словам Войтенко, необходима регулярная физическая активность.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426153903511/pic_269f0a93aae3b564d3faad623a431ff4.jpeg" type="image/jpeg" length="19615"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/cryolipolysis/</guid>
+  <author>Екатерина Улитина</author>
+  <title>Выявлены ужасающие последствия популярной процедуры аппаратной липосакции</title>
+  <link>https://lenta.ru/news/2023/04/26/cryolipolysis/</link>
+  <description>
+    <![CDATA[Американские фармацевтические компании годами занижали данные об осложнениях после аппаратной липосакции Coolsculpting. Отмечается, что у некоторых пациентов после такой процедуры увеличивалось количество жира, он становился твердым и иногда принимал форму аппликатора устройства.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/18/12/20230418123156641/pic_444763aa00a46523ba60e89f8c8dabd5.jpeg" type="image/jpeg" length="23800"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/rcnk/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Названо условие для признания терактом поджога РЦНК</title>
+  <link>https://lenta.ru/news/2023/04/26/rcnk/</link>
+  <description>
+    <![CDATA[Поджог Российского центра науки и культуры (РЦНК) в Никосии признают терактом при том условии, если в здание бросили коктейль Молотова. Такое условие назвал глава Россотрудничества Евгений Примаков. По его словам, центр активно работает на Кипре, хотя там происходили разные эксцессы до этого инцидента.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426170847009/pic_232126f23b854f9170f17b1d3bd2bdf7.jpg" type="image/jpeg" length="15630"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/elephant/</guid>
+  <author>Алиса Удовик</author>
+  <title>Беременная слониха насмерть затоптала погонщика</title>
+  <link>https://lenta.ru/news/2023/04/26/elephant/</link>
+  <description>
+    <![CDATA[В Таиланде беременная слониха насмерть затоптала 60-летнего погонщика Чата Мокхома. Как рассказал свидетель произошедшего, агрессивное животное подняло человека над землей, а затем бросило его в воду и начало топтать. Мужчина получил многочисленные травмы и погиб на месте.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/24/10/20230424100921533/pic_99e99774765cdde7e740ea6fee2ea77f.jpg" type="image/jpeg" length="34287"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/min_oborr/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Минобороны Украины снова заподозрили в закупке продуктов по завышенным ценам</title>
+  <link>https://lenta.ru/news/2023/04/26/min_oborr/</link>
+  <description>
+    <![CDATA[Минобороны Украины снова уличили в закупке продуктов для военных по завышенным ценам. Согласно опубликованным данным, Минобороны закупает продукты значительно дороже, чем Главное управление разведки (ГУР) Украины. Кроме того, ГУР уже активно отчитываются о закупках, тогда как Минобороны пока не предоставляет данные.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/17/20230426170129846/pic_611e7e27ead4843b5302c8b9ee811527.jpeg" type="image/jpeg" length="31481"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/footrussia/</guid>
+  <author>Алексей Гусев</author>
+  <title>Стало известно о раскрытии договорного матча в российском футболе</title>
+  <link>https://lenta.ru/news/2023/04/26/footrussia/</link>
+  <description>
+    <![CDATA[Футболисты белгородского «Салюта» и «СКА-Хабаровск-2» провели договорной матч в рамках первенства второго дивизиона чемпионата России. Встреча прошла 20 октября 2022 года и завершилась со счетом 3:1 в пользу белгородцев. Организаторами выступили футболисты клуба «Ессентуки» Джоси Дзауров и Зийадхан Маммадов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426164511288/pic_46725f7ed4d9c977e10b6a57ef3c4a87.webp" type="image/webp" length="11808"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/turkey_west/</guid>
+  <author>Семен Александров</author>
+  <title>Турция призвала Запад объединить усилия для начала переговоров по Украине</title>
+  <link>https://lenta.ru/news/2023/04/26/turkey_west/</link>
+  <description>
+    <![CDATA[Анкара призывает страны Запада объединить усилия для начала переговоров по урегулированию конфликта на Украине. Об этом заявил официальный представитель президента Турции Ибрагим Калын. Он подчеркнул, что необходимо «мобилизовать все средства и возможности для завершения боевых действий на Украине».]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:05:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426164352407/pic_0647d68875801e9febc03552c0a70ef5.jpeg" type="image/jpeg" length="48048"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/oaee/</guid>
+  <author>Александра Качан</author>
+  <title>Россияне отвернулись от съемного жилья в одной стране</title>
+  <link>https://lenta.ru/news/2023/04/26/oaee/</link>
+  <description>
+    <![CDATA[По итогам первого квартала 2023 года российский спрос на аренду жилья в Объединенных Арабских Эмиратах (ОАЭ) снизился на 9,29 процента относительно четвертого квартала 2022 года. При этом результат января-марта этого года оказался на 61,77 процента выше, чем в аналогичный период 2022-го.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426140548626/pic_a026db08ca49fde46c4a2f94404ae440.jpg" type="image/jpeg" length="48570"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/segregatcia/</guid>
+  <author>Мария Грушко</author>
+  <title>В Казахстане объяснили сегрегацию счетов граждан России и Белоруссии</title>
+  <link>https://lenta.ru/news/2023/04/26/segregatcia/</link>
+  <description>
+    <![CDATA[Центральный депозитарий Республики Казахстан объяснил, что начал принудительно отделять брокерские счета граждан РФ и Белоруссии от счетов других клиентов из-за требований европейских депозитариев. ЦДРК сегрегировал активы с 2022-го, однако теперь он будет отделять активы на брокерских счетах, открытых депонентами РК.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426164856073/pic_6b0dfcff6f3e0ed20e310e5f6b1cc4dd.jpg" type="image/jpeg" length="22856"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/sochi/</guid>
+  <author>Валентина Процкова</author>
+  <title>В бюджетных отелях Сочи закончились места для туристов</title>
+  <link>https://lenta.ru/news/2023/04/26/sochi/</link>
+  <description>
+    <![CDATA[В популярных гостиницах Сочи закончились места для туристов — россияне раскупили бюджетные номера на все лето. Вице-президент Ассоциации туроператоров России (АТОР), гендиректор туроператора «Дельфин» Сергей Ромашкин уточнил, что наибольшая загруженность наблюдается в отелях так называемого Большого Сочи. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/12/20230426125247566/pic_5525e21eff60def945c1c4b3a51c62fb.jpeg" type="image/jpeg" length="39556"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/ol/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Хью Грант сыграл умпа-лумпа в новом фильме о Вилли Вонке</title>
+  <link>https://lenta.ru/news/2023/04/26/ol/</link>
+  <description>
+    <![CDATA[Британский актер Хью Грант сыграл умпа-лумпа в новом фильме о шоколадном магнате Вилли Вонке с актером Тимоти Шаламе в главной роли. В трейлере мюзикла «Вилли Вонка», показанном на выставке CinemaCon, появляется один из умпа-лумпов, которого играет Грант.  В видео герой застрял в крошечной стеклянной банке.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 17:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426153151999/pic_13be1962e9f961a0cf375f30bccf49d3.jpeg" type="image/jpeg" length="32840"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/khabib/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Нурмагомедова включили в топ-3 лучших бойцов 2010-х годов</title>
+  <link>https://lenta.ru/news/2023/04/26/khabib/</link>
+  <description>
+    <![CDATA[Sherdog составил рейтинг лучших бойцов 2010-х годов. Лидером списка стал американец Джон Джонс, возглавляющий рейтинг Абсолютного бойцовского чемпионата (UFC) вне зависимости от весовых категорий. Вслед за ним расположился его соотечественник Деметриус Джонсон. Замкнул тройку лидеров россиянин Хабиб Нурмагомедов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:59:42 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426164155877/pic_3a23a6e42a7a50970e08fb7c676eb1ad.jpg" type="image/jpeg" length="26093"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vigulsobaki/</guid>
+  <author>Илона Палей</author>
+  <title>Командира разведки ВСУ осудят за убийство выгуливающих собаку мирных жителей</title>
+  <link>https://lenta.ru/news/2023/04/26/vigulsobaki/</link>
+  <description>
+    <![CDATA[В Донецкой народной республике (ДНР) перед судом предстанет 35-летний командир разведывательного батальона вооруженных сил Украины Олег Лукьяненко, которого обвиняют в убийстве двух мирных жителей. По версии следствия, он выстрелил из снайперской винтовки в мужчину и женщину, которые выгуливали собаку. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:57:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426165039803/pic_712f2852763bcb03e7ed07a4dfd22db5.jpg" type="image/jpeg" length="25782"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/brain/</guid>
+  <author>Елена Апазиди</author>
+  <title>Изучен процесс формирования долговременных воспоминаний</title>
+  <link>https://lenta.ru/news/2023/04/26/brain/</link>
+  <description>
+    <![CDATA[Ученые Медицинского колледжа Альберта Эйнштейна в Нью-Йорке (США) изучили процесс формирования долговременных воспоминаний. Оказалось, что один стимул для нейрона запускал цепочку реакций, в ходе которых ген Arc производил молекулы мРНК, а они затем копировались в белки, усиливающие связь синапсов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:56:26 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426150820093/pic_d625971830bdabfba20ad63c277b4897.jpg" type="image/jpeg" length="26845"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/tobacco/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>Производителя сигарет оштрафовали за поставки в Северную Корею</title>
+  <link>https://lenta.ru/news/2023/04/26/tobacco/</link>
+  <description>
+    <![CDATA[Минюст США оштрафовал British American Tobacco и ее дочернюю компанию из Сингапура на 629 миллионов долларов за торговлю в КНДР в обход американских санкций. В 2007 году фирма продала долю в севернокорейской компании по производству сигарет за символическую сумму в один евро, но продолжила управлять бизнесом.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:51:07 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160725610/pic_a8fbe9e28633d0ed42d2b4689041e059.jpeg" type="image/jpeg" length="27743"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/inoagent/</guid>
+  <author>Никита Абрамов</author>
+  <title>В Госдуму внесли ужесточающий закон об иноагентах проект</title>
+  <link>https://lenta.ru/news/2023/04/26/inoagent/</link>
+  <description>
+    <![CDATA[В Госдуму внесли законопроект, который усилит контроль за исполнением закона об иноагентах. Об этом сообщил глава комиссии нижней палаты парламента по расследованию иностранного вмешательства Василий Пискарев. Он отметил, что необходимо устранить лазейки и пробелы для тех, кто находится под иностранным влиянием. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426165133495/pic_542e6ff29dcf1205ec2775013be83bc4.jpeg" type="image/jpeg" length="27569"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/impuls/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>В Белом доме отреагировали на беседу Зеленского и Си Цзиньпина</title>
+  <link>https://lenta.ru/news/2023/04/26/impuls/</link>
+  <description>
+    <![CDATA[Белый дом приветствует состоявшийся разговор между украинским президентом Владимиром Зеленским и председателем КНР Си Цзиньпином, однако нет никаких гарантий того, что их диалог даст необходимый импульс к миру на Украине. В таком ключе прокомментировал телефонную беседу Украины и Китая администрация Джо Байдена]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426164645433/pic_1c378630b048f63410e2ef8d2e5302c3.jpeg" type="image/jpeg" length="18729"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/snbo_bakhmut/</guid>
+  <author>Алевтина Запольская</author>
+  <title>На Украине назвали последствия сдачи Артемовска</title>
+  <link>https://lenta.ru/news/2023/04/26/snbo_bakhmut/</link>
+  <description>
+    <![CDATA[Сдача Артемовска (дореволюционное название, принятое на Украине — Бахмут) украинскими войсками приведет к обвалу фронта. Такие последствия отступления Вооруженных сил Украины из города назвал секретарь Совета национальной безопасности и обороны республики Алексей Данилов.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426163100530/pic_5d07e61afad3c55101206ff3d8fe063a.jpeg" type="image/jpeg" length="50743"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/yennefer/</guid>
+  <author>Алина Гостева</author>
+  <title>Наряд Йеннифер в новом «Ведьмаке» высмеяли в сети из-за сходства с одеждой H&amp;M</title>
+  <link>https://lenta.ru/news/2023/04/26/yennefer/</link>
+  <description>
+    <![CDATA[Наряд чародейки Йеннифер в новом сезоне сериала «Ведьмак» высмеяли в сети из-за сходства с одеждой шведского бренда H&M. Героиня, роль которой исполнила актриса Аня Чалотра, появилась на кадрах тизера третьего сезона сериала в присборенной сиреневой блузке с овальным вырезом, длинными рукавами и черным принтом. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:43:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426154141705/pic_6c02f0e59e0119d215f5bfbb1e6d822a.jpg" type="image/jpeg" length="18902"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/et/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Стивен Спилберг убрал оружие из фильма «Инопланетянин» и пожалел об этом</title>
+  <link>https://lenta.ru/news/2023/04/26/et/</link>
+  <description>
+    <![CDATA[Известный голливудский режиссер Стивен Спилберг признал, что совершил ошибку, когда вырезал оружие из обновленной версии фильма «Инопланетянин». По словам Спилберга, предпринятый шаг был ошибкой и ему «никогда не следовало этого делать». «"Инопланетянин" — продукт своей эпохи», — сказал он.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:40:19 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426152237891/pic_fc46444d6740022da6e11cf552692819.jpeg" type="image/jpeg" length="19957"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/winx/</guid>
+  <author>Никита Абрамов</author>
+  <title>В российском городе закрыли сайт с инструкцией «Как стать феей Винкс»</title>
+  <link>https://lenta.ru/news/2023/04/26/winx/</link>
+  <description>
+    <![CDATA[В Туле по требованию прокуратуры закрыли сайт, на котором находилась инструкция «Как стать феей Винкс в домашних условиях». Об этом сообщает портал «Тульские новости». В материалах дела говорится, что надзорный орган провел мониторинг по запросу «как стать феей огня из Винкс» и обнаружил на одном из сайтов материал.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161752498/pic_9d06c416ec1ef5fb947bc5dfb53f8ab2.jpeg" type="image/jpeg" length="39802"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/plane_vld/</guid>
+  <author>Фариза Бацазова</author>
+  <title>Дрон-разведчик едва не сорвал взлет пассажирского самолета в аэропорту Москвы</title>
+  <link>https://lenta.ru/news/2023/04/26/plane_vld/</link>
+  <description>
+    <![CDATA[Дрон-разведчик едва не сорвал взлет российского пассажирского лайнера. Инцидент произошел 25 апреля с самолетом, летевшим из Москвы во Владикавказ. Неизвестный летательный аппарат был замечен в районе столичного аэропорта Шереметьево. Он двигался ровно по траектории движения воздушного судна.<br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161718633/pic_0e622d1e99fd6e44dc0eee83f4798ff4.jpeg" type="image/jpeg" length="19401"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/sudba/</guid>
+  <author>Евгения Куликова</author>
+  <title>Стала известна судьба освобожденных из украинского плена российских военных</title>
+  <link>https://lenta.ru/news/2023/04/26/sudba/</link>
+  <description>
+    <![CDATA[40 освобожденных из украинского плена российских военнослужащих самолетами военно-транспортной авиации ВКС будут доставлены в Москву для лечения и последующей реабилитации. Всем им оказывается медицинская и психологическая помощь. Военнослужащих удалось вернуть 26 апреля в результате переговорного процесса.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426163529813/pic_43a4eba257cc6a6ed3a57a1a5c9143e8.jpg" type="image/jpeg" length="55346"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/graad/</guid>
+  <author>Анна Щербакова</author>
+  <title>Похожий на гранату РГД-5 предмет обнаружили на берегу Финского залива</title>
+  <link>https://lenta.ru/news/2023/04/26/graad/</link>
+  <description>
+    <![CDATA[Похожий на гранату РГД-5 предмет обнаружили на берегу Финского залива в курортном петербургском поселке Репино. Очевидцы заметили угрожающую находку на пляже Чудный и сразу обратились в правоохранительные органы, сообщает Telegram-канал «Mash на Мойке». Территорию огородили от прохожих. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426162804416/pic_6e067c934d9e3f4e430148665eb4b9e0.jpg" type="image/jpeg" length="27940"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/tankivodessu/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Страны НАТО поставили 30 танков в Одесскую область</title>
+  <link>https://lenta.ru/news/2023/04/26/tankivodessu/</link>
+  <description>
+    <![CDATA[Вооруженные силы Украины (ВСУ) получили от стран НАТО 30 танков для доукомплектования танкового батальона в Одесской области. Батальон численностью до 300 человек слаживается в городе Подольск (бывший Котовск — прим. <i>«Ленты. ру»</i>) Одесской области. Речь идет о 24 танках Т-72 и 6  танках Leopard. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426162925069/pic_a9e3ef33dbfb348c9650e6f2714c18ed.jpeg" type="image/jpeg" length="15837"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kinoteatryvse/</guid>
+  <author>Сергей Равин</author>
+  <title>Режиссер Дэвид Линч назвал эпоху кинотеатров завершившейся</title>
+  <link>https://lenta.ru/news/2023/04/26/kinoteatryvse/</link>
+  <description>
+    <![CDATA[Голливудский кинорежиссер Дэвид Линч назвал эпоху кинематографа завершившейся из-за стриминговых платформ. По словам 77-летнего постановщика, точку в истории кинотеатров поставила пандемия коронавирусной инфекции. «Полнометражные фильмы переживают не лучшее время, их место заняли сериалы», — заявил он.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:33:57 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426141757503/pic_1cce56c54f03c0f74f16e25b3901fd68.jpg" type="image/jpeg" length="10823"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/plen_40/</guid>
+  <author>Зураб Дарахвелидзе</author>
+  <title>Минобороны объявило о возвращении из украинского плена 40 российских военных</title>
+  <link>https://lenta.ru/news/2023/04/26/plen_40/</link>
+  <description>
+    <![CDATA[40 российских военных были возвращены из украинского плена в результате переговоров, сообщило Минобороны. В ведомстве подчеркнули, что в плену солдатам грозила смертельная опасность. В ближайшее время их доставят в Москву для реабилитации и лечения. Сейчас освобожденным оказывается медицинская и психологическая помощь.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426163339403/pic_a61835a6a302b7a5ce5766faac4195cf.jpg" type="image/jpeg" length="30497"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/warthog/</guid>
+  <author>Даниил Иринин</author>
+  <title>Американские штурмовики A-10 получат больше высокоточных бомб</title>
+  <link>https://lenta.ru/news/2023/04/26/warthog/</link>
+  <description>
+    <![CDATA[Штурмовики A-10 Thunderbolt II Военно-воздушных сил (ВВС) США смогут нести до 16 управляемых высокоточных бомб GBU-39/B Small Diameter Bomb после обновления программного обеспечения (ПО) самолета, пишет The Drive. Новая версия ПО позволяет оснастить штурмовик дополнительными бомбодержателями.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/12/20230426123328417/pic_d3cb100f196fc93bb8199ca67469b3a9.jpg" type="image/jpeg" length="17067"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/zaderzmachet/</guid>
+  <author>Илона Палей</author>
+  <title>Напавшего с мачете на россиянина 17-летнего подростка задержали</title>
+  <link>https://lenta.ru/news/2023/04/26/zaderzmachet/</link>
+  <description>
+    <![CDATA[В Якутии полицейские задержали 17-летнего подростка, который изрезал мачете 41-летнего местного жителя. В отношении студента возбуждено уголовное дело по части 3 статье 30 и статье 105 («Покушение на убийство») УК РФ. При задержании у него изъяли два ножа, их отправили на исследование.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426142409252/pic_1326035bfa55b3f7522f69269757ccf3.jpeg" type="image/jpeg" length="29628"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/summer_plan/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Стало известно расписание фестиваля «VK Музыка Summer Stage» в этом году</title>
+  <link>https://lenta.ru/news/2023/04/26/summer_plan/</link>
+  <description>
+    <![CDATA[Стало известно расписание музыкального фестиваля «VK Музыка Summer Stage», который пройдет на Дубровке в этом году. Сообщается, что арт-дирекция площадки запланировала 60 событий, которые начнутся 26 мая и завершатся в последние солнечные дни осени. На сцене фестиваля появятся артисты Markul, Andro, Сюзанна и другие.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160621588/pic_0c656b661fd4f2e4f57ca1f8d202fa1e.jpg" type="image/jpeg" length="26683"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vystrel/</guid>
+  <author>Алан Босиков</author>
+  <title>В Подмосковье двухлетний ребенок выстрелил себе в лоб из травматического оружия</title>
+  <link>https://lenta.ru/news/2023/04/26/vystrel/</link>
+  <description>
+    <![CDATA[В подмосковном Пушкино двухлетний ребенок выстрелил себе в лоб из травматического пистолета. Ребенок нашел оставленное без присмотра взрослых оружие. Мальчика госпитализировали в крайне тяжелом состоянии. Врачи диагностировали у пострадавшего перелом кости свода черепа. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426162125675/pic_9d4cda8f2cb590cd7f2a8d355350a3e0.jpg" type="image/jpeg" length="19108"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/brks/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В России ответили на желание южноамериканской страны вступить в БРИКС</title>
+  <link>https://lenta.ru/news/2023/04/26/brks/</link>
+  <description>
+    <![CDATA[Депутат Госдумы Дмитрий Новиков в разговоре с «Лентой.ру» заявил, что Аргентина является одной из крупнейших стран Латинской Америки с весомым экономическим потенциалом. Участие такого государства в БРИКС могло бы помочь союзу лучше отстаивать свои позиции и интересы на международной арене.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161941846/pic_3b252e7309e8bf7dfeacde9b4f19f6f2.jpg" type="image/jpeg" length="20407"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/stressout/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Врач назвала причины отсутствия результатов от тренировок</title>
+  <link>https://lenta.ru/news/2023/04/26/stressout/</link>
+  <description>
+    <![CDATA[Врач-диетолог Сьюзи Баррелл назвала причины отсутствия результатов от тренировок и диеты. «Простое сокращение калорий без предоставления вашему телу правильных питательных веществ может привести к обратным результатам при попытке сбросить килограммы», — заявила специалист.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426153827920/pic_a8afacac39192c02f71e0806226f8d9e.jpg" type="image/jpeg" length="23126"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/dryshampoo/</guid>
+  <author>Мария Винар</author>
+  <title>Врач раскрыла неожиданные последствия постоянного использования сухого шампуня</title>
+  <link>https://lenta.ru/news/2023/04/26/dryshampoo/</link>
+  <description>
+    <![CDATA[Дерматолог, доцент клинической дерматологии в Медицинском центре Вейла Корнелла Шари Липнер раскрыла неожиданные последствия постоянного использования сухого шампуня. Специалист заявила, что данный продукт не предназначен для очищения головы. В случае злоупотребления им может возникнуть фолликулит.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/25/12/20230425125904033/pic_d7ae8fcc3cacc88e09af8cec67a06a48.jpg" type="image/jpeg" length="23160"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/pojjjd/</guid>
+  <author>Анна Щербакова</author>
+  <title>Столб дыма на территории НИИ противопожарной обороны в Подмосковье напугал людей</title>
+  <link>https://lenta.ru/news/2023/04/26/pojjjd/</link>
+  <description>
+    <![CDATA[Столб дыма на территории НИИ противопожарной обороны в подмосковной Балашихе напугал людей. Видеокадры с места от очевидцев опубликовал Telegram-канал Shot. В региональном управлении МЧС пояснили, что на территории проводятся учения. Опасности для граждан нет, заверили в ведомстве. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:17:05 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160822769/pic_5015b1b268c8b0b7034374e0e7c7b7e4.jpg" type="image/jpeg" length="16865"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/shpic/</guid>
+  <author>Евгения Куликова</author>
+  <title>Стала известна судьба распылившего в лицо девочке перцовый баллончик петербуржца</title>
+  <link>https://lenta.ru/news/2023/04/26/shpic/</link>
+  <description>
+    <![CDATA[Против жителя Московского района Санкт-Петербурга, который распылил перцовый баллончик в лицо шестилетней девочке, составили административный протокол за выгул собаки без намордника и поводка. Хозяину шпица теперь грозит штраф пять тысяч рублей. Об инциденте стало известно 25 апреля.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426155859119/pic_158055449bbb8653bad5a3b6bb84c59d.jpeg" type="image/jpeg" length="13712"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/leadingrole/</guid>
+  <author>Глеб Бажуткин</author>
+  <title>Италия захотела сыграть ведущую роль в восстановлении Украины</title>
+  <link>https://lenta.ru/news/2023/04/26/leadingrole/</link>
+  <description>
+    <![CDATA[Рим намерен сыграть ведущую роль в восстановлении Украины после окончания российской специальной военной операции, заявила премьер-министр Италии Джорджа Мелони. «Мы хотим играть ведущую роль не только в области политики, но и с точки зрения привлечения бизнеса», — сказала она.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161223085/pic_66c3309d9b4c9162be27e80960f41417.jpg" type="image/jpeg" length="19776"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/pozar_ogon/</guid>
+  <author>Алена Шевченко</author>
+  <title>Россиянин из сгоревшего поселка описал ситуацию фразой «некуда идти спасаться»</title>
+  <link>https://lenta.ru/news/2023/04/26/pozar_ogon/</link>
+  <description>
+    <![CDATA[Житель охваченного огнем поселка Сосьва в Свердловской области, пожелавший остаться анонимным, в беседе с «Лентой.ру» описал ситуацию фразой «некуда идти спасаться». При этом россиянин сообщил, что в поселке открылись пункты, в которых граждане могут отсидеться и переждать стихию. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160823793/pic_ee9de4ebe490667d67616b94a477e544.jpg" type="image/jpeg" length="21695"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/atom/</guid>
+  <author>Софья Ермакова</author>
+  <title>В России возьмутся за производство аналогов Mini Cooper и BMW i3</title>
+  <link>https://lenta.ru/news/2023/04/26/atom/</link>
+  <description>
+    <![CDATA[В России возьмутся за производство аналогов Mini Cooper и BMW i3 — они войдут в линейку нового российского электромобиля «Атом». Всего появится четыре модели — одноместная Delivery, двухместная Duo, четырехместная Taxi и пятиместная Family. Батареи обеспечат пробег в 500 километров на одном заряде.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160938555/pic_e85f8d0396a0e8fdfc85545fa1bb1185.jpg" type="image/jpeg" length="30007"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/pole_chudes/</guid>
+  <author>Евгения Наумова</author>
+  <title>Якубович раскрыл подробности съемок шоу «Поле чудес»</title>
+  <link>https://lenta.ru/news/2023/04/26/pole_chudes/</link>
+  <description>
+    <![CDATA[Ведущий капитал-шоу «Поле чудес» на Первом канале Леонид Якубович раскрыл подробности съемок программы. Он назвал единственный способ попасть в передачу, а также ответил на вопрос о том, сколько человек работает в команде проекта. Помимо этого, ведущий рассказал, есть ли у программы заранее заготовленный сценарий.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/13/20230426134230010/pic_96d8364d031edcf4311f0c22d5b6ba42.jpg" type="image/jpeg" length="27946"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/delegacia/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Китайскую делегацию по украинскому кризису возглавит экс-посол КНР в РФ</title>
+  <link>https://lenta.ru/news/2023/04/26/delegacia/</link>
+  <description>
+    <![CDATA[Китайскую делегацию по урегулированию украинского кризиса возглавит экс-посол КНР в России Ли Хуэй. Об этом заявил журналистам замдиректора департамента стран Центральной Азии и Восточной Европы МИД КНР Юй Цзюнь. Ранее председатель КНР Си Цзиньпин заявил о скором прибытии своего представителя с визитом на Украину.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161312763/pic_1bbe22454d3330f489c5de9b68595d3e.jpg" type="image/jpeg" length="16437"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/chezh_sanctions/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Чехия ввела санкции против патриарха Кирилла</title>
+  <link>https://lenta.ru/news/2023/04/26/chezh_sanctions/</link>
+  <description>
+    <![CDATA[Правительство Чехии решило ввести санкции против патриарха Московского Кирилла. Глава Русской Православной Церкви стал первым физическим лицом из России, попавшим в новый санкционный список Праги. Рестрикции против патриарха Кирилла ввели из-за его поддержки действий российских сил на Украине. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426161054852/pic_d3c62872c4ee16af3b32dea48f4c6cfb.jpg" type="image/jpeg" length="36197"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/greece_tours/</guid>
+  <author>Фариза Бацазова</author>
+  <title>Россиянам предложили способ попасть в Европу без авиапересадок</title>
+  <link>https://lenta.ru/news/2023/04/26/greece_tours/</link>
+  <description>
+    <![CDATA[Россиянам стал доступен способ попасть в Европу без авиапересадок — туроператоры предложили путевки в Грецию с паромной перевозкой из Турции. Так, в продаже Ambotis Holidays появились туры на греческие острова Кос и Родос. Доставлять туристов на них будут с Эгейского побережья Турции на пассажирских судах.<br />]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:10:34 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426144921762/pic_dc8fc3dc0336411fe9e574458290f831.jpg" type="image/jpeg" length="30309"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/maslo_china/</guid>
+  <author>Семен Александров</author>
+  <title>Китай призвал стороны конфликта на Украине не подливать масла в огонь</title>
+  <link>https://lenta.ru/news/2023/04/26/maslo_china/</link>
+  <description>
+    <![CDATA[Стороны конфликта на Украине должны способствовать мирному урегулированию, а не подливать масла в огонь. Так официальный представитель МИД КНР Мао Нин отреагировала на поставки Лондоном снарядов с обедненным ураном Киеву, о которых ранее сообщил замглавы британского Минобороны Джеймс Хиппи.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160806839/pic_3d15f60839553faf05b4ed30303b223c.jpg" type="image/jpeg" length="26034"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/bombingukraine/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Генерал ВСУ заявил о невозможности перехватить российские бомбардировщики</title>
+  <link>https://lenta.ru/news/2023/04/26/bombingukraine/</link>
+  <description>
+    <![CDATA[Сбить российскую бомбардировочную авиацию, которая применяет фугасные авиабомбы, не входя в зону противовоздушной обороны (ПВО), крайне трудно из-за прикрытия российских истребителей. Об этом заявил командующий Объединенными силами Вооруженных сил Украины (ВСУ) генерал Сергей Наев.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160524880/pic_9d3576e3d784611f30883ead083d8c78.jpg" type="image/jpeg" length="6901"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/yakuza/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Застреленный хозяин японской лапшичной оказался боссом якудзы</title>
+  <link>https://lenta.ru/news/2023/04/26/yakuza/</link>
+  <description>
+    <![CDATA[Владелец ресторана рамен в Японии был найден убитым на кухне заведения. Полиция установила, что помимо ведения ресторанного бизнеса мужчина был боссом якудзы. Японца убили выстрелом в голову. Полицейские предположили, что причиной убийства могло стать противостояние между преступными группировками.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/25/10/20230425101246128/pic_52811813f6e394955216bd3af5cb838f.jpeg" type="image/jpeg" length="23229"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/shashlyk_shtraf/</guid>
+  <author>Нина Ташевская</author>
+  <title>Россиян предупредили о штрафах за жарку шашлыка</title>
+  <link>https://lenta.ru/news/2023/04/26/shashlyk_shtraf/</link>
+  <description>
+    <![CDATA[В 2023 году в России изменили правила и разрешили дачникам жарить шашлык в пяти и более метрах от любых построек. При этом в лесу разводить огонь для приготовления мяса запрещено, за нарушение норм может грозить штраф. Об этом россиян предупредила член Ассоциации юристов России Анастасия Громакова.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160153274/pic_431bc23dd9e61c2bb56fb1506a39493d.jpg" type="image/jpeg" length="32453"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/kirgizovv/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Напавший на полицейских с топором экс-глава российского города осужден к работам</title>
+  <link>https://lenta.ru/news/2023/04/26/kirgizovv/</link>
+  <description>
+    <![CDATA[В Забайкальском крае суд вынес приговор бывшему главе городского поселения Сретенское Евгению Киргизову, в пьяном состоянии напавшем на полицейских с топором. 10 марта он угрожал убийством местным жителям, совершил дорожно-транспортное происшествие, и, когда его заблокировали полицейские, бросился на них.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/13/20230426133221337/pic_19bce5773086423493327606f617c7df.jpeg" type="image/jpeg" length="22121"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/edge/</guid>
+  <author>Андрей Ставицкий</author>
+  <title>Браузер Microsoft Edge оказался небезопасным</title>
+  <link>https://lenta.ru/news/2023/04/26/edge/</link>
+  <description>
+    <![CDATA[Специалисты обратили внимание на ошибку, из-за которой браузер Edge мог раскрыть конфиденциальные данные пользователей. Выяснилось, что проблема заключается в сбое встроенного сервиса, который должен помогать пользователю подписываться на различные источники в интернете. В Microsoft пообещали устранить неполадку.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/12/20230426122133365/pic_fbd2b61d714156e2013b025a0089a917.jpg" type="image/jpeg" length="13085"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/videokoll/</guid>
+  <author>Екатерина Власова</author>
+  <title>Задержание ФСБ работавших на ВСУ мошенников из кол-центров попало на видео</title>
+  <link>https://lenta.ru/news/2023/04/26/videokoll/</link>
+  <description>
+    <![CDATA[ФСБ показала видео задержания мошенников из кол-центров, действовавших в интересах Вооруженных сил Украины. На кадрах бойцы спецслужбы приходят в офис аферистов и кладут всех сотрудников лицом в пол. Показаны рабочие места задержанных. Возбуждено дело по статье о мошенничестве. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426153753962/pic_e5397a3f75b93da4606cbbfdef693994.jpg" type="image/jpeg" length="17839"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/priziv/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Еврокомиссия ответила на запрос Венгрии отменить антироссийские санкции</title>
+  <link>https://lenta.ru/news/2023/04/26/priziv/</link>
+  <description>
+    <![CDATA[Глава Еврокомиссии Урсула фон дер Ляйен ответила на запрос представителей местных властей Венгрии отменить санкции против России. Кроме того, глава ассоциации решил предложить мэрам всех городов Венгрии поддержать резолюцию с призывом к мирному урегулированию конфликта на Украине.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 16:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/16/20230426160028865/pic_04bcef4f89c7eef952b50a933983985d.jpeg" type="image/jpeg" length="17418"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/vykup_mercedesa/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>В Минпромторге назвали срок для обратного выкупа завода Mercedes</title>
+  <link>https://lenta.ru/news/2023/04/26/vykup_mercedesa/</link>
+  <description>
+    <![CDATA[Немецкий автоконцерн Mercedes-Benz получил опцион на обратный выкуп российских активов сроком на шесть лет. Об этом рассказал вице-премьер, глава Минпромторга Денис Мантуров. Производитель может выкупить у российского дилера «Автодом» завод в Подмосковье после независимой оценки его рыночной стоимости.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 15:58:53 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426145158573/pic_a3a6e4436f5c53dc6b73505de7d9b96c.jpg" type="image/jpeg" length="32783"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/fakemoney/</guid>
+  <author>Влада Горячева</author>
+  <title>В России снизилось количество фальшивых рублей</title>
+  <link>https://lenta.ru/news/2023/04/26/fakemoney/</link>
+  <description>
+    <![CDATA[Центральный банк России сообщил, что в первом квартале текущего года в банковской системе было обнаружено почти на 63 процента меньше поддельных рублей, чем за аналогичный период 2022 года. Подавляющее большинство фальшивок пришлось на банкноты номиналом пять тысяч — 2082 купюры из 3018.]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 15:58:52 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/14/20230426144732862/pic_9ca491d25cf23c5dd9107677d78515ca.jpg" type="image/jpeg" length="28105"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2023/04/26/touchdown/</guid>
+  <author>Алан Босиков</author>
+  <title>Российский подросток разбил палку о голову сверстницы за отказ целовать обувь</title>
+  <link>https://lenta.ru/news/2023/04/26/touchdown/</link>
+  <description>
+    <![CDATA[В Ярославской области подросток разбил деревянную палку о голову сверстницы за отказ целовать обувь и попал на видео. На кадрах подросток предлагает девочке избежать насилия, если она поцелует его ботинок. Затем он бьет школьницу по голове. От удара парка разлетается в щепки. ]]>
+  </description>
+  <pubDate>Wed, 26 Apr 2023 15:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/04/26/15/20230426155251526/pic_81edfb8dc81ac9f1a8ba09b6af51d5c0.jpg" type="image/jpeg" length="23723"/>
+  <category>Россия</category>
+</item>
+  </channel>
+</rss>

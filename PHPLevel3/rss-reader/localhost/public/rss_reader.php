@@ -4,8 +4,9 @@
 // http://mysite.local => http://localhost:8000
 // RSS_TTL : CACHE TIME
 
+# php -S localhost:9090 -t public -d display_errors=1
 const RSS_URL     = "http://localhost:8000/news/public/rss.xml";
-const FILE_NAME   = __DIR__."/news.xml";
+const FILE_NAME   = "news.xml";
 const RSS_TTL     = 3600;
 
 
@@ -38,17 +39,12 @@ if (! is_file(FILE_NAME)) {
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
 </head>
 <body>
- <div class="container">
-     <div class="row">
-         <div class="col-md-8 offset-2">
-             <h1 class="mt-3">Последние новости</h1>
-             <hr>
-             <?php
+  <?php
 
-             $xml = simplexml_load_file(FILE_NAME);
+   $xml = simplexml_load_file(__DIR__ . 'index.php/' . FILE_NAME);
 
-             foreach ($xml->channel->item as $item) {
-                 echo <<<ITEM
+   foreach ($xml->channel->item as $item) {
+        echo <<<ITEM
           <div>
               <h3>{$item->title}</h3>
               <p>
@@ -61,16 +57,8 @@ if (! is_file(FILE_NAME)) {
               </p>
          </div>
 ITEM;
-             }
 
-             // CACHE
-             // filemtime(FILE_NAME) : вернет последние дату изменения файла
-             if (time() > filemtime(FILE_NAME) + RSS_TTL) {
-                 download(RSS_URL, FILE_NAME);
-             }
-             ?>
-         </div>
-     </div>
- </div>
+   }
+  ?>
 </body>
 </html>
