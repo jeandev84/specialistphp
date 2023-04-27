@@ -16,11 +16,23 @@ function make_request($request_xml, &$arrMessage, $code) {
       'content' => $request_xml, // body
     ]
   ];
-	$context = stream_context_create($opts);		
-	//$fp = fopen('http://xml-rpc/server.php', 'r', false, $context);
-	//$retval = stream_get_contents($fp);
-	$retval = file_get_contents('http://mysite.local/xml-rpc/server.php', false, $context);
+	$context = stream_context_create($opts);
+
+	// позволяет получить подробные инфо (content + заголовки)
+	$fp = fopen('http://mysite.local/xml-rpc/server.php', 'r', false, $context);
+
+	// Получение заголовков ответа
+	print_r(stream_get_meta_data($fp));
+
+
+	// Получаем контент вот таким образом чем использовать file_get_contents()
+	$retval = stream_get_contents($fp);
+    echo $retval;
+
+	// $retval = file_get_contents('http://mysite.local/xml-rpc/server.php', false, $context);
+
 	$data = xmlrpc_decode($retval);
+
 	if (is_array($data) && xmlrpc_is_fault($data)){
 		$arrMessage[] = "Невозможно получить данные о полке номер $code";
 		$arrMessage[] = "Error Code: " . $data['faultCode'];

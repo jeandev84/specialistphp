@@ -26,6 +26,7 @@ class StockService
 
 
 // Отключение кэширования WSDL-документа
+// mode: dev отключить кэш "0", по умолчанию включен
 ini_set("soap.wsdl_cache_enabled", "0");
 
 
