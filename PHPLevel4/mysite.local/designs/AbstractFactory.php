@@ -202,8 +202,16 @@ $colorFactory = FactoryProducer::getFactory("COLOR");
 $red = $colorFactory->getColor('red');
 $red->fill();
 
+/*
+abstract class AbstractFactoryContext {}
+*/
 
-abstract class AbstractFactoryContext
-{
+/*
+$btn = new AppleStyleButton();
+$txt = new AppleStyleTextInput();
 
-}
+$widget = AppleFactory::create();
+$btn    = $widget->createButton();
+$txt    = $widget->createTextInput();
+*/
+
