@@ -1,0 +1,1 @@
+https://technosmarter.com/php/image-resize-while-uploading-in-php-with-mysql-database
