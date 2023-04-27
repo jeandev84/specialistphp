@@ -27,7 +27,7 @@ imageRectangle($i, 20, 20, 80, 280, $blue);
 $points = [0, 0, 100, 200, 300, 200];
 imagePolygon($i, $points, 3, $green);
 imageEllipse($i, 200, 150, 300, 200, $red);
-imageArc($i, 200, 150, 300, 200, 0, 40, $black);
+//imageArc($i, 200, 150, 300, 200, 0, 40, $black);
 imageFilledArc($i, 200, 150, 300, 200, 0, 40, $red, IMG_ARC_PIE);
 
 /* Рисуем текст */
