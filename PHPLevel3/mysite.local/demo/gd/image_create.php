@@ -17,8 +17,8 @@ $black = imageColorAllocate($i, 0, 0, 0);
 $blue  = imageColorAllocate($i, 0, 0, 255);
 $grey  = imageColorAllocate($i, 192, 192, 192);
 
-
 imageFill($i, 0, 0, $grey);
+
 
 /* Рисуем примитивы */
 imageSetPixel($i, 10, 10, $black);
