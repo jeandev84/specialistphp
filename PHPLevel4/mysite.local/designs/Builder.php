@@ -21,6 +21,7 @@ class Window
 // чтобы не заставить передавать все параметры
 // создадим класс который отвечает за создание окна "CreateWindow"
 
+// BUILDER
 class CreateWindow
 {
      private $dialog  = false;
