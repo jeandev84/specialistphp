@@ -50,7 +50,7 @@ class OperationSubtract implements OperationTwoNumbersStrategy
 }
 
 
-class OperationMultiple implements OperationTwoNumbersStrategy
+class OperationMultiplication implements OperationTwoNumbersStrategy
 {
 
     public function doOperation(int $number1, int $number2)
@@ -74,7 +74,13 @@ class OperationDivision implements OperationTwoNumbersStrategy
 
 
 
-class OperationTwoNumbersContext
+interface OperationTwoNumbersContextInterface
+{
+     public function execute(int $number1, int $number2);
+}
+
+
+class OperationTwoNumbersContext implements OperationTwoNumbersContextInterface
 {
     private OperationTwoNumbersStrategy  $strategy;
 
@@ -101,3 +107,38 @@ class OperationTwoNumbersContext
 
 $context = new OperationTwoNumbersContext(new OperationAddition());
 echo $context->execute(3, 4); // 7
+
+
+class Calculator implements OperationTwoNumbersContextInterface
+{
+
+     protected OperationTwoNumbersStrategy $strategy;
+
+
+     /**
+      * @param string $operation
+     */
+     public function __construct(string $operation)
+     {
+           switch ($operation) {
+               case '+': $this->strategy = new OperationAddition(); break;
+               case '-': $this->strategy = new OperationSubtract(); break;
+               case '*': $this->strategy = new OperationMultiplication(); break;
+               case '/': $this->strategy = new OperationDivision(); break;
+           }
+     }
+
+    /**
+     * @param int $number1
+     * @param int $number2
+     * @return float|int
+     * @throws Exception
+     */
+     public function execute(int $number1, int $number2)
+     {
+         return $this->strategy->doOperation($number1, $number2);
+     }
+}
+
+$calculator = new Calculator('+');
+$calculator->execute(2, 3);
