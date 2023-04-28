@@ -1,6 +1,7 @@
 <?php
 /* Итератор для чтения данных из файла */
-class FileIterator implements Iterator {
+class FileIterator implements Iterator
+{
   private $f;
   private $data;
   private $key;
