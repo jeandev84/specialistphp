@@ -1,41 +1,85 @@
 <?php
-class MyIterator implements Iterator{
-  private $var = [];
 
-  public function __construct($array){
-    if (is_array($array)) {
-      $this->var = $array;
+class MyIterator implements Iterator
+{
+
+    private $items = [];
+
+
+
+    /**
+     * @param array $items
+    */
+    public function __construct(array $items){
+        $this->items = $items;
     }
-  }
 
-  public function rewind() {
-    echo "rewinding\n";
-    reset($this->var);
-  }
 
-  public function current() {
-    $var = current($this->var);
-    echo "current: $var\n";
-    return $var;
-  }
 
-  public function key() {
-    $var = key($this->var);
-    echo "key: $var\n";
-    return $var;
-  }
+    /**
+     * Initialize array items
+     *
+     * @return void
+    */
+    public function rewind() {
+       echo "rewinding\n";
+       reset($this->items);
+    }
 
-  public function next() {
-    $var = next($this->var);
-    echo "next: $var\n";
-    return $var;
-  }
 
-  public function valid() {
-    $var = $this->current() !== false;
-    echo "valid: {$var}\n";
-    return $var;
-  }
+
+    /**
+     * Returns $value current iteration
+     *
+     * @return false|mixed
+    */
+    public function current() {
+       $var = current($this->items);
+       echo "current: $var\n";
+       return $var;
+    }
+
+
+
+
+    /**
+     * Returns $key current iteration
+     *
+     * @return int|mixed|string|null
+     */
+    public function key() {
+      $var = key($this->items);
+      echo "key: $var\n";
+      return $var;
+    }
+
+
+
+    /**
+     * Return next $value iteration
+     *
+     * @return false|mixed|void
+    */
+    public function next() {
+       $var = next($this->items);
+       echo "next: $var\n";
+       return $var;
+    }
+
+
+
+
+
+    /**
+     * Determine if has current $value
+     *
+     * @return bool
+    */
+    public function valid() {
+      $var = $this->current() !== false;
+      echo "valid: {$var}\n";
+      return $var;
+    }
 }
 
 $values = [1, 2, 3];

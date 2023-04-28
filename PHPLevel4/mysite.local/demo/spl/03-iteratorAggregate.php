@@ -1,5 +1,6 @@
 <?php
-class NumbersSquared implements Iterator {
+class NumbersSquared implements Iterator
+{
   private $_cur;
   private $_obj;
 

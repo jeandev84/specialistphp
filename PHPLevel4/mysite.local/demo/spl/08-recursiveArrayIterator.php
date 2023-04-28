@@ -1,16 +1,10 @@
 <?php
 $menu = [
-          'Homepage',
-          'Register',
-          'About' => [
-                      'The Team',
-                      'Our Story'
-                    ],
-          'Contact' => [
-                        'Locations',
-                        'Support'
-                      ]
-        ];
+'Homepage',
+'Register',
+'About' => ['The Team', 'Our Story'],
+'Contact' => ['Locations', 'Support']
+];
 // Наследуем RecursiveIteratorIterator
 class MyMenu extends RecursiveIteratorIterator{
   public function beginChildren(){
