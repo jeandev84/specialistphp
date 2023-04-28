@@ -1,6 +1,8 @@
 <?php
-class Course{
+class Course
+{
   private $_name;
+
   public function __construct($name){
     $this->_name = $name;
   }
@@ -15,18 +17,22 @@ $php = new Course('php');
 $xml = new Course('xml');
 $java = new Course('java');
 
+// Добавить объект
 $courses->attach($php);
 $courses->attach($java);
+// $courses->attach($xml);
+
 var_dump( $courses->contains($php) );
 var_dump( $courses->contains($xml) );
 var_dump( $courses->contains($java) );
 
 $courses->attach($xml);
-var_dump( $courses->contains($xml) );
+var_dump($courses->contains($xml));
 
+// Удалить объект
 $courses->detach($java);
 var_dump( $courses->contains($java) );
- 
+
 $titles = [];
 foreach ($courses as $course) {
   $titles[] = (string) $course;
