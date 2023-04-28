@@ -1,5 +1,7 @@
 <?php
-class Db{
+class Db
+{
+
   private $_db;
   function __construct(){
     $this->_db = new SQLite3("users.db");
