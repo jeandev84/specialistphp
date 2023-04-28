@@ -15,9 +15,9 @@ function nums(){
 foreach (nums() as $v) {
      echo "VALUE: $v <br>";
 }
-*/
 
-/*
+
+
 function nums(){
 
     echo "START <br>";
@@ -29,7 +29,6 @@ function nums(){
 }
 
 foreach (nums() as $v);
-*/
 
 
 function gen()
@@ -48,3 +47,16 @@ foreach(gen() as $key => $value) {
     echo "$key : $value</br>";
 }
 
+*/
+
+
+function showLogger() {
+    while (true) {
+        echo 'Log: '. yield . '<br>';
+    }
+}
+
+
+$logger = showLogger();
+$logger->send('Hello');
+$logger->send('World!');
