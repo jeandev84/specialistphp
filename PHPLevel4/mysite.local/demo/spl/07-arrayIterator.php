@@ -1,9 +1,12 @@
 <?php
+// Позволяет делать так что бы PHP относился к массиву как итератор
+// Convert Array to Iterator
+// Превращает массив как объект итератор
 $array = ['Вася', 'Петя', 'Иван', 'Маша', 'Джон', 'Даша', 'Наташа', 'Света'];
 
 try {
   $object = new ArrayIterator($array);
-  foreach($object as $key=>$value){
+  foreach($object as $key => $value){
     echo "$key => $value\n";
   }
 }catch (Exception $e){
