@@ -1,8 +1,10 @@
 <?php
 error_reporting(E_ALL);
-class A implements Serializable{
+class A implements Serializable
+{
   private $varA;
-    public function __construct() {
+
+  public function __construct() {
     $this->varA = 'A';
   }
   public function serialize() {
@@ -16,8 +18,10 @@ class A implements Serializable{
   }
 }
 
-class B extends A {
+class B extends A
+{
   private $varB;
+
   public function __construct() {
     parent::__construct();
     $this->varB = 'B';

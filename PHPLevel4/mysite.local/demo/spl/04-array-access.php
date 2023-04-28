@@ -66,5 +66,11 @@ class Book implements ArrayAccess
 $book = new Book();
 $book['title'] = 'PHP 4';
 if (isset($book['title'])) {
-    $book['title'];
+   echo  $book['title'];
+    unset($book['title']);
 }
+
+$book = new Book();
+$book['title'] = 'PHP 5';
+$book['author'] = 'Brown J.';
+$book['isbn'] = 'b345-tt-dd-fg';

@@ -1,6 +1,8 @@
 <?php
 error_reporting(E_ALL);
-class A {
+
+class A
+{
   private $varA;
   
   public function __construct() {
@@ -10,7 +12,10 @@ class A {
     return $this->varA; 
   }
 }
-class B extends A {
+
+
+class B extends A
+{
   private $varB;
   
   public function __construct() {
