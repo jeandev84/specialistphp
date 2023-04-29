@@ -1,5 +1,5 @@
 <?php
-
+// https://www.php.net/manual/ru/book.curl.php
 // Простой соединение к cURL
 $curl = curl_init();
 
