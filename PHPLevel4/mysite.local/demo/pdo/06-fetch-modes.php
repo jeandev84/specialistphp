@@ -6,7 +6,12 @@ $sql = "SELECT * FROM user";
 
 $stmt = $db->query($sql);
 
+/*
+$result = $stmt->fetch(PDO::FETCH_BOTH);
+$result = $stmt->fetch(PDO::FETCH_OBJ);
+*/
 $result = $stmt->fetch(PDO::FETCH_ASSOC);
+
 
 
 foreach($result as $key=>$val){

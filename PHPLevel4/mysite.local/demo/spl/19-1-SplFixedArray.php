@@ -16,3 +16,5 @@ for ($i = 0; $i < 100000; ++$i)
   $array[$i] = $i;
 
 echo memory_get_usage() - $start, ' bytes';
+
+

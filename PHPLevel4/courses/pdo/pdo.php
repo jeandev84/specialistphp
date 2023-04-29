@@ -1,0 +1,5 @@
+<?php
+
+// PDO
+// PDOStatement
+// PDOException
