@@ -1,19 +1,24 @@
-<?php 
-  require "_header.php";  
-  
-  $curl = curl_init(); 
-  curl_setopt($curl, CURLOPT_URL, HOST_NAME . "upload/put.txt");
+<?php
+/*
+Отправить запрос по методу PUT
+Создавать файл put.txt в upload
+tmpfile() - создает временный файл в памяти
+*/
+require "_header.php";
 
-  $str = "Hello, world!"; 
+$curl = curl_init();
+curl_setopt($curl, CURLOPT_URL, HOST_NAME . "upload/put.txt");
 
-  $fp = tmpfile(); 
-  fwrite($fp, $str); 
-  fseek($fp, 0); 
+$str = "Hello, world!";
 
-  curl_setopt($curl, CURLOPT_PUT, true); 
-  curl_setopt($curl, CURLOPT_INFILE, $fp); 
-  curl_setopt($curl, CURLOPT_INFILESIZE, strlen($str)); 
+$fp = tmpfile();
+fwrite($fp, $str);
+fseek($fp, 0);
 
-  $result = curl_exec($curl); 
-  fclose($fp); 
-  curl_close($curl); 
+curl_setopt($curl, CURLOPT_PUT, true); // включить метод PUT
+curl_setopt($curl, CURLOPT_INFILE, $fp); // какой файл сохранить
+curl_setopt($curl, CURLOPT_INFILESIZE, strlen($str)); // указываем размер файла
+
+$result = curl_exec($curl);
+fclose($fp);
+curl_close($curl);

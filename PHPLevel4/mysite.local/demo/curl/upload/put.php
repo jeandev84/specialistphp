@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] == "PUT"){
   $dest = fopen($file, "w");
 
   if (!$dest) {
-    header("HTTP/1.1 409 Create error");
+    header("HTTP/1.1 409 Create error"); // 409 официально называет Conflict
     exit;
   }
 
@@ -23,6 +23,8 @@ if ($_SERVER['REQUEST_METHOD'] == "PUT"){
   fclose($src);
 
   if($exists)
+    // header("HTTP/1.1 202 Accepted"); запрос принял, но он ещё в обработке
+    // запрос обработан, но тело не передаю по сколько нет содержимого, отдаем только заголовки
     header("HTTP/1.1 204 No Content");
   else
     header("HTTP/1.1 201 Created"); 

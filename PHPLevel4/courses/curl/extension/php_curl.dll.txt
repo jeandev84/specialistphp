@@ -1,0 +1,28 @@
+PHP extension: php_curl.dll
+=======================================
+// Открывать соединение cURL без передачи URL как fopen()
+resource = curl_init();
+
+// Открывать соединение cURL с передачей URL как fopen()
+resource = curl_init('http://...');
+
+
+// Конфигурация cURL
+curl_setopt(resource, INT, value)
+curl_setopt(resource, КУДА, 'http://...')
+
+
+// Выполнять cURL
+curl_exec(resource);
+
+
+ЗАГОЛОВОК О ТОМ ЧТО МЕТОД ЗАПРИШЕН
+409 Method Not Allowed [ header('HTTP/1.1 409 Method Not Allowed); ]
+Allowed: GET, POST, HEAD
+
+Разрешить сервер принять метод PUT ...
+httpd.apache.org/docs/2.2/mod/core.html#limitexcept
+
+
+// Конец cURL
+curl_close(resource)
