@@ -6,11 +6,20 @@ function sayHello($name, $h){
 }
 
 // Обзор функции
-Reflection::export(new ReflectionFunction('sayHello'));
+// Reflection::export(new ReflectionFunction('sayHello'));
+var_export(new ReflectionFunction('sayHello'));
+var_export(new ReflectionFunction('strlen'));
 exit;
 
 
 // Создание экземпляра класса ReflectionFunction
+$func = new ReflectionFunction('mysqli_query');
+echo $func->getExtensionName() ."\n";
+print_r($func->getNumberOfParameters())."\n";
+print_r($func->getNumberOfRequiredParameters())."\n";
+print_r($func->getParameters()). "\n";
+
+
 $func = new ReflectionFunction('sayHello');
 // Вывод основной информации
 printf(

@@ -2,9 +2,9 @@
 <?php
 interface MyInterface{}
 
-class Object{}
+class CounterObject{}
 
-class Counter extends Object implements MyInterface{
+class Counter extends CounterObject implements MyInterface{
   const START = 0;
   private static $c = Counter::START;
 
@@ -48,10 +48,10 @@ printf("---> Методы: %s\n", var_export($class->getMethods(), 1));
 if ($class->isInstantiable()) {
     $counter = $class->newInstance();
 
-	echo '---> Создан ли экземпляр класса '.$class->getName().'? ';
+	echo '---> Переменная $counter является ли экземпляром класса '.$class->getName().'? ';
     echo $class->isInstance($counter) ? 'Да' : 'Нет';
 
-    echo "\n---> Создан ли экземпляр класса Object()? ";
+    echo '\n---> Переменная $counter является ли экземпляром класса класса Object()? ';
     echo $class->isInstance(new Object()) ? 'Да' : 'Нет';
 }
 ?>

@@ -1,5 +1,7 @@
 <?
-class Favorites{
+class Favorites
+{
+
   private $plugins = [];
 	
   function __construct(){}

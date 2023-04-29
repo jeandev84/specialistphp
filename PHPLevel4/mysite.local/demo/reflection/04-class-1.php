@@ -16,10 +16,14 @@ abstract class MyClass{
   }
 }
 // Обзор пользовательского класса
-Reflection::export(new ReflectionClass('MyClass'));
+// Reflection::export(new ReflectionClass('MyClass'));
+var_export(new ReflectionClass('MyClass'));
 exit;
 
 // Обзор встроенного класса
-Reflection::export(new ReflectionClass('Exception'));
+// Reflection::export(new ReflectionClass('Exception'));
+var_export(new ReflectionClass('Exception'));
+var_export(new ReflectionClass('SQLite3'));
+var_export(new ReflectionClass('PDO'));
 ?>
 </pre>
