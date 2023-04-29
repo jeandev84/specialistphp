@@ -1,4 +1,4 @@
-<?
+<?php
 namespace Project;
 
 class Connection{
