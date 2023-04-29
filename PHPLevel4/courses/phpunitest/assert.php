@@ -1,5 +1,7 @@
 <?php
 
+// МОДУЛНОСТЬ ТЕСТИРОВАНИЯ
+// https://www.php.net/manual/en/function.assert.php
 /*
 Function assert
 */

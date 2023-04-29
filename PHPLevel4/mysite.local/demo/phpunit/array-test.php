@@ -43,3 +43,6 @@ $arr = [];
 assertTrue(count($arr) === 0);
 
 
+$arr[] = 'element';
+assertTrue(count($arr) === 1);
+?>
