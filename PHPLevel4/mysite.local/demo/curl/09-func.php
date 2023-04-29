@@ -1,4 +1,5 @@
-<?php 
+<?php
+// Запросить cURL файл который называет "zip.php"
 require "_header.php";
 function curlHeaderCallback($curl, $headers) { 
   header($headers); 
@@ -11,8 +12,11 @@ function curlHeaderCallback($curl, $headers) {
 $str = HOST_NAME . 'zip.php'; 
 $curl = curl_init(); 
 curl_setopt($curl, CURLOPT_URL, $str); 
-curl_setopt($curl, CURLOPT_BINARYTRANSFER, 1); 
-curl_setopt($curl, CURLOPT_HEADERFUNCTION, 'curlHeaderCallback'); 
+curl_setopt($curl, CURLOPT_BINARYTRANSFER, 1);  // мы разрешаем бинарные данные
+
+// мы указываем нашу функцию обратную вызова, которая должна принимать 2 параметра ($curl + $headers)
+// данная функция должна вернуть обязательно длину заголовок
+curl_setopt($curl, CURLOPT_HEADERFUNCTION, 'curlHeaderCallback');
 
 
 curl_exec($curl); 
