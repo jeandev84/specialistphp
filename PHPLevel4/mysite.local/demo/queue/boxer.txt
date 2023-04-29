@@ -1,0 +1,7 @@
+RUS:Ivan Petrov
+USA:John Smith
+RUS:Vasya Pupkin
+RUS:Fedya Sumkin
+USA:Mike Dow
+RUS:Vova Morkovkin
+USA:John Lennon

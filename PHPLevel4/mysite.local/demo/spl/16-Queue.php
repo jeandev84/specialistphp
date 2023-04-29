@@ -1,5 +1,6 @@
 <?php
-class Queue extends SplQueue{
+class Queue extends SplQueue
+{
   protected $dataStore = [];
   
   public function enqueue($element) {
