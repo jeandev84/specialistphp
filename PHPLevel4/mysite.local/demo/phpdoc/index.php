@@ -16,6 +16,10 @@
 * @version 0.5
 * @since r6
 */
+# https://www.phpdoc.org/
+/*
+$ phpdoc -d . -t /home/yao/Desktop/phpdocs
+*/
 require_once('classes/IAccount.php');
 require_once('classes/Authentication.php');
 require_once('classes/User.php');

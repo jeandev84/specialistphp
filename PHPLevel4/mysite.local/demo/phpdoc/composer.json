@@ -1,0 +1,12 @@
+{
+   "require": {
+      "php": ">=5.3.3",
+      "phpdocumentor/phpdocumentor": "v2.0.1",
+      "phpunit/phpunit": "3.7.24"
+   },
+   "config": {
+      "allow-plugins": {
+         "phpdocumentor/unified-asset-installer": true
+      }
+   }
+}
