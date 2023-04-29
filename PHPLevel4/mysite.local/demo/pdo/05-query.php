@@ -1,5 +1,6 @@
 <?php
 
+// Выполнение простой запрос
 $db = new PDO("sqlite:users.db");
 
 $sql = "SELECT * FROM user";

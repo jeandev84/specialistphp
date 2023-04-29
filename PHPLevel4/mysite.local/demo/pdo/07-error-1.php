@@ -1,4 +1,5 @@
 <?php
+// Вывод исключение
 try {
   $db = new PDO("sqlite:users.db");
 

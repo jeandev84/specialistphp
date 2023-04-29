@@ -4,9 +4,9 @@ set_include_path(get_include_path()
 					.PATH_SEPARATOR.'application/models'
 					.PATH_SEPARATOR.'application/views');
 
-function __autoload($class){
-  require_once($class.'.php');
-}
+spl_autoload_register(function ($classname) {
+    require_once $classname.".php";
+});
 
 
 $front = FrontController::getInstance();

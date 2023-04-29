@@ -17,7 +17,7 @@ $sql = "SELECT * FROM user";
 
 $stmt = $db->query($sql);
 
-$obj = $stmt->fetchObject('Users');
+$obj = $stmt->fetchObject(Users::class);
 
 echo $obj->id.'<br>';
 echo $obj->nameToUpper().'<br>';

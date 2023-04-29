@@ -1,4 +1,5 @@
 <?php
+// Вывод ошибок на уровни WARNING
 try {
   $db = new PDO("sqlite:users.db");
 

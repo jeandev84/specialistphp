@@ -1,5 +1,6 @@
 <?php
 
+// Установление вывод как массив, объект, колоны
 $db = new PDO("sqlite:users.db");
 
 $sql = "SELECT * FROM user";

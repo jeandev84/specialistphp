@@ -17,7 +17,7 @@ class Users{
 
   $stmt = $db->query($sql);
 
-  $obj = $stmt->fetchALL(PDO::FETCH_CLASS, 'Users');
+  $obj = $stmt->fetchALL(PDO::FETCH_CLASS, Users::class);
 
   foreach($obj as $user){
     echo $user->nameToUpper().'<br>';

@@ -1,5 +1,6 @@
 <?php
 
+// FETCH_LAZY используется, чтобы обратиться к массиву как объект
 $db = new PDO("sqlite:users.db");
 
 $sql = "SELECT * FROM user";

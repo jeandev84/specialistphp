@@ -1,5 +1,6 @@
 <?php
 
+// Получить результат как объект
 $db = new PDO("sqlite:users.db");
 
 $sql = "SELECT * FROM user";

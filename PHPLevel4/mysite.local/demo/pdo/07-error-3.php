@@ -1,4 +1,5 @@
 <?php
+// Выдает обычный Exception
 try {
   $db = new PDO("sqlite:users.db");
 
