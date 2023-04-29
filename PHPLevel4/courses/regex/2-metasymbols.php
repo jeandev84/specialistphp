@@ -138,13 +138,95 @@ x:
 '/A B C/'  - $matches
 '/A B C/x' - $matches[0]  => ABC
 
-D:
+D: это как $ только учитывает ($) + (\n)
 Что и $, если строка не заканчивается\n
 "ABC\n"
 '/BC$/' - $matches[0] => BC
 '/BC$/D'
 
-e:
+e: ОЧЕНЬ ОПАСНЫЙ ДЛЯ preg_replace()
 Только для preg_replace()
+
+
+U:
+Ленивость по-умолчанию
+'/<a.*?>(.*?)</a>/' = '/<a.*>(.*)</a>/U'
+
+u:
+Включает режим кодировки символов UTF-8.
+Мета-символ <<.>> может соответствовать многосайтовым символам
 */
+
+
+/* Функции поиска */
+/*
+PREG_MATCH смотреть только одну строку.
+int: preg_match(string $pattern, string $subject, [, array &$matches[, int $flags [, int $offset]]])
+*/
+
+$subject = "abcdef";
+$pattern = '/^def/';
+
+preg_match($pattern, $subject, $matches, PREG_OFFSET_CAPTURE, 3);
+// []
+
+preg_match($pattern, substr($subject, 3), $matches, PREG_OFFSET_CAPTURE);
+// [0 => [0 => def, 1 => 0]]
+
+
+
+/*
+Поиск множественных совпадений
+Находить вхождения
+int: preg_match_all(string $pattern, string $subject, [, array &$matches[, int $flags [, int $offset]]])
+*/
+
+$pattern = "|<[^>]+>(.*)</[^>]+>|U";
+$subject = "<b>example: </b><div align=left>this is a test</div>";
+
+preg_match_all($pattern, $subject, $out, PREG_PATTERN_ORDER);
+
+echo $out[0][0]. ", ". $out[0][1]. "\n";
+echo $out[1][0]. ", ". $out[1][1]. "\n";
+
+/*
+<b>example</b>, <div align=left>this is a test</div>
+example:, this is a test
+PREG_SET_ORDER
+<b>example</b>, example"
+<div align="left">this is a test</div>, this is a test
+*/
+
+
+/* Функции замены */
+/*
+mixed: preg_replace(mixed $pattern, mixed $replacement, mixed $subject);
+*/
+
+// $1 : April 15 $2 : 15  2003 $3 : 2003
+// экранирование "$1" из-за двойных кавычки, как обычно, экранируем переменные в PHP
+// можно использовать одиначную кавычку тогда не нужно экранировать
+$subject = "April 15, 2003";
+$pattern = "/(\w+) (\d+), (\d+)/i";
+$replacement = "\${1}1,\$3"; // или $replacement = '$11, $3';
+echo preg_replace($pattern, $replacement, $subject); // April1, 2003
+
+$html_body = '<!DOCTYPE html><html></html>';
+preg_replace('/(<\/?)(\w+)([^>]*>)/e', "'$1'. strtoupper('$2').'$3'", $html_body);
+
+
+/*
+Разбивка на части:
+array preg_split(string $pattern, string $subject [, int $limit [, int $flags])
+*/
+
+$keywords = preg_split("/[\s,]+/", "hypertext language, programming");
+
+
+$str = 'string';
+$chars = preg_split('//', $str, -1, PREG_SPLIT_NO_EMPTY);
+
+$str = 'hypertext language, programming';
+$chars = preg_split('/ /', $str, -1, PREG_SPLIT_OFFSET_CAPTURE);
+
 
