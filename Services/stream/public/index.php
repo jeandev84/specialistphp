@@ -67,9 +67,17 @@ interface StreamReader
      public function stream_close(): bool;
 }
 
+interface StreamSizeable {
+    /**
+     *  Позволяет использовать "filesize"
+     *
+     * @param string $path
+     * @return array
+    */
+   public function url_stat(string $path): array;
+}
 
-
-class StreamTranslit implements StreamReader
+class StreamTranslit implements StreamReader, StreamSizeable
 {
 
      private $read_path;
@@ -87,50 +95,85 @@ class StreamTranslit implements StreamReader
 
 
 
-     public function __construct()
+    /**
+     * @param string $path
+     * @return string
+     */
+     private function make_path(string $path)
      {
-
+        return substr($path, strlen(self::SCHEME));
      }
 
 
      /**
       * @inheritDoc
      */
-    public function stream_open(string $path, string $mode): bool
-    {
-        // TODO: Implement stream_open() method.
-    }
+     public function stream_open(string $path, string $mode): bool
+     {
+         $this->read_path = $this->make_path($path);
+         $this->fp = fopen($this->read_path, $mode);
+         return true;
+     }
 
 
     /**
      * @inheritDoc
-     */
+    */
     public function stream_read(int $count): string
     {
-        // TODO: Implement stream_read() method.
+         $input  = strtolower(fread($this->fp, $count));
+         $len    = strlen($input);
+         $output = '';
+
+         for ($i = 0; $i < $len; ++$i) {
+             if (isset(self::DICT[$input[$i]])) {
+                 $output .= self::DICT[$input[$i]];
+             } else {
+                 $output .= $input[$i];
+             }
+         }
+
+         return $output;
     }
+
+
 
     /**
      * @inheritDoc
      */
     public function stream_eof(): bool
     {
-        // TODO: Implement stream_eof() method.
+        return feof($this->fp);
     }
+
+
+
 
     /**
      * @inheritDoc
      */
     public function stream_close(): bool
     {
-        // TODO: Implement stream_close() method.
+        return fclose($this->fp);
+    }
+
+    /**
+     * @inheritDoc
+    */
+    public function url_stat(string $path): array
+    {
+         return stat($this->make_path($path));
     }
 }
 
 
+// Зарегистрировать наш StreamTranslit
+stream_wrapper_register('translit', StreamTranslit::class);
 
 
-$fp = fopen('translit://text.txt', 'r');
-while(!feof());
-fread($fp, 1024);
+
+// Запускаем наш скрипт
+$filename = 'translit://text.txt';
+$fp = fopen($filename, 'r');
+echo fread($fp, filesize($filename)) ."\n";
 fclose($fp);
