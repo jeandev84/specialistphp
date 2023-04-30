@@ -1,5 +1,6 @@
 <?php
 
+// https://www.php.net/manual/en/class.streamwrapper.php
 interface StreamReader
 {
      /**
@@ -77,7 +78,14 @@ interface StreamSizeable {
    public function url_stat(string $path): array;
 }
 
-class StreamTranslit implements StreamReader, StreamSizeable
+
+interface StreamReadable
+{
+     public function stream_stat(): array;
+}
+
+
+class StreamTranslit implements StreamReader, StreamSizeable, StreamReadable
 {
 
      private $read_path;
@@ -164,6 +172,11 @@ class StreamTranslit implements StreamReader, StreamSizeable
     {
          return stat($this->make_path($path));
     }
+
+    public function stream_stat(): array
+    {
+        return fstat($this->fp);
+    }
 }
 
 
@@ -174,6 +187,12 @@ stream_wrapper_register('translit', StreamTranslit::class);
 
 // Запускаем наш скрипт
 $filename = 'translit://text.txt';
+
+
 $fp = fopen($filename, 'r');
 echo fread($fp, filesize($filename)) ."\n";
 fclose($fp);
+
+
+// echo file_get_contents($filename);
+//  print_r(file($filename));
